@@ -1,0 +1,76 @@
+name: Generate SEO Articles
+
+on:
+  schedule:
+    - cron: '0 9 * * *'     # 1 artículo de calidad
+    - cron: '0 17 * * *'     # 2º artículo
+  workflow_dispatch:
+    inputs:
+      count:
+        description: 'Número de artículos a generar'
+        required: false
+        default: '1'
+        type: choice
+        options: ['1', '2', '3', '5']
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+          cache-dependency-path: scripts/requirements.txt
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Determine article count
+        id: config
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "count=${{ github.event.inputs.count }}" >> $GITHUB_OUTPUT
+          else
+            echo "count=1" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Generate articles
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GH_MODELS_TOKEN }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+        run: |
+          for i in $(seq 1 ${{ steps.config.outputs.count }}); do
+            echo "--- Generando artículo $i ---"
+            python scripts/generate_article.py
+            if [ $i -lt ${{ steps.config.outputs.count }} ]; then
+              sleep 30
+            fi
+          done
+
+      - name: Commit and push
+        run: |
+          git config user.name "Vidasana360 Bot"
+          git config user.email "vladys.z96@gmail.com"
+          git add src/content/blog/
+          if git diff --staged --quiet; then
+            echo "No new articles to commit"
+          else
+            ARTICLE_COUNT=$(git diff --staged --name-only | wc -l | tr -d ' ')
+            git commit -m "articulo: auto-generated $(date +%Y-%m-%d) ($ARTICLE_COUNT new)"
+            git push
+          fi
