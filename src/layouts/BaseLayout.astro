@@ -65,6 +65,21 @@ const resolvedCanonical = canonicalUrl ?? Astro.url.href;
 
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="CatBrothers" href="/rss.xml" />
+
+  <!-- Schema.org WebSite -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "CatBrothers",
+    "url": "https://catbrothers.uk",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://catbrothers.uk/blog?q={search_term_string}",
+      "query-input": "required name=search_term_string"
+    }
+  }
+  </script>
 </head>
 <body>
   <Header />
