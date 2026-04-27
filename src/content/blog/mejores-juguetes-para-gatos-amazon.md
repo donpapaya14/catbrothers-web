@@ -25,7 +25,7 @@ El clasico que nunca falla. Las varitas con plumas simulan el movimiento de una 
 
 **Precio:** 8-15 EUR
 
-[AMAZON:varita plumas gatos interactiva]
+[varita plumas gatos interactiva en Amazon](https://www.amazon.es/s?k=varita+plumas+gatos+interactiva&tag=vladys-21)
 
 ## 2. Circuito de bolas con rascador
 
@@ -35,7 +35,7 @@ Combina estimulacion visual (bola girando) con rascado. Dos necesidades en uno.
 
 **Precio:** 15-25 EUR
 
-[AMAZON:circuito bolas gatos rascador]
+[circuito bolas gatos rascador en Amazon](https://www.amazon.es/s?k=circuito+bolas+gatos+rascador&tag=vladys-21)
 
 ## 3. Puntero laser para gatos
 
@@ -45,7 +45,7 @@ Activa el instinto de persecucion como ningún otro juguete. Los gatos pueden sa
 
 **Precio:** 5-12 EUR
 
-[AMAZON:puntero laser gatos]
+[puntero laser gatos en Amazon](https://www.amazon.es/s?k=puntero+laser+gatos&tag=vladys-21)
 
 ## 4. Raton electrico automatico
 
@@ -53,7 +53,7 @@ Se mueve solo de forma aleatoria. Perfecto cuando no puedes jugar con tu gato.
 
 **Precio:** 10-20 EUR
 
-[AMAZON:raton electrico gatos automatico]
+[raton electrico gatos automatico en Amazon](https://www.amazon.es/s?k=raton+electrico+gatos+automatico&tag=vladys-21)
 
 ## 5. Tunel plegable
 
@@ -61,7 +61,7 @@ Los gatos aman esconderse y emboscar. Un tunel les da ese espacio.
 
 **Precio:** 10-18 EUR
 
-[AMAZON:tunel plegable gatos]
+[tunel plegable gatos en Amazon](https://www.amazon.es/s?k=tunel+plegable+gatos&tag=vladys-21)
 
 ## Preguntas frecuentes
 
