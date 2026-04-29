@@ -42,3 +42,56 @@ ARTICLE_FORMULAS = {
         "Mejores transportines para gatos: comparativa con medidas, materiales y enlaces de compra",
     ],
 }
+
+
+def get_existing_titles() -> set[str]:
+    """Lee títulos de artículos existentes del frontmatter."""
+    titles = set()
+    if not BLOG_DIR.exists():
+        return titles
+    for md_file in BLOG_DIR.glob("*.md"):
+        content = md_file.read_text(encoding="utf-8")
+        match = re.search(r'^title:\s*["\']?(.+?)["\']?\s*$', content, re.MULTILINE)
+        if match:
+            titles.add(match.group(1).lower().strip())
+    return titles
+
+
+def get_category_counts() -> dict[str, int]:
+    """Cuenta artículos por categoría."""
+    counts = {cat: 0 for cat in CATEGORIES}
+    if not BLOG_DIR.exists():
+        return counts
+    for md_file in BLOG_DIR.glob("*.md"):
+        content = md_file.read_text(encoding="utf-8")
+        match = re.search(r'^category:\s*["\']?([^"\'\n]+)["\']?\s*$', content, re.MULTILINE)
+        if match and match.group(1).strip() in counts:
+            counts[match.group(1).strip()] += 1
+    return counts
+
+
+def pick_category() -> str:
+    """Elige categoría con menos artículos."""
+    counts = get_category_counts()
+    min_count = min(counts.values())
+    least_covered = [cat for cat, count in counts.items() if count == min_count]
+    return random.choice(least_covered)
+
+
+def pick_formula(category: str) -> str:
+    """Elige fórmula aleatoria para la categoría."""
+    formulas = ARTICLE_FORMULAS.get(category, list(ARTICLE_FORMULAS.values())[0])
+    return random.choice(formulas)
+
+
+def plan_topic() -> dict:
+    """Devuelve categoría y fórmula para el próximo artículo."""
+    category = pick_category()
+    formula = pick_formula(category)
+    existing = get_existing_titles()
+    return {
+        "category": category,
+        "formula": formula,
+        "existing_titles": list(existing)[:20],
+        "existing_count": len(existing),
+    }
