@@ -5,7 +5,7 @@ import mdx from '@astrojs/mdx';
 import vercel from '@astrojs/vercel';
 
 export default defineConfig({
-  site: 'https://vidasana360.vercel.app',
+  site: 'https://catbrothers.uk',
   output: 'static',
   integrations: [
     sitemap({
