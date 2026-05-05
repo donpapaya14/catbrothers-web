@@ -34,7 +34,7 @@ CATEGORY_NAMES = {
     "entertainment": "Cat Fun Facts",
 }
 
-AMAZON_TAG = os.getenv("AMAZON_TAG", "vladys-21")
+AMAZON_TAG = os.getenv("AMAZON_TAG", "vds96-20")
 SITE_URL = os.getenv("SITE_URL", "https://catbrothers-web.vercel.app")
 BRAND = os.getenv("BRAND", "CatBrothers")
 
