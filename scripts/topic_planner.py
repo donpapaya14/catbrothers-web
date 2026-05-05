@@ -1,51 +1,59 @@
 """
-Planifica temas evitando duplicados y rotando categorías.
-Lee artículos existentes en src/content/blog/ para evitar repetir.
+Plans topics avoiding duplicates and rotating categories.
+Reads existing articles in src/content/blog/ to avoid repetition.
 """
 
-import os
 import random
 import re
 from pathlib import Path
 
 BLOG_DIR = Path(__file__).parent.parent / "src" / "content" / "blog"
 
-CATEGORIES = ["salud-felina", "alimentacion", "juguetes", "comportamiento", "productos"]
+CATEGORIES = ["cat-health", "nutrition", "behavior", "products", "entertainment"]
 
 ARTICLE_FORMULAS = {
-    "salud-felina": [
-        "Enfermedad común en gatos con síntomas, causas y tratamiento según veterinarios con estudio real",
-        "Vacunas esenciales para gatos: cuáles, cuándo y por qué según protocolos veterinarios actualizados",
-        "Señales de que tu gato está enfermo que la mayoría ignora, con datos de estudios veterinarios",
-        "Cuidados dentales para gatos: guía completa con recomendaciones de la AVMA",
+    "cat-health": [
+        "Common cat disease with symptoms, causes and treatment according to veterinary studies",
+        "Essential vaccines for cats: which ones, when and why according to AVMA protocols",
+        "Cat health warning signs most owners miss, with data from veterinary studies",
+        "Dental care for cats: complete guide with AVMA recommendations",
+        "Cat age and lifespan: what affects how long cats live with real research data",
+        "Signs your cat is in pain: subtle signals and what vets recommend",
     ],
-    "alimentacion": [
-        "Comparativa de marcas de comida para gatos con análisis nutricional REAL (proteínas, cenizas, ingredientes)",
-        "Alimentos tóxicos para gatos: lista completa con nivel de toxicidad según ASPCA",
-        "Dieta húmeda vs seca para gatos: qué dice la ciencia veterinaria con estudios reales",
-        "Mejor alimentación para gatos esterilizados según necesidades calóricas reales",
+    "nutrition": [
+        "Cat food brand comparison with REAL nutritional analysis (protein, ash, ingredients)",
+        "Foods toxic to cats: complete list with toxicity level according to ASPCA",
+        "Wet vs dry food for cats: what veterinary science says with real studies",
+        "Best diet for sterilized cats according to real caloric needs",
+        "Reading cat food labels: what every ingredient means and what to avoid",
+        "Raw diet for cats: evidence, risks and vet consensus explained",
     ],
-    "juguetes": [
-        "Los mejores juguetes interactivos para gatos: nombres reales, precios, dónde comprar y por qué funcionan",
-        "Juguetes caseros para gatos: 5 ideas con materiales de casa y explicación de por qué estimulan",
-        "Rascadores para gatos: tipos, materiales y cuál elegir según tamaño y comportamiento del gato",
+    "behavior": [
+        "Why cats do X (specific behavior): scientific explanation of feline behavior",
+        "How to socialize cats that don't get along: techniques with concrete steps",
+        "Cat body language guide: what tail, ears, pupils and postures actually mean",
+        "Stress in cats: causes, signs and solutions backed by feline ethology",
+        "Why cats knock things off tables: real science behind this behavior",
+        "Cat kneading behavior explained: evolutionary and emotional reasons",
     ],
-    "comportamiento": [
-        "Por qué tu gato hace X (comportamiento específico): explicación científica del comportamiento felino",
-        "Cómo socializar gatos que no se llevan bien: técnicas de Jackson Galaxy con pasos concretos",
-        "Lenguaje corporal de los gatos: guía visual de lo que significan cola, orejas, pupilas y posturas",
-        "Estrés en gatos: causas, señales y soluciones respaldadas por etología felina",
+    "products": [
+        "Review of specific Amazon cat product with pros, cons and comparison to alternatives",
+        "Best litter boxes for cats: real comparison with prices and real usage experience",
+        "Best cat carriers: comparison with dimensions, materials and purchase links",
+        "Interactive cat toys that actually work: science of feline play explained",
+        "Cat water fountains: why cats prefer running water and best options reviewed",
     ],
-    "productos": [
-        "Review de producto específico para gatos de Amazon con pros, contras y comparativa con alternativas",
-        "Los 5 mejores areneros para gatos: comparativa real con precios y experiencia de uso",
-        "Mejores transportines para gatos: comparativa con medidas, materiales y enlaces de compra",
+    "entertainment": [
+        "Famous cat from history with verified story and real facts (Félicette, Unsinkable Sam, etc.)",
+        "Surprising cat fact backed by science that most people don't know",
+        "Cat world record or extreme fact with verified source",
+        "Cat vs human senses comparison: specific numbers for vision, hearing and smell",
+        "Domestic cats vs wild cats: specific behavioral difference with evolutionary reason",
     ],
 }
 
 
 def get_existing_titles() -> set[str]:
-    """Lee títulos de artículos existentes del frontmatter."""
     titles = set()
     if not BLOG_DIR.exists():
         return titles
@@ -58,7 +66,6 @@ def get_existing_titles() -> set[str]:
 
 
 def get_category_counts() -> dict[str, int]:
-    """Cuenta artículos por categoría."""
     counts = {cat: 0 for cat in CATEGORIES}
     if not BLOG_DIR.exists():
         return counts
@@ -71,7 +78,6 @@ def get_category_counts() -> dict[str, int]:
 
 
 def pick_category() -> str:
-    """Elige categoría con menos artículos."""
     counts = get_category_counts()
     min_count = min(counts.values())
     least_covered = [cat for cat, count in counts.items() if count == min_count]
@@ -79,13 +85,11 @@ def pick_category() -> str:
 
 
 def pick_formula(category: str) -> str:
-    """Elige fórmula aleatoria para la categoría."""
     formulas = ARTICLE_FORMULAS.get(category, list(ARTICLE_FORMULAS.values())[0])
     return random.choice(formulas)
 
 
 def plan_topic() -> dict:
-    """Devuelve categoría y fórmula para el próximo artículo."""
     category = pick_category()
     formula = pick_formula(category)
     existing = get_existing_titles()
