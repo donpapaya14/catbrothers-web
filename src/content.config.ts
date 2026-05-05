@@ -8,7 +8,7 @@ const blog = defineCollection({
     description: z.string().max(250),
     pubDate: z.coerce.date(),
     updatedDate: z.coerce.date().optional(),
-    category: z.enum(['salud-felina', 'alimentacion', 'juguetes', 'comportamiento', 'productos']),
+    category: z.enum(['cat-health', 'nutrition', 'behavior', 'products', 'entertainment']),
     tags: z.array(z.string()),
     author: z.string().default('CatBrothers'),
     image: z.string().optional(),
