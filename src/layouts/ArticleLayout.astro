@@ -33,6 +33,9 @@ const {
   author = 'CatBrothers', image, imageAlt, readingTime,
   sources, youtubeRelated, slug
 } = Astro.props;
+
+const siteUrl = Astro.site?.toString().replace(/\/$/, '') ?? 'https://catbrothers.uk';
+const canonicalUrl = `${siteUrl}/blog/${slug}`;
 ---
 
 <BaseLayout
@@ -40,6 +43,7 @@ const {
   description={description}
   ogImage={image}
   ogType="article"
+  canonicalUrl={canonicalUrl}
 >
   <ArticleSchema
     title={title}
