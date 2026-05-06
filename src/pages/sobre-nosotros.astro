@@ -2,32 +2,37 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 ---
 
-<BaseLayout title="Sobre nosotros" description="CatBrothers: salud y bienestar basados en evidencia cientifica. Conoce nuestra mision.">
+<BaseLayout title="About CatBrothers" description="CatBrothers: cat science and health backed by veterinary research. Meet the author.">
   <section class="about">
     <div class="container about__inner">
-      <h1>Sobre CatBrothers</h1>
+      <h1>About CatBrothers</h1>
 
-      <p class="about__lead">
-        Creemos que las decisiones de salud deben basarse en ciencia, no en modas.
-      </p>
+      <div class="about-author">
+        <h2>Vladys Z.</h2>
+        <p class="author-subtitle">App Developer · Professional Chef · Cat Science Enthusiast</p>
+      </div>
 
-      <h2>Nuestra mision</h2>
-      <p>CatBrothers nacio con un objetivo claro: hacer accesible la informacion de salud respaldada por evidencia cientifica. Cada articulo que publicamos incluye referencias a estudios reales, publicados en revistas cientificas reconocidas.</p>
+      <p>I'm Vladys — cat dad, app developer, and professional chef. CatBrothers combines two of my passions: cats and digging into the science behind why they do what they do.</p>
 
-      <h2>Como trabajamos</h2>
-      <p>Investigamos temas de salud, nutricion, ejercicio y bienestar. Consultamos estudios publicados en revistas como The New England Journal of Medicine, JAMA, The Lancet, y publicaciones de instituciones como Harvard, Oxford y la OMS. Cada afirmacion va acompanada de su fuente.</p>
+      <p>As a chef, I'm obsessed with cat nutrition — what's really in their food and what they actually need. As a developer, I love analyzing the research papers behind feline behavior.</p>
 
-      <h2>Lo que NO somos</h2>
-      <p>No somos medicos ni profesionales sanitarios. Nuestro contenido es informativo y educativo. Siempre recomendamos consultar con un profesional de la salud antes de tomar decisiones medicas.</p>
+      <p><strong>CatBrothers</strong> exists because most cat content online is myths and clickbait. Here, every fact is backed by veterinary science and peer-reviewed studies.</p>
 
-      <h2>Donde encontrarnos</h2>
+      <h2>Why This Blog?</h2>
+      <p>I started CatBrothers after spending hours reading veterinary journals to understand my own cats' health issues. I realized this information should be accessible to every cat owner — not buried in paywalled academic papers. Every article cites real studies, names specific institutions, and gives you practical advice you can use today.</p>
+
+      <h2>My Promise</h2>
       <ul>
-        <li><a href="https://youtube.com/@CatBrothers" target="_blank" rel="noopener">YouTube</a> — Tips de salud en 60 segundos</li>
-        <li><a href="/newsletter">Newsletter</a> — Lo mejor de la semana, cada domingo</li>
-        <li><a href="/rss.xml">RSS</a> — Para lectores de feeds</li>
+        <li><strong>Real science</strong> — Every claim comes with a source: veterinary studies, institutions, verified data</li>
+        <li><strong>Zero products to sell</strong> — I don't promote expensive gadgets or affiliate-pushed products</li>
+        <li><strong>Personal experience</strong> — I share what I've learned as a cat owner and nutrition-obsessed chef</li>
+        <li><strong>Free forever</strong> — All knowledge is free and accessible</li>
       </ul>
 
-      <h2>Contacto</h2>
+      <h2>Also on YouTube</h2>
+      <p>I post daily cat science tips on <a href="https://youtube.com/@CATBROTHERS2" target="_blank" rel="noopener">@CATBROTHERS2</a> — quick, evidence-based content about cat health and behavior.</p>
+
+      <h2>Contact</h2>
       <p>vladys.z96@gmail.com</p>
     </div>
   </section>
@@ -42,6 +47,8 @@ import BaseLayout from '../layouts/BaseLayout.astro';
     margin-bottom: 2rem;
     line-height: 1.7;
   }
+  .about-author { margin-bottom: 2rem; }
+  .author-subtitle { font-size: 1.1rem; color: var(--color-text-light); margin-top: 0.25rem; }
   .about h2 { margin-top: 2rem; margin-bottom: 0.75rem; }
   .about p { margin-bottom: 1rem; color: var(--color-text-light); line-height: 1.7; }
   .about ul { padding-left: 1.5rem; margin-bottom: 1rem; }
