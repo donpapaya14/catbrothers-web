@@ -1,16 +1,16 @@
 ---
 const year = new Date().getFullYear();
 const categories = [
-  { href: '/categoria/nutricion', label: 'Nutricion' },
-  { href: '/categoria/ejercicio', label: 'Ejercicio' },
-  { href: '/categoria/mente', label: 'Mente' },
-  { href: '/categoria/longevidad', label: 'Longevidad' },
-  { href: '/categoria/recetas', label: 'Recetas' },
+  { href: '/categoria/cat-health', label: 'Cat Health' },
+  { href: '/categoria/nutrition', label: 'Nutrition' },
+  { href: '/categoria/behavior', label: 'Behavior' },
+  { href: '/categoria/products', label: 'Products' },
+  { href: '/categoria/entertainment', label: 'Fun Facts' },
 ];
 const legal = [
-  { href: '/aviso-legal', label: 'Aviso legal' },
-  { href: '/politica-privacidad', label: 'Politica de privacidad' },
-  { href: '/politica-cookies', label: 'Politica de cookies' },
+  { href: '/legal-notice', label: 'Legal Notice' },
+  { href: '/privacy-policy', label: 'Privacy Policy' },
+  { href: '/cookie-policy', label: 'Cookie Policy' },
 ];
 ---
 
@@ -18,11 +18,11 @@ const legal = [
   <div class="container footer__inner">
     <div class="footer__brand">
       <span class="footer__logo">&#9829; Cat<strong>Brothers</strong></span>
-      <p class="footer__tagline">Todo sobre gatos: salud, juguetes y cuidados</p>
+      <p class="footer__tagline">Everything about cats: health, toys and care</p>
     </div>
 
     <div class="footer__col">
-      <h4>Categorias</h4>
+      <h4>Categories</h4>
       <ul>
         {categories.map(c => <li><a href={c.href}>{c.label}</a></li>)}
       </ul>
@@ -36,7 +36,7 @@ const legal = [
     </div>
 
     <div class="footer__col">
-      <h4>Conecta</h4>
+      <h4>Connect</h4>
       <ul>
         <li><a href="https://youtube.com/@CATBROTHERS2" target="_blank" rel="noopener">YouTube</a></li>
                 <li><a href="/rss.xml">RSS</a></li>
@@ -44,20 +44,20 @@ const legal = [
     </div>
 
     <div class="footer__col">
-      <h4>Nuestras webs</h4>
+      <h4>Our sites</h4>
       <ul>
         <li><a href="https://vida-sana-360.com" target="_blank" rel="noopener">VidaSana360</a></li>
         <li><a href="https://saludlongevidad.org" target="_blank" rel="noopener">SaludLongevidad</a></li>
         <li><a href="https://finanzasclara.uk" target="_blank" rel="noopener">FinanzasClara</a></li>
-        <li><a href="https://espaciointeligente.org" target="_blank" rel="noopener">Espacio Inteligente</a></li>
-        <li><a href="https://cash-cafe.org" target="_blank" rel="noopener">Cash Café</a></li>
+        <li><a href="https://espaciointeligente.org" target="_blank" rel="noopener">EspacioInteligente</a></li>
+        <li><a href="https://cash-cafe.org" target="_blank" rel="noopener">Cash Cafe</a></li>
       </ul>
     </div>
   </div>
 
   <div class="footer__bottom">
     <div class="container">
-      <p>&copy; {year} CatBrothers. Contenido informativo, no sustituye consejo veterinario profesional.</p>
+      <p>&copy; {year} CatBrothers. Educational content, not professional veterinary advice.</p>
     </div>
   </div>
 </footer>

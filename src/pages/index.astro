@@ -13,18 +13,17 @@ const latestPosts = allPosts
 const categories = Object.entries(CATEGORIES) as [Category, (typeof CATEGORIES)[Category]][];
 ---
 
-<BaseLayout title="CatBrothers" description="Guia completa para cuidar a tu gato. Alimentacion, salud, juguetes y comportamiento felino.">
+<BaseLayout title="CatBrothers" description="Complete guide to caring for your cat. Nutrition, health, toys and feline behavior.">
   <!-- Hero -->
   <section class="hero">
     <div class="container hero__inner">
-      <h1 class="hero__title">Todo sobre gatos <span>salud, juguetes y más</span></h1>
+      <h1 class="hero__title">Everything about cats <span>health, toys and more</span></h1>
       <p class="hero__subtitle">
-        Consejos practicos de nutricion, ejercicio y bienestar respaldados por estudios reales.
-        Sin mitos, sin modas, solo evidencia.
+        Practical advice on nutrition, behavior and care, backed by vet-reviewed sources.
+        No myths, no fads — just evidence.
       </p>
       <div class="hero__actions">
-        <a href="/blog" class="btn btn--primary">Ver articulos</a>
-        <a href="/newsletter" class="btn btn--outline">Suscribirme</a>
+        <a href="/blog" class="btn btn--primary">Read articles</a>
       </div>
     </div>
   </section>
@@ -33,8 +32,8 @@ const categories = Object.entries(CATEGORIES) as [Category, (typeof CATEGORIES)[
   <section class="section">
     <div class="container">
       <div class="section__header">
-        <h2>Ultimos articulos</h2>
-        <a href="/blog" class="section__link">Ver todos &rarr;</a>
+        <h2>Latest articles</h2>
+        <a href="/blog" class="section__link">See all &rarr;</a>
       </div>
       <div class="articles-grid">
         {latestPosts.map(post => (
@@ -55,7 +54,7 @@ const categories = Object.entries(CATEGORIES) as [Category, (typeof CATEGORIES)[
   <!-- Categories -->
   <section class="section section--alt">
     <div class="container">
-      <h2 class="section__heading-center">Explora por categoria</h2>
+      <h2 class="section__heading-center">Explore by category</h2>
       <div class="categories-grid">
         {categories.map(([key, cat]) => (
           <a href={`/categoria/${key}`} class={`cat-card cat-card--${key}`}>
@@ -66,14 +65,14 @@ const categories = Object.entries(CATEGORIES) as [Category, (typeof CATEGORIES)[
       </div>
     </div>
   </section>
-  
+
 
   <!-- YouTube CTA -->
   <section class="section">
     <div class="container yt-section">
       <div class="yt-section__text">
-        <h2>Tambien en YouTube</h2>
-        <p>Tips de salud en 60 segundos. Shorts diarios con datos reales.</p>
+        <h2>Also on YouTube</h2>
+        <p>Cat tips in 60 seconds. Daily shorts with vet-reviewed sources.</p>
         <a href="https://youtube.com/@CATBROTHERS2" target="_blank" rel="noopener" class="btn btn--outline">
           Visit channel
         </a>
@@ -157,11 +156,11 @@ const categories = Object.entries(CATEGORIES) as [Category, (typeof CATEGORIES)[
   }
   .cat-card h3 { font-size: 1.125rem; margin-bottom: 0.5rem; color: white; }
   .cat-card p { font-size: 0.8125rem; opacity: 0.9; }
-  .cat-card--nutricion { background: #2E7D32; }
-  .cat-card--ejercicio { background: #E65100; }
-  .cat-card--mente { background: #6A1B9A; }
-  .cat-card--longevidad { background: #00838F; }
-  .cat-card--recetas { background: #AD1457; }
+  .cat-card--nutrition { background: #2E7D32; }
+  .cat-card--cat-health { background: #E65100; }
+  .cat-card--behavior { background: #6A1B9A; }
+  .cat-card--products { background: #00838F; }
+  .cat-card--entertainment { background: #AD1457; }
   .newsletter-hero {
     background: linear-gradient(135deg, var(--color-primary) 0%, var(--color-primary-dark) 100%);
     color: white;

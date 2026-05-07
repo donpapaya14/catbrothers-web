@@ -8,7 +8,7 @@ export async function GET(context: APIContext) {
 
   return rss({
     title: 'CatBrothers',
-    description: 'Salud, bienestar y nutricion basados en ciencia.',
+    description: 'Complete guide to caring for your cat. Nutrition, health, toys and feline behavior.',
     site: context.site!.toString(),
     items: sorted.map(post => ({
       title: post.data.title,
