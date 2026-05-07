@@ -13,17 +13,41 @@ const latestPosts = allPosts
 const categories = Object.entries(CATEGORIES) as [Category, (typeof CATEGORIES)[Category]][];
 ---
 
-<BaseLayout title="CatBrothers" description="Complete guide to caring for your cat. Nutrition, health, toys and feline behavior.">
+<BaseLayout title="CatBrothers" description="Editorial cat magazine. Vet-reviewed cat health, nutrition, behavior and fun facts — no myths, no clickbait.">
   <!-- Hero -->
   <section class="hero">
-    <div class="container hero__inner">
-      <h1 class="hero__title">Everything about cats <span>health, toys and more</span></h1>
-      <p class="hero__subtitle">
-        Practical advice on nutrition, behavior and care, backed by vet-reviewed sources.
-        No myths, no fads — just evidence.
-      </p>
-      <div class="hero__actions">
-        <a href="/blog" class="btn btn--primary">Read articles</a>
+    <div class="hero__media" aria-hidden="true">
+      <img
+        src="https://images.pexels.com/photos/1741205/pexels-photo-1741205.jpeg?auto=compress&cs=tinysrgb&w=1600"
+        alt=""
+        loading="eager"
+        decoding="async"
+      />
+    </div>
+    <div class="container hero__inner hero-grid">
+      <div class="hero-text">
+        <div class="eyebrow">An editorial cat magazine</div>
+        <h1 class="display hero__title">
+          Cats,<br />
+          <em>seriously loved</em>
+        </h1>
+        <p class="lede hero__subtitle">
+          Vet-reviewed health, honest nutrition guides, and behavior science that actually
+          works at home. No myths, no clickbait — just what makes your cat thrive.
+        </p>
+        <div class="hero__actions">
+          <a href="/blog" class="btn-primary">Read articles &rarr;</a>
+          <a href="#categories" class="btn-ghost">Explore categories</a>
+        </div>
+
+        <div class="pop-chips" aria-label="Popular topics">
+          <span class="pop-chips-label">Popular</span>
+          <a href="/categoria/cat-health" class="pop-chip">Cat health</a>
+          <a href="/categoria/nutrition" class="pop-chip">Nutrition</a>
+          <a href="/categoria/behavior" class="pop-chip">Behavior</a>
+          <a href="/categoria/entertainment" class="pop-chip">Fun facts</a>
+          <a href="/categoria/products" class="pop-chip">Toys &amp; gear</a>
+        </div>
       </div>
     </div>
   </section>
@@ -32,7 +56,10 @@ const categories = Object.entries(CATEGORIES) as [Category, (typeof CATEGORIES)[
   <section class="section">
     <div class="container">
       <div class="section__header">
-        <h2>Latest articles</h2>
+        <div>
+          <div class="eyebrow">Recent</div>
+          <h2 class="section-title">Latest articles</h2>
+        </div>
         <a href="/blog" class="section__link">See all &rarr;</a>
       </div>
       <div class="articles-grid">
@@ -52,9 +79,12 @@ const categories = Object.entries(CATEGORIES) as [Category, (typeof CATEGORIES)[
   </section>
 
   <!-- Categories -->
-  <section class="section section--alt">
+  <section id="categories" class="section section--alt">
     <div class="container">
-      <h2 class="section__heading-center">Explore by category</h2>
+      <div style="text-align:center;margin-bottom:36px">
+        <div class="eyebrow" style="justify-content:center">Explore</div>
+        <h2 class="section-title">By category</h2>
+      </div>
       <div class="categories-grid">
         {categories.map(([key, cat]) => (
           <a href={`/categoria/${key}`} class={`cat-card cat-card--${key}`}>
@@ -66,15 +96,45 @@ const categories = Object.entries(CATEGORIES) as [Category, (typeof CATEGORIES)[
     </div>
   </section>
 
+  <!-- Cat Facts (dark stats) -->
+  <section class="section section--dark">
+    <div class="container">
+      <div style="text-align:center;margin-bottom:32px">
+        <div class="eyebrow" style="justify-content:center">Cat facts</div>
+        <h2 class="section-title">Things you probably <em class="script-accent">didn't know</em></h2>
+      </div>
+      <div class="fact-stats">
+        <div class="fact-stat">
+          <span class="fact-stat__num">70%</span>
+          <span class="fact-stat__label">of a cat's life is spent sleeping or resting</span>
+        </div>
+        <div class="fact-stat">
+          <span class="fact-stat__num">32</span>
+          <span class="fact-stat__label">muscles in each cat ear, allowing 180&deg; rotation</span>
+        </div>
+        <div class="fact-stat">
+          <span class="fact-stat__num">100+</span>
+          <span class="fact-stat__label">distinct vocal sounds in a domestic cat's repertoire</span>
+        </div>
+        <div class="fact-stat">
+          <span class="fact-stat__num">5x</span>
+          <span class="fact-stat__label">better low-light vision than humans</span>
+        </div>
+      </div>
+    </div>
+  </section>
 
   <!-- YouTube CTA -->
   <section class="section">
-    <div class="container yt-section">
-      <div class="yt-section__text">
-        <h2>Also on YouTube</h2>
-        <p>Cat tips in 60 seconds. Daily shorts with vet-reviewed sources.</p>
-        <a href="https://youtube.com/@CATBROTHERS2" target="_blank" rel="noopener" class="btn btn--outline">
-          Visit channel
+    <div class="container yt-cta">
+      <div class="yt-cta__inner">
+        <div class="eyebrow" style="justify-content:center">Also on YouTube</div>
+        <h2 class="section-title">Cat tips in <em>60 seconds</em></h2>
+        <p class="lede" style="margin:14px auto 24px;max-width:520px;text-align:center">
+          Daily shorts with vet-reviewed sources. Quick, science-backed cat content.
+        </p>
+        <a href="https://youtube.com/@CATBROTHERS2" target="_blank" rel="noopener" class="btn-primary btn--lg">
+          Visit channel &rarr;
         </a>
       </div>
     </div>
@@ -82,111 +142,24 @@ const categories = Object.entries(CATEGORIES) as [Category, (typeof CATEGORIES)[
 </BaseLayout>
 
 <style>
-  .hero {
-    background: linear-gradient(135deg, #2E1A0A 0%, #3D2B1B 50%, #2E1A0A 100%);
-    color: white;
-    padding: 5rem 0 4rem;
-  }
-  .hero__inner { max-width: 700px; }
-  .hero__title {
-    font-size: 3rem;
-    font-weight: 800;
-    line-height: 1.15;
-    color: white;
-  }
-  .hero__title span { color: var(--color-primary-light); }
-  .hero__subtitle {
-    font-size: 1.125rem;
-    color: #D1D5DB;
-    margin-top: 1.25rem;
-    line-height: 1.7;
-  }
-  .hero__actions {
-    display: flex;
-    gap: 1rem;
-    margin-top: 2rem;
-  }
-  .hero .btn--outline {
-    color: white;
-    border-color: rgba(255,255,255,0.3);
-  }
-  .hero .btn--outline:hover {
-    background: rgba(255,255,255,0.1);
-    color: white;
-  }
-  .section { padding: 4rem 0; }
-  .section--alt { background: #F3F4F6; }
-  .section__header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-bottom: 2rem;
-  }
-  .section__link {
-    font-size: 0.875rem;
-    font-weight: 600;
-    color: var(--color-primary);
-  }
-  .section__heading-center {
+  .hero-text { max-width: 760px; }
+  .hero__title em { font-style: italic; color: var(--accent); }
+
+  /* Per-category accent edge */
+  .cat-card--cat-health     { box-shadow: inset 4px 0 0 var(--terracotta), var(--shadow-md); }
+  .cat-card--nutrition      { box-shadow: inset 4px 0 0 #B5651D, var(--shadow-md); }
+  .cat-card--behavior       { box-shadow: inset 4px 0 0 #6B4423, var(--shadow-md); }
+  .cat-card--products       { box-shadow: inset 4px 0 0 #8B5A2B, var(--shadow-md); }
+  .cat-card--entertainment  { box-shadow: inset 4px 0 0 var(--accent), var(--shadow-md); }
+
+  .yt-cta {
     text-align: center;
-    margin-bottom: 2rem;
   }
-  .articles-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-    gap: 1.5rem;
-  }
-  .categories-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-    gap: 1rem;
-  }
-  .cat-card {
-    display: block;
-    padding: 1.5rem;
-    border-radius: var(--radius);
-    color: white;
-    transition: transform 0.2s, box-shadow 0.2s;
-    text-decoration: none;
-  }
-  .cat-card:hover {
-    transform: translateY(-3px);
-    box-shadow: var(--shadow-lg);
-    color: white;
-  }
-  .cat-card h3 { font-size: 1.125rem; margin-bottom: 0.5rem; color: white; }
-  .cat-card p { font-size: 0.8125rem; opacity: 0.9; }
-  .cat-card--nutrition { background: #2E7D32; }
-  .cat-card--cat-health { background: #E65100; }
-  .cat-card--behavior { background: #6A1B9A; }
-  .cat-card--products { background: #00838F; }
-  .cat-card--entertainment { background: #AD1457; }
-  .newsletter-hero {
-    background: linear-gradient(135deg, var(--color-primary) 0%, var(--color-primary-dark) 100%);
-    color: white;
-  }
-  .newsletter-hero__inner { text-align: center; max-width: 550px; margin: 0 auto; }
-  .newsletter-hero h2 { color: white; font-size: 1.75rem; }
-  .newsletter-hero p { color: #FECACA; margin: 1rem 0 1.5rem; }
-  .newsletter-hero .btn--primary {
-    background: white;
-    color: var(--color-primary);
-  }
-  .newsletter-hero .btn--primary:hover { background: #FFF5F5; }
-  .btn--lg { padding: 0.875rem 2rem; font-size: 1rem; }
-  .yt-section {
-    text-align: center;
-    max-width: 550px;
-    margin: 0 auto;
-  }
-  .yt-section p {
-    color: var(--color-text-light);
-    margin: 0.75rem 0 1.5rem;
-  }
+  .yt-cta__inner { max-width: 720px; margin: 0 auto; }
+
   @media (max-width: 600px) {
-    .hero { padding: 3rem 0; }
-    .hero__title { font-size: 2rem; }
-    .hero__actions { flex-direction: column; }
-    .articles-grid { grid-template-columns: 1fr; }
+    .hero__actions { flex-direction: column; align-items: flex-start; }
+    .hero__actions .btn-primary,
+    .hero__actions .btn-ghost { width: 100%; justify-content: center; }
   }
 </style>

@@ -55,13 +55,19 @@ const resolvedCanonical = canonicalUrl ?? Astro.url.href;
   <meta name="twitter:description" content={description} />
   <meta name="twitter:image" content={resolvedOgImage} />
 
-  <!-- Fonts -->
+  <!-- Fonts: Fraunces (display serif) + Inter (sans) + Pacifico (script accent) -->
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..700;1,9..144,300..600&family=Inter:wght@300;400;500;600;700&family=Pacifico&display=swap"
+    rel="stylesheet"
+  />
 
   <!-- Favicon -->
   <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+
+  <!-- Theme color (matches warm cat bg) -->
+  <meta name="theme-color" content="#2d1b14" />
 
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="CatBrothers" href="/rss.xml" />
@@ -82,6 +88,9 @@ const resolvedCanonical = canonicalUrl ?? Astro.url.href;
   </script>
 </head>
 <body>
+  <!-- Warm cat-themed background decoration -->
+  <div class="site-bg" aria-hidden="true"></div>
+
   <Header />
   <main>
     <slot />
