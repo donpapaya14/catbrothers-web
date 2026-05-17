@@ -1,4 +1,22 @@
 {
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "has": [
+        { "type": "host", "value": "catbrothers-web.vercel.app" }
+      ],
+      "destination": "https://catbrothers.uk/$1",
+      "permanent": true
+    },
+    {
+      "source": "/(.*)",
+      "has": [
+        { "type": "host", "value": "(?<branch>.*)-donpapaya14.vercel.app" }
+      ],
+      "destination": "https://catbrothers.uk/$1",
+      "permanent": true
+    }
+  ],
   "headers": [
     {
       "source": "/(.*)",
