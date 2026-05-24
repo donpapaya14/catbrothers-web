@@ -97,3 +97,9 @@ Here are some concrete actions that cat owners can take to avoid carrageenan in 
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Wet vs Dry Food for Cats](/blog/wet-vs-dry-food-for-cats)
+- [Raw Diet for Senior Cats: Risks and Benefits](/blog/raw-diet-for-senior-cats-risks-and-benefits)
+- [Orijen vs Acana Cat Food](/blog/orijen-vs-acana-cat-food)

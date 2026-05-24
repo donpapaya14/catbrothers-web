@@ -102,3 +102,9 @@ Here are some concrete actions you can take to teach your cat to enjoy being hel
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Fastest Cat to Climb a 7-Foot Wall](/blog/fastest-cat-to-climb-a-7-foot-wall)
+- [Cat vs Human Senses](/blog/cat-vs-human-senses)
+- [Wild vs Domestic Cat Hunting](/blog/wild-vs-domestic-cat-hunting)

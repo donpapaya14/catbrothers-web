@@ -144,3 +144,9 @@ As an app developer and professional chef, I've had my fair share of experiences
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Socializing Cats That Don](/blog/socializing-cats-that-don-t-get-along)
+- [why cats knock things off tables at night](/blog/why-cats-knock-things-off-tables-at-night)
+- [Reducing Stress in Multi-Cat Households](/blog/reducing-stress-in-multi-cat-households)

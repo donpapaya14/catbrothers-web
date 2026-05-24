@@ -99,3 +99,9 @@ As I reflect on Félicette's journey, I am reminded of the power of courage and 
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Oldest Cat Ever Recorded](/blog/oldest-cat-ever-recorded-2026-05-19)
+- [Unsinkable Sam Cat](/blog/unsinkable-sam-cat)
+- [Cat vs Human Senses](/blog/cat-vs-human-senses)

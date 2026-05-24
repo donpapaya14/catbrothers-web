@@ -83,3 +83,9 @@ As a chef, I understand the importance of **quality and durability** in any prod
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Best Litter Boxes for Cats](/blog/best-litter-boxes-for-cats)
+- [Best cat carriers for air travel](/blog/best-cat-carriers-for-air-travel)
+- [Interactive Cat Toys That Actually Work](/blog/interactive-cat-toys-that-actually-work)

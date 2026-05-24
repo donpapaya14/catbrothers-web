@@ -87,3 +87,9 @@ Here are some concrete action bullets that you can take to keep your cat safe an
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Oldest Cat Ever Recorded](/blog/oldest-cat-ever-recorded-2026-05-19)
+- [Owen the Cat](/blog/owen-the-cat)
+- [Unsinkable Sam Cat](/blog/unsinkable-sam-cat)

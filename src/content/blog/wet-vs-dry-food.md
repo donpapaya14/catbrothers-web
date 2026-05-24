@@ -82,3 +82,9 @@ In conclusion, the debate between **wet food vs dry food cats** is complex, and 
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Wet vs dry cat food: science-backed health impacts](/blog/wet-vs-dry-cat-food-science-backed-health-impacts)
+- [Foods Toxic to Cats List](/blog/foods-toxic-to-cats-list)
+- [Comparison of Wet Cat Food Moisture Content](/blog/comparison-of-wet-cat-food-moisture-content)

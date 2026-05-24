@@ -95,3 +95,9 @@ Here are some concrete actions you can take to identify and address hidden cat p
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Dental Care for Senior Cats: AVMA Recommendations](/blog/dental-care-for-senior-cats-avma-recommendations)
+- [Factors Affecting Cat Lifespan After 12 Years](/blog/factors-affecting-cat-lifespan-after-12-years)
+- [feline rabies vaccine schedule avma](/blog/feline-rabies-vaccine-schedule-avma)

@@ -84,3 +84,9 @@ As an app developer and professional chef, I have always been passionate about a
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [how to introduce a new cat to a resident cat](/blog/how-to-introduce-a-new-cat-to-a-resident-cat)
+- [Decoding Cat Tail Language](/blog/decoding-cat-tail-language)
+- [Cat Vertical Space Utilization](/blog/cat-vertical-space-utilization)

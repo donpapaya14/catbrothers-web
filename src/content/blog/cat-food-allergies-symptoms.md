@@ -119,3 +119,9 @@ Veterinarians often miss food allergies because symptoms overlap with environmen
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [7 Foods That Are Toxic to Cats (Most Owners Don](/blog/toxic-foods-for-cats)
+- [Foods Toxic to Cats: Complete List with ASPCA Toxicity Levels](/blog/foods-toxic-to-cats-complete-list-with-aspca-toxicity-levels)
+- [Raw Diet for Senior Cats: Risks and Benefits](/blog/raw-diet-for-senior-cats-risks-and-benefits)

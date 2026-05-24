@@ -105,3 +105,9 @@ Here are 6 concrete action bullets to help you socialize your cats that don't ge
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Cat Body Language: 15 Tail Postures Explained](/blog/cat-body-language-15-tail-postures-explained)
+- [Causes of Stress in Senior Cats](/blog/causes-of-stress-in-senior-cats)
+- [Cat Kneading Behavior Explained](/blog/cat-kneading-behavior-explained)

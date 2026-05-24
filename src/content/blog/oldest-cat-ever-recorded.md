@@ -115,3 +115,9 @@ For supplements, consider [ VetriScience Laboratories Lysine en Amazon](https://
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Wild vs Domestic Cat Hunting](/blog/wild-vs-domestic-cat-hunting)
+- [Fastest Cat to Climb a 7-Foot Wall](/blog/fastest-cat-to-climb-a-7-foot-wall)
+- [Cat Longest Jump Record](/blog/cat-longest-jump-record)

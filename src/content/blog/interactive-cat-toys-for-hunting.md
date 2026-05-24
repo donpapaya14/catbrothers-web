@@ -80,3 +80,9 @@ Here are some concrete action bullets to get you started:
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Interactive Cat Toys for Dementia Cats](/blog/interactive-cat-toys-for-dementia-cats)
+- [Best heated cat beds for arthritis 2024](/blog/best-heated-cat-beds-for-arthritis-2024)
+- [Best Litter Boxes for Senior Cats with Arthritis](/blog/best-litter-boxes-for-senior-cats-with-arthritis)

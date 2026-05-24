@@ -95,3 +95,9 @@ Here are some concrete actions you can take to understand and address cat kneadi
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [why cats knock things off tables at night](/blog/why-cats-knock-things-off-tables-at-night)
+- [Stress in Senior Cats Signs and Solutions](/blog/stress-in-senior-cats-signs-and-solutions)
+- [Cat Kneading Behavior Explained](/blog/cat-kneading-behavior-explained)

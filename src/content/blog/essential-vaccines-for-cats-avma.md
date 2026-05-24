@@ -82,3 +82,9 @@ As an app developer and professional chef, I understand the importance of mainta
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Cat Health Warning Signs Most Owners Miss](/blog/cat-health-warning-signs-most-owners-miss)
+- [Factors Affecting Indoor Cat Lifespan](/blog/factors-affecting-indoor-cat-lifespan)
+- [Cat Hyperthyroidism Symptoms](/blog/cat-hyperthyroidism-symptoms)

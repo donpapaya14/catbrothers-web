@@ -96,3 +96,9 @@ In addition to a balanced diet, I believe that providing a **safe and stimulatin
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Essential Vaccines for Indoor Cats According to AVMA](/blog/essential-vaccines-for-indoor-cats-according-to-avma)
+- [cat kidney disease early warning signs](/blog/cat-kidney-disease-early-warning-signs)
+- [Cat Hyperthyroidism Symptoms](/blog/cat-hyperthyroidism-symptoms)

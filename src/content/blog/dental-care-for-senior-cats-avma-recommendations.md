@@ -77,3 +77,9 @@ In conclusion, senior cat dental care is a critical aspect of maintaining your c
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Cat Hyperthyroidism Symptoms](/blog/cat-hyperthyroidism-symptoms)
+- [Feline Dental Care Guide](/blog/feline-dental-care-guide)
+- [Essential Vaccines for Indoor Cats According to AVMA](/blog/essential-vaccines-for-indoor-cats-according-to-avma)

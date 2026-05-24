@@ -100,3 +100,9 @@ To promote your cat's agility and exercise, follow these steps:
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Cat Whisker Sensitivity](/blog/cat-whisker-sensitivity)
+- [Wild vs Domestic Cat Hunting](/blog/wild-vs-domestic-cat-hunting)
+- [Longest Cat Climb Guinness Record](/blog/longest-cat-climb-guinness-record)

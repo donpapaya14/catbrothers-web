@@ -88,3 +88,9 @@ Here are some concrete action bullets to promote your cat's jumping ability and 
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [cat with the longest tail ever recorded](/blog/cat-with-the-longest-tail-ever-recorded)
+- [Owen the Cat](/blog/owen-the-cat)
+- [Oldest Cat Ever Recorded](/blog/oldest-cat-ever-recorded-2026-05-19)

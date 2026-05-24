@@ -100,3 +100,9 @@ Here are some concrete action bullets to help you monitor your cat's health:
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Feline Arthritis Pain Signs in Senior Cats](/blog/feline-arthritis-pain-signs-in-senior-cats)
+- [Essential Vaccines for Indoor Cats According to AVMA](/blog/essential-vaccines-for-indoor-cats-according-to-avma)
+- [Feline Upper Respiratory Infection](/blog/feline-upper-respiratory-infection)

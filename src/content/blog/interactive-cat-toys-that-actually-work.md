@@ -93,3 +93,9 @@ In addition to providing interactive toys and creating a playful environment, I 
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [PetFusion Ultimate Cat Scratcher Lounge review](/blog/petfusion-ultimate-cat-scratcher-lounge-review)
+- [Best Litter Boxes for Senior Cats with Arthritis](/blog/best-litter-boxes-for-senior-cats-with-arthritis)
+- [Interactive Cat Toys for Hunting](/blog/interactive-cat-toys-for-hunting)

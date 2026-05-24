@@ -89,3 +89,9 @@ In conclusion, vaccination is a crucial aspect of cat health, and it's essential
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Factors Affecting Indoor Cat Lifespan](/blog/factors-affecting-indoor-cat-lifespan)
+- [Feline Chronic Kidney Disease](/blog/feline-chronic-kidney-disease)
+- [Cat Hyperthyroidism Symptoms](/blog/cat-hyperthyroidism-symptoms)

@@ -88,3 +88,9 @@ Here are some concrete actions you can take to reduce whisker fatigue in your ca
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Factors Affecting Indoor Cat Lifespan](/blog/factors-affecting-indoor-cat-lifespan)
+- [Feline Arthritis Pain Signs in Senior Cats](/blog/feline-arthritis-pain-signs-in-senior-cats)
+- [cat kidney disease early warning signs](/blog/cat-kidney-disease-early-warning-signs)

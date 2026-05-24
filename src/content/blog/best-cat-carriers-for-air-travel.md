@@ -120,3 +120,9 @@ As a frequent traveler with my cat, Mochi, I’ve learned that **comfort is key*
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [cat water fountains best options reviewed](/blog/cat-water-fountains-best-options-reviewed)
+- [Best Litter Boxes for Senior Cats with Arthritis](/blog/best-litter-boxes-for-senior-cats-with-arthritis)
+- [Best Cat Carriers for Air Travel](/blog/best-cat-carriers-for-air-travel-2026-05-23)

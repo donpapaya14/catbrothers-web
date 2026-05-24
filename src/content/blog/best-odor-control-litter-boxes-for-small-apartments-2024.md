@@ -86,3 +86,9 @@ Here are some concrete action bullets to help you find the best odor-control lit
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Best cat carriers for air travel](/blog/best-cat-carriers-for-air-travel)
+- [Armarkat Cat Tree Review](/blog/armarkat-cat-tree-review)
+- [Senior Cat Hydration Tips](/blog/senior-cat-hydration-tips)

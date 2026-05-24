@@ -103,3 +103,9 @@ Here are some concrete actions you can take to improve your understanding of fel
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Decoding Cat Tail Language](/blog/decoding-cat-tail-language)
+- [Socializing Cats with Fear Aggression](/blog/socializing-cats-with-fear-aggression-2026-05-18)
+- [stress in cats caused by moving](/blog/stress-in-cats-caused-by-moving)

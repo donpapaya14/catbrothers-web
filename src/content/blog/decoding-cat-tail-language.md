@@ -116,3 +116,9 @@ One breakthrough moment came when I noticed my older cat's tail would droop duri
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Why cats knead blankets: evolutionary and emotional reasons](/blog/why-cats-knead-blankets-evolutionary-and-emotional-reasons)
+- [Cat Kneading Behavior Explained](/blog/cat-kneading-behavior-explained-2026-05-19)
+- [Socializing Cats with Fear Aggression](/blog/socializing-cats-with-fear-aggression)

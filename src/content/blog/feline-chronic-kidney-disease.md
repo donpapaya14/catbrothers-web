@@ -122,3 +122,9 @@ Vets often miss early signs. My #1 tip: Track **water bowl refills**. A sudden i
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Cat Lymphoma Warning Signs in Senior Cats](/blog/cat-lymphoma-warning-signs-in-senior-cats)
+- [subtle cat pain signs most owners overlook](/blog/subtle-cat-pain-signs-most-owners-overlook)
+- [Cat Whisker Fatigue Symptoms](/blog/cat-whisker-fatigue-symptoms)

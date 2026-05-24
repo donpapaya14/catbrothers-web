@@ -98,3 +98,9 @@ As someone who’s developed health apps analyzing pet nutrition data, I’ve se
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Wet vs dry cat food: science-backed health impacts](/blog/wet-vs-dry-cat-food-science-backed-health-impacts)
+- [Raw Diet for Senior Cats: Risks and Benefits](/blog/raw-diet-for-senior-cats-risks-and-benefits)
+- [Foods Toxic to Cats List](/blog/foods-toxic-to-cats-list-2026-05-21)

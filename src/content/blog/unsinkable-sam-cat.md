@@ -126,3 +126,9 @@ As a history enthusiast and developer, I’m fascinated by how Sam’s story ble
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Domestic vs Feral Cat Behavior](/blog/domestic-vs-feral-cat-behavior)
+- [Cat Whisker Sensitivity](/blog/cat-whisker-sensitivity)
+- [Oldest Cat Ever Recorded](/blog/oldest-cat-ever-recorded-2026-05-19)

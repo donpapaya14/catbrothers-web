@@ -84,3 +84,9 @@ Here are some concrete actions you can take to support your senior cat's health:
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Recognizing Pain in Senior Cats: Subtle Signs](/blog/recognizing-pain-in-senior-cats-subtle-signs)
+- [Feline Periodontal Disease](/blog/feline-periodontal-disease)
+- [Cat Health Warning Signs Most Owners Miss](/blog/cat-health-warning-signs-most-owners-miss)

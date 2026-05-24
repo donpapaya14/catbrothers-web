@@ -111,3 +111,9 @@ As an app developer who frequently relocates with my two rescue cats, I’ve tes
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Best Litter Boxes for Cats](/blog/best-litter-boxes-for-cats)
+- [PetFusion Ultimate Cat Scratcher Lounge review](/blog/petfusion-ultimate-cat-scratcher-lounge-review)
+- [Armarkat Cat Tree Review](/blog/armarkat-cat-tree-review)

@@ -109,3 +109,9 @@ Here are some concrete actions you can take to ensure your cat is receiving the 
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Raw Diet for Cats: Evidence, Risks and Vet Consensus](/blog/raw-diet-for-cats-evidence-risks-and-vet-consensus)
+- [7 Foods That Are Toxic to Cats (Most Owners Don](/blog/toxic-foods-for-cats)
+- [Wet vs Dry Food](/blog/wet-vs-dry-food)

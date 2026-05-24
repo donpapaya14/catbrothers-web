@@ -113,3 +113,9 @@ The breakthrough? **Scheduled "danger hours"**. For 30 minutes daily, I’d expo
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Decoding Cat Tail Language](/blog/decoding-cat-tail-language)
+- [Cat Kneading Behavior Explained](/blog/cat-kneading-behavior-explained)
+- [Why cats knead blankets: evolutionary and emotional reasons](/blog/why-cats-knead-blankets-evolutionary-and-emotional-reasons)

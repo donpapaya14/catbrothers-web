@@ -97,3 +97,9 @@ Here are some concrete actions to take:
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Armarkat Cat Tree Review](/blog/armarkat-cat-tree-review)
+- [Interactive Cat Toys For Bored Cats](/blog/interactive-cat-toys-for-bored-cats)
+- [Best cat carriers for air travel](/blog/best-cat-carriers-for-air-travel)

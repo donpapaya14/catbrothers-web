@@ -83,3 +83,9 @@ Here are some concrete actions you can take to promote healthy kneading behavior
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Why Cats Knock Things Off](/blog/why-cats-knock-things-off)
+- [Socializing Cats with Fear Aggression](/blog/socializing-cats-with-fear-aggression-2026-05-18)
+- [Why cats knead blankets: evolutionary and emotional reasons](/blog/why-cats-knead-blankets-evolutionary-and-emotional-reasons)

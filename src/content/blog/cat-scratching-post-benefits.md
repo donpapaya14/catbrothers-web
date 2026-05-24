@@ -111,3 +111,9 @@ Pro tip: **Rotate scratcher types** seasonally. My cats ignored cardboard post i
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Why Cats Knock Things Off](/blog/why-cats-knock-things-off)
+- [stress in cats caused by moving](/blog/stress-in-cats-caused-by-moving)
+- [stress in cats during vet visits: calming techniques](/blog/stress-in-cats-during-vet-visits-calming-techniques)

@@ -84,3 +84,9 @@ Here are some concrete action bullets to help you address knocking behavior in y
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Cat Body Language: 15 Tail Postures Explained](/blog/cat-body-language-15-tail-postures-explained)
+- [Cat Kneading Behavior Explained](/blog/cat-kneading-behavior-explained)
+- [stress in cats caused by moving](/blog/stress-in-cats-caused-by-moving)

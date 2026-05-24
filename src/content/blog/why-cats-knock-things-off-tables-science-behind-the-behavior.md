@@ -90,3 +90,9 @@ To reduce your cat's swiping behavior, try the following:
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Cat Kneading Behavior Explained](/blog/cat-kneading-behavior-explained)
+- [Decoding Cat Tail Language](/blog/decoding-cat-tail-language)
+- [cat body language guide for owners](/blog/cat-body-language-guide-for-owners)

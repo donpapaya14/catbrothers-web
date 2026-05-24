@@ -103,3 +103,9 @@ As a developer who works from home with two anxious rescues, I’ve tested every
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Fastest Cat to Climb a 7-Foot Wall](/blog/fastest-cat-to-climb-a-7-foot-wall)
+- [Oldest Cat Ever Recorded](/blog/oldest-cat-ever-recorded-2026-05-13)
+- [Wild vs Domestic Cat Hunting](/blog/wild-vs-domestic-cat-hunting)

@@ -131,3 +131,9 @@ The biggest challenge? Medication timing. Giving methimazole exactly 12 hours ap
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Essential Vaccines for Cats AVMA Protocols](/blog/essential-vaccines-for-cats-avma-protocols)
+- [Dental Care for Senior Cats: AVMA Recommendations](/blog/dental-care-for-senior-cats-avma-recommendations)
+- [Factors Affecting Cat Lifespan After 12 Years](/blog/factors-affecting-cat-lifespan-after-12-years)

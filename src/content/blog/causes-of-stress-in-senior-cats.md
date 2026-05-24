@@ -90,3 +90,9 @@ Here are some concrete actions you can take to reduce stress in your senior cat:
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Stress in Senior Cats Signs and Solutions](/blog/stress-in-senior-cats-signs-and-solutions)
+- [Why cats knead blankets: evolutionary and emotional reasons](/blog/why-cats-knead-blankets-evolutionary-and-emotional-reasons)
+- [Socializing Cats That Don](/blog/socializing-cats-that-don-t-get-along)

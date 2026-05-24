@@ -101,3 +101,9 @@ To summarize, here are the key takeaways:
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [7 Foods That Are Toxic to Cats (Most Owners Don](/blog/toxic-foods-for-cats)
+- [Foods Toxic to Cats List](/blog/foods-toxic-to-cats-list)
+- [Foods Toxic to Cats: Complete List with ASPCA Toxicity Levels](/blog/foods-toxic-to-cats-complete-list-with-aspca-toxicity-levels)

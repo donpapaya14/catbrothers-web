@@ -127,3 +127,9 @@ draft: false
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [PetFusion Ultimate Cat Scratcher Lounge review](/blog/petfusion-ultimate-cat-scratcher-lounge-review)
+- [Best cat carriers for air travel](/blog/best-cat-carriers-for-air-travel)
+- [PetFusion Ultimate Cat Scratcher Lounge review](/blog/petfusion-ultimate-cat-scratcher-lounge-review-2026-05-16)

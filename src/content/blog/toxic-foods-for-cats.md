@@ -125,3 +125,9 @@ Tuna for humans is safe occasionally (packed in water, not oil or brine). The ri
 - **Don't induce vomiting** without vet instruction
 - **Time matters** — call within 30 minutes of suspected ingestion for best outcomes
 - **Symptoms can be delayed** up to 5 days — monitor your cat even if they seem fine
+
+## 📚 Continue reading
+
+- [Foods Toxic to Cats: Complete List with ASPCA Toxicity Levels](/blog/foods-toxic-to-cats-complete-list-with-aspca-toxicity-levels)
+- [Decoding Cat Food Labels](/blog/decoding-cat-food-labels)
+- [Reading Cat Food Labels: Key Ingredients to Watch](/blog/reading-cat-food-labels-key-ingredients-to-watch)

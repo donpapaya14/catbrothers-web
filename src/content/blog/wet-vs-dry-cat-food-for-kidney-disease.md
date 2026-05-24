@@ -100,3 +100,9 @@ In addition to a **balanced diet**, it's essential to provide your cat with plen
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Raw Diet for Cats: Risks and Evidence](/blog/raw-diet-for-cats-risks-and-evidence)
+- [Comparison of Wet Cat Food Moisture Content](/blog/comparison-of-wet-cat-food-moisture-content)
+- [7 Foods That Are Toxic to Cats (Most Owners Don](/blog/toxic-foods-for-cats)

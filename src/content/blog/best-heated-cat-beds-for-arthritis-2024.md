@@ -90,3 +90,9 @@ Here are some concrete actions you can take to provide relief to your arthritic 
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Best cat carriers for air travel](/blog/best-cat-carriers-for-air-travel)
+- [Best Cat Carriers for Small Cats Under 10 Pounds](/blog/best-cat-carriers-for-small-cats-under-10-pounds)
+- [Interactive Cat Toys For Bored Cats](/blog/interactive-cat-toys-for-bored-cats)

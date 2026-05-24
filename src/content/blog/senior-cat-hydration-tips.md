@@ -109,3 +109,9 @@ Senior cats are creatures of habit. If they ignore a new bowl, try moving it 6 i
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Interactive Cat Toys For Bored Cats](/blog/interactive-cat-toys-for-bored-cats)
+- [Interactive Cat Toys for Hunting](/blog/interactive-cat-toys-for-hunting)
+- [Best Litter Boxes for Senior Cats with Arthritis](/blog/best-litter-boxes-for-senior-cats-with-arthritis)

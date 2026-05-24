@@ -86,3 +86,9 @@ In addition to following the recommended vaccination schedule, I also make sure 
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Feline Hyperthyroidism Symptoms](/blog/feline-hyperthyroidism-symptoms)
+- [Feline Idiopathic Cystitis Symptoms and Treatment](/blog/feline-idiopathic-cystitis-symptoms-and-treatment)
+- [Feline Periodontal Disease](/blog/feline-periodontal-disease)

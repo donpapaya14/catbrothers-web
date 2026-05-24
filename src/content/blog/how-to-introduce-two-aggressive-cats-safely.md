@@ -90,3 +90,9 @@ In conclusion, introducing aggressive cats safely requires a thoughtful and mult
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Why Cats Knock Things Off](/blog/why-cats-knock-things-off)
+- [cat body language guide for owners](/blog/cat-body-language-guide-for-owners)
+- [Cat Vertical Space Utilization](/blog/cat-vertical-space-utilization)

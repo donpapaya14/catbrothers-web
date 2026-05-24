@@ -90,3 +90,9 @@ If you're a cat owner, I recommend taking the necessary precautions to keep your
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Foods Toxic to Cats List](/blog/foods-toxic-to-cats-list)
+- [Orijen vs Acana Cat Food](/blog/orijen-vs-acana-cat-food)
+- [Raw Diet for Senior Cats: Risks and Benefits](/blog/raw-diet-for-senior-cats-risks-and-benefits)

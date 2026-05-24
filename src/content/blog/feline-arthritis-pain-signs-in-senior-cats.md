@@ -89,3 +89,9 @@ Here are some concrete action bullets to help you manage your senior cat's arthr
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Feline Hyperthyroidism Symptoms](/blog/feline-hyperthyroidism-symptoms)
+- [Factors Affecting Cat Lifespan After 12 Years](/blog/factors-affecting-cat-lifespan-after-12-years)
+- [Feline Upper Respiratory Infection](/blog/feline-upper-respiratory-infection)

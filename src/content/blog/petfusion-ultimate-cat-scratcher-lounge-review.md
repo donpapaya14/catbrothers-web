@@ -118,3 +118,9 @@ I highly recommend the PetFusion Ultimate Cat Scratcher Lounge to any cat owner 
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Best Cat Carriers for Small Cats Under 10 Pounds](/blog/best-cat-carriers-for-small-cats-under-10-pounds)
+- [Best Litter Boxes for Senior Cats with Arthritis](/blog/best-litter-boxes-for-senior-cats-with-arthritis)
+- [Armarkat Cat Tree Review](/blog/armarkat-cat-tree-review)

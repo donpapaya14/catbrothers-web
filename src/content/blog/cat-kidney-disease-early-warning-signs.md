@@ -102,3 +102,9 @@ Here are some practical steps you can take to support your cat's kidney health:
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Feline Upper Respiratory Infection](/blog/feline-upper-respiratory-infection)
+- [Feline Chronic Kidney Disease](/blog/feline-chronic-kidney-disease)
+- [Cat Health Warning Signs Most Owners Miss](/blog/cat-health-warning-signs-most-owners-miss)

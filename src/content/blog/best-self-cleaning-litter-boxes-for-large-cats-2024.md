@@ -104,3 +104,9 @@ Here are some concrete action bullets to help you find the best self-cleaning li
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Senior Cat Hydration Tips](/blog/senior-cat-hydration-tips)
+- [best self-cleaning litter boxes for multiple cats 2024](/blog/best-self-cleaning-litter-boxes-for-multiple-cats-2024)
+- [Best odor-control litter boxes for small apartments 2024](/blog/best-odor-control-litter-boxes-for-small-apartments-2024)

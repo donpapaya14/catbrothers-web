@@ -89,3 +89,9 @@ I also appreciate the transparency of both brands, with clear labeling and recal
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [hidden dangers in grain-free cat food explained](/blog/hidden-dangers-in-grain-free-cat-food-explained)
+- [Taste of the Wild vs Orijen](/blog/taste-of-the-wild-vs-orijen)
+- [7 Foods That Are Toxic to Cats (Most Owners Don](/blog/toxic-foods-for-cats)

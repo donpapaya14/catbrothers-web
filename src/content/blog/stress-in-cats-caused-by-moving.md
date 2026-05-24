@@ -88,3 +88,9 @@ Here are some concrete action bullets to reduce cat stress caused by moving:
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Cat Scratching Post Benefits](/blog/cat-scratching-post-benefits)
+- [Why cats knock things off tables: science behind the behavior](/blog/why-cats-knock-things-off-tables-science-behind-the-behavior)
+- [how to introduce two aggressive cats safely](/blog/how-to-introduce-two-aggressive-cats-safely)

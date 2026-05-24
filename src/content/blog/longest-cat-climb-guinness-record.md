@@ -83,3 +83,9 @@ In conclusion, cat climbing is an excellent way to provide your cat with exercis
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Oldest Cat Ever Recorded](/blog/oldest-cat-ever-recorded-2026-05-13)
+- [Domestic vs Feral Cat Behavior](/blog/domestic-vs-feral-cat-behavior)
+- [Wild vs Domestic Cat Hunting](/blog/wild-vs-domestic-cat-hunting)

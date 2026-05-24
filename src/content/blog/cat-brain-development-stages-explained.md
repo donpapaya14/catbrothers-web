@@ -97,3 +97,9 @@ Here are some concrete action bullets to support your cat's brain development:
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Oldest Cat Ever Recorded](/blog/oldest-cat-ever-recorded)
+- [Longest Cat Fart Record Guinness](/blog/longest-cat-fart-record-guinness)
+- [Owen the Cat](/blog/owen-the-cat)

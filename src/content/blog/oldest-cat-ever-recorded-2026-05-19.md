@@ -109,3 +109,9 @@ As a developer who’s coded pet-care apps, I’ve seen how **tracking tools**�
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Wild vs Domestic Cat Hunting](/blog/wild-vs-domestic-cat-hunting)
+- [cat with the longest tail ever recorded](/blog/cat-with-the-longest-tail-ever-recorded)
+- [Meet Félicette the French Cat Who Ate a Space Meal](/blog/meet-felicette-the-french-cat-who-ate-a-space-meal)

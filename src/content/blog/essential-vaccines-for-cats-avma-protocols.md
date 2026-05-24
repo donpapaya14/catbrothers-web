@@ -89,3 +89,9 @@ As a cat owner, it is essential to stay informed about the latest vaccination gu
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [subtle cat pain signs most owners overlook](/blog/subtle-cat-pain-signs-most-owners-overlook)
+- [feline rabies vaccine schedule avma](/blog/feline-rabies-vaccine-schedule-avma)
+- [Factors Affecting Cat Lifespan After 12 Years](/blog/factors-affecting-cat-lifespan-after-12-years)

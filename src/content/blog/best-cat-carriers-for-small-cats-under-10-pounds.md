@@ -84,3 +84,9 @@ Here are some concrete actions to take when choosing a cat carrier for your smal
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Cat Water Fountains](/blog/cat-water-fountains)
+- [Interactive Cat Toys for Hunting](/blog/interactive-cat-toys-for-hunting)
+- [Best cat carriers for air travel](/blog/best-cat-carriers-for-air-travel)

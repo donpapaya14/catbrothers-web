@@ -88,3 +88,9 @@ In conclusion, the **longest cat fart Guinness World Record** is a remarkable ac
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Oldest Cat Ever Recorded](/blog/oldest-cat-ever-recorded)
+- [Wild vs Domestic Cat Hunting](/blog/wild-vs-domestic-cat-hunting)
+- [Cat Brain Development Stages Explained](/blog/cat-brain-development-stages-explained)

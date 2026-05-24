@@ -81,3 +81,9 @@ I hope that by sharing my experience and knowledge, I can help cat owners provid
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Cat Whisker Fatigue Symptoms](/blog/cat-whisker-fatigue-symptoms)
+- [Feline Periodontal Disease](/blog/feline-periodontal-disease)
+- [Essential Vaccines for Cats AVMA Protocols](/blog/essential-vaccines-for-cats-avma-protocols)

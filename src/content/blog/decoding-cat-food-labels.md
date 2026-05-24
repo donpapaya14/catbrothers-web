@@ -89,3 +89,9 @@ To ensure your cat is receiving the best possible nutrition, follow these steps:
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Taste of the Wild vs Orijen](/blog/taste-of-the-wild-vs-orijen)
+- [Foods Toxic to Cats: Complete List with ASPCA Toxicity Levels](/blog/foods-toxic-to-cats-complete-list-with-aspca-toxicity-levels)
+- [Wet vs Dry Cat Food for Kidney Disease](/blog/wet-vs-dry-cat-food-for-kidney-disease)

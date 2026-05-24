@@ -92,3 +92,9 @@ Here are some practical tips to reduce table knocking behavior in your cat:
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Cat Kneading Behavior Explained](/blog/cat-kneading-behavior-explained-2026-05-19)
+- [Decoding Cat Tail Language](/blog/decoding-cat-tail-language)
+- [Cat Scratching Post Benefits](/blog/cat-scratching-post-benefits)

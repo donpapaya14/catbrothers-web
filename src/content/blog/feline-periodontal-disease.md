@@ -122,3 +122,9 @@ I also learned that **dry food isn’t a dental cure-all**. Even the best kibble
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [cat kidney disease early warning signs](/blog/cat-kidney-disease-early-warning-signs)
+- [Essential Vaccines for Cats AVMA](/blog/essential-vaccines-for-cats-avma)
+- [Feline Upper Respiratory Infection](/blog/feline-upper-respiratory-infection)

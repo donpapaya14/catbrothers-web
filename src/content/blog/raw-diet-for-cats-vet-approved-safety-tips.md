@@ -119,3 +119,9 @@ My advice to cat owners considering a raw diet is to consult with a veterinarian
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Taste of the Wild vs Orijen](/blog/taste-of-the-wild-vs-orijen)
+- [Cat Food Allergies Symptoms](/blog/cat-food-allergies-symptoms)
+- [Comparison of Wet Cat Food Moisture Content](/blog/comparison-of-wet-cat-food-moisture-content)

@@ -83,3 +83,9 @@ To summarize, here are the key points:
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Félicette the Space Cat: First Feline in Space](/blog/felicette-the-space-cat-first-feline-in-space)
+- [Unsinkable Sam Cat](/blog/unsinkable-sam-cat)
+- [Owen the Cat](/blog/owen-the-cat)

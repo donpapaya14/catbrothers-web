@@ -104,3 +104,9 @@ In conclusion, socializing a fearful cat requires patience, consistency, and pos
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Cat Body Language: 15 Tail Postures Explained](/blog/cat-body-language-15-tail-postures-explained)
+- [Socializing Cats with Fear Aggression](/blog/socializing-cats-with-fear-aggression-2026-05-18)
+- [how to introduce two aggressive cats safely](/blog/how-to-introduce-two-aggressive-cats-safely)

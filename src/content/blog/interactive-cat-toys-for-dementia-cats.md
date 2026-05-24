@@ -102,3 +102,9 @@ Here are some concrete action bullets to help you care for your cat with dementi
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Best Cat Carriers for Air Travel](/blog/best-cat-carriers-for-air-travel-2026-05-23)
+- [Senior Cat Hydration Tips](/blog/senior-cat-hydration-tips)
+- [Interactive Cat Toys That Actually Work](/blog/interactive-cat-toys-that-actually-work)

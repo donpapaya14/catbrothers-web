@@ -158,3 +158,9 @@ The [ Cat Behavior and Evolution book by James Serpell en Amazon](https://www.am
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Cat Pheromone Therapy](/blog/cat-pheromone-therapy)
+- [Oldest Cat Ever Recorded](/blog/oldest-cat-ever-recorded-2026-05-13)
+- [Fastest Cat to Climb a 7-Foot Wall](/blog/fastest-cat-to-climb-a-7-foot-wall)

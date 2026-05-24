@@ -122,3 +122,9 @@ I’ve also observed that **hunting play peaks at dawn/dusk**, matching wild cat
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Longest Cat Fart Record Guinness](/blog/longest-cat-fart-record-guinness)
+- [Cat Longest Jump Record](/blog/cat-longest-jump-record)
+- [Unsinkable Sam the Cat of the USS Indianapolis](/blog/unsinkable-sam-the-cat-of-the-uss-indianapolis)

@@ -92,3 +92,9 @@ As a developer who works from home with two cats, I’ve noticed how **Miso (my 
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Oldest Cat Ever Recorded](/blog/oldest-cat-ever-recorded)
+- [Unsinkable Sam the Cat of the USS Indianapolis](/blog/unsinkable-sam-the-cat-of-the-uss-indianapolis)
+- [Oldest Cat Ever Recorded](/blog/oldest-cat-ever-recorded-2026-05-19)

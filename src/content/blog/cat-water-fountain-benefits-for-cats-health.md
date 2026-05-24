@@ -88,3 +88,9 @@ To keep your cat happy and healthy, remember to:
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Interactive Cat Toys That Actually Work](/blog/interactive-cat-toys-that-actually-work)
+- [Best odor-control litter boxes for small apartments 2024](/blog/best-odor-control-litter-boxes-for-small-apartments-2024)
+- [Best cat carriers for air travel](/blog/best-cat-carriers-for-air-travel)

@@ -98,3 +98,9 @@ Here are some practical tips for choosing and using a cat scratcher:
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [best self-cleaning litter boxes for multiple cats 2024](/blog/best-self-cleaning-litter-boxes-for-multiple-cats-2024)
+- [Best Litter Boxes for Senior Cats with Arthritis](/blog/best-litter-boxes-for-senior-cats-with-arthritis)
+- [Best Litter Boxes for Cats](/blog/best-litter-boxes-for-cats)

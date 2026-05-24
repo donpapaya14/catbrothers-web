@@ -87,3 +87,9 @@ As a cat owner, it's essential to stay informed about the latest research and de
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Sterilized Cat Diet Needs](/blog/sterilized-cat-diet-needs)
+- [Wet vs Dry Food](/blog/wet-vs-dry-food)
+- [Raw Diet for Cats: Risks and Evidence](/blog/raw-diet-for-cats-risks-and-evidence)

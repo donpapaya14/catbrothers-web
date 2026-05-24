@@ -124,3 +124,9 @@ To keep your cat safe from **foods toxic to cats**, follow these practical tips:
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Wet vs Dry Food for Cats](/blog/wet-vs-dry-food-for-cats)
+- [Wet vs Dry Food](/blog/wet-vs-dry-food)
+- [7 Foods That Are Toxic to Cats (Most Owners Don](/blog/toxic-foods-for-cats)

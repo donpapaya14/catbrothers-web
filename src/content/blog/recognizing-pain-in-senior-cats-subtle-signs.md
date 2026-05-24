@@ -112,3 +112,9 @@ Here are some concrete actions you can take to improve the life of your senior c
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Feline Hyperthyroidism Symptoms](/blog/feline-hyperthyroidism-symptoms)
+- [Feline Dental Care Guide](/blog/feline-dental-care-guide)
+- [Cat Health Warning Signs Most Owners Miss](/blog/cat-health-warning-signs-most-owners-miss)

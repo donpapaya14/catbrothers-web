@@ -91,3 +91,9 @@ As an app developer and professional chef, I understand the importance of mainta
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Recognizing Pain in Senior Cats: Subtle Signs](/blog/recognizing-pain-in-senior-cats-subtle-signs)
+- [Essential Vaccines for Cats AVMA](/blog/essential-vaccines-for-cats-avma)
+- [subtle cat pain signs most owners overlook](/blog/subtle-cat-pain-signs-most-owners-overlook)

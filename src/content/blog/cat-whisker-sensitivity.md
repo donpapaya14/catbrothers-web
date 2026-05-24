@@ -102,3 +102,9 @@ In conclusion, cat whisker sensitivity is a fascinating topic that deserves furt
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Oldest Cat Ever Recorded](/blog/oldest-cat-ever-recorded-2026-05-19)
+- [Owen the Cat](/blog/owen-the-cat)
+- [Meet Félicette the French Cat Who Ate a Space Meal](/blog/meet-felicette-the-french-cat-who-ate-a-space-meal)

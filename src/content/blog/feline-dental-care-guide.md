@@ -98,3 +98,9 @@ By following these steps, you can help keep your cat's teeth clean and healthy, 
 ---
 
 *Written by **Vladys Z.** — App developer and professional chef. Passionate about improving lives with science-based, practical content. Follow me on [YouTube](https://youtube.com/@CATBROTHERS2).*
+
+## 📚 Continue reading
+
+- [Feline Periodontal Disease](/blog/feline-periodontal-disease)
+- [Recognizing Pain in Senior Cats: Subtle Signs](/blog/recognizing-pain-in-senior-cats-subtle-signs)
+- [Dental Care for Senior Cats: AVMA Recommendations](/blog/dental-care-for-senior-cats-avma-recommendations)
