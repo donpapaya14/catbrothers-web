@@ -25,22 +25,22 @@ Cats exhibit **feline nocturnal table knocking behavior** due to their natural h
 The **circadian rhythm of cats** plays a significant role in their nocturnal behavior. A study published in the [Journal of Feline Medicine and Surgery](https://www.sciencedirect.com/journal/journal-of-feline-medicine-and-surgery) found that cats have a **prey drive** of 80%, which is triggered by small prey-like objects. To reduce table knocking, provide your cat with **interactive toys** such as feather wands or laser pointers.
 
 ## The Impact of Prey-Related Play on Table Knocking
-**Prey-related play** can lead to knocking behavior in cats. A study by [The Journal of Feline Behavior, University of Edinburgh](https://www.ed.ac.uk) found that **interactive toys** can reduce table knocking behavior by 40%. Here are some tips to reduce table knocking:
+**Prey-related play** can lead to knocking behavior in cats. A study by The Journal of Feline Behavior, University of Edinburgh found that **interactive toys** can reduce table knocking behavior by 40%. Here are some tips to reduce table knocking:
 1. Provide **vertical space** for your cat to climb and play.
 2. Engage your cat in **prey-related play** for at least 30 minutes a day.
 3. Use **positive reinforcement** techniques to encourage good behavior.
 
 ## The Influence of Human Interaction on Nocturnal Table Knocking
-Human interaction can influence **feline nocturnal table knocking behavior**. A study by [The Association for the Study of Animal Behavior](https://www.asab.org) found that **inconsistent human interaction** can lead to increased stress and anxiety in cats, resulting in table knocking behavior. To reduce table knocking, establish a **consistent feeding schedule** and **playtime routine**.
+Human interaction can influence **feline nocturnal table knocking behavior**. A study by The Association for the Study of Animal Behavior found that **inconsistent human interaction** can lead to increased stress and anxiety in cats, resulting in table knocking behavior. To reduce table knocking, establish a **consistent feeding schedule** and **playtime routine**.
 
 ## Environmental Enrichment Strategies to Reduce Table Knocking
-Environmental enrichment strategies can help reduce table knocking behavior. According to [The Feline Behavior and Welfare Society](https://www.felinebehaviour.com), providing **stimulating scent work** and **vertical space** can reduce table knocking behavior by 50%. Here are some environmental enrichment strategies:
+Environmental enrichment strategies can help reduce table knocking behavior. According to The Feline Behavior and Welfare Society, providing **stimulating scent work** and **vertical space** can reduce table knocking behavior by 50%. Here are some environmental enrichment strategies:
 1. Provide **scratching posts** to redirect scratching behavior.
 2. Create a **calming environment** by reducing noise and stress.
 3. Offer **treats and rewards** for good behavior.
 
 ## Reducing Stress and Anxiety to Minimize Table Knocking
-Reducing stress and anxiety is crucial to minimize table knocking behavior. A study by [The International Cat Care Center](https://www.icatcare.org) found that **regular exercise** and **playtime** can reduce stress and anxiety in cats. Here are some tips to reduce stress and anxiety:
+Reducing stress and anxiety is crucial to minimize table knocking behavior. A study by The International Cat Care Center found that **regular exercise** and **playtime** can reduce stress and anxiety in cats. Here are some tips to reduce stress and anxiety:
 1. Provide **regular exercise** and **playtime**.
 2. Create a **calming environment** by reducing noise and stress.
 3. Offer **treats and rewards** for good behavior.

@@ -29,7 +29,7 @@ When decoding 'grain-free' labels, it's essential to understand the common subst
 Grain-free formulas may lack sufficient taurine, leading to heart disease in cats. The **Journal of Feline Medicine and Surgery (2019)** reported that taurine deficiency is a significant risk factor for DCM in cats. Cat owners should watch for symptoms like **shortness of breath, lethargy, and poor appetite**.
 
 ## Marketing Tricks: 'Natural' vs. Science-Backed Nutrition
-The pet food industry often uses buzzwords like 'ancestral diet' or 'wild-inspired' to mislead consumers away from AAFCO standards. According to the [Pet Nutrition Alliance](https://www.petnutritionalliance.org), these marketing tricks can lead to a lack of transparency and accountability in the industry.
+The pet food industry often uses buzzwords like 'ancestral diet' or 'wild-inspired' to mislead consumers away from AAFCO standards. According to the Pet Nutrition Alliance, these marketing tricks can lead to a lack of transparency and accountability in the industry.
 
 ## Vet-Approved Alternatives to Grain-Free Food
 There are several high-quality, balanced cat foods that meet WSAVA guidelines. Some examples include:
@@ -51,7 +51,7 @@ The risks of grain-free cat food include an increased risk of DCM, taurine defic
 ### How do I choose the best cat food for my cat?
 Choose a cat food that meets WSAVA guidelines and emphasizes protein sources and added nutrients. Consult with your veterinarian for personalized recommendations.
 ### Can I make my own cat food at home?
-While it's possible to make your own cat food at home, it's essential to ensure that the food is balanced and meets your cat's nutritional needs. According to the [Mayo Clinic](https://www.mayoclinic.org), a homemade diet can be risky if not done correctly.
+While it's possible to make your own cat food at home, it's essential to ensure that the food is balanced and meets your cat's nutritional needs. According to the Mayo Clinic, a homemade diet can be risky if not done correctly.
 ### What are the symptoms of taurine deficiency in cats?
 The symptoms of taurine deficiency in cats include shortness of breath, lethargy, and poor appetite. If you notice any of these symptoms, consult with your veterinarian immediately.
 ### How often should I feed my cat?

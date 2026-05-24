@@ -26,10 +26,10 @@ The vaccination schedule for kittens is as follows:
 1. **First vaccination**: 12-16 weeks of age
 2. **Booster shot**: 1 year of age
 3. **Revaccination**: every 1-3 years, depending on the type of vaccine used
-As stated by the [American Association of Feline Practitioners](https://www.catvets.com/), it's crucial to follow this schedule to ensure your kitten is protected against rabies.
+As stated by the American Association of Feline Practitioners, it's crucial to follow this schedule to ensure your kitten is protected against rabies.
 
 ## Core vs. Non-Core Vaccines
-The American Veterinary Medical Association (AVMA) 2020 Guidelines for Vaccination of Cats categorize vaccines into **core** and **non-core** vaccines. Core vaccines, such as the rabies vaccine, are essential for all cats, while non-core vaccines are optional and depend on the cat's lifestyle and risk factors. For example, the [AVMA](https://www.avma.org/) recommends that indoor cats receive core vaccines only, while outdoor cats may require additional non-core vaccines.
+The American Veterinary Medical Association (AVMA) 2020 Guidelines for Vaccination of Cats categorize vaccines into **core** and **non-core** vaccines. Core vaccines, such as the rabies vaccine, are essential for all cats, while non-core vaccines are optional and depend on the cat's lifestyle and risk factors. For example, the AVMA recommends that indoor cats receive core vaccines only, while outdoor cats may require additional non-core vaccines.
 
 ## Feline Rabies Vaccine Requirements
 The Centers for Disease Control and Prevention (CDC) Rabies Vaccine Recommendations state that all cats must receive a rabies vaccination at **12-16 weeks** of age, followed by a booster shot at **1 year** of age. The [CDC](https://www.cdc.gov/) also recommends that cats receive a **booster shot** every 1-3 years, depending on the type of vaccine used.
@@ -38,7 +38,7 @@ The Centers for Disease Control and Prevention (CDC) Rabies Vaccine Recommendati
 As with any vaccination, there are potential risks and contraindications associated with feline vaccinations. According to the Journal of the American Veterinary Medical Association (JAVMA) 2018, **age-related considerations** and **underlying health conditions** can increase the risk of adverse reactions to vaccinations. For example, kittens under **12 weeks** of age may be more susceptible to adverse reactions due to their immature immune system.
 
 ## Boosters and Revaccination
-The purpose of boosters and revaccination is to maintain long-term immunity against rabies. The American Association of Feline Practitioners (2019) recommends that cats receive a **booster shot** every 1-3 years, depending on the type of vaccine used. The [Mayo Clinic](https://www.mayoclinic.org/) also states that revaccination is essential to prevent the spread of rabies.
+The purpose of boosters and revaccination is to maintain long-term immunity against rabies. The American Association of Feline Practitioners (2019) recommends that cats receive a **booster shot** every 1-3 years, depending on the type of vaccine used. The Mayo Clinic also states that revaccination is essential to prevent the spread of rabies.
 
 ## Alternatives to Vaccination
 While vaccination is the most effective way to protect against rabies, there are alternative methods available. According to the Journal of Veterinary Internal Medicine (2017), **serum antibody testing** can be used to determine a cat's immunity to rabies. However, this method is not widely available and is not a substitute for vaccination.

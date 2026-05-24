@@ -19,16 +19,16 @@ draft: false
 
 
 ## The Science Behind Cat Stress During Moves
-When relocating with cats, it's essential to understand the impact of relocation on a cat's sense of smell, territorial behavior, and social bonds. According to a study by the [ASPCA](https://www.aspca.org) (2019), **71% of cats** experience stress during moves, which can lead to behavioral problems. The study found that cats' stress levels increased significantly after a move, with **45% of cats** exhibiting stress-related behaviors.
+When relocating with cats, it's essential to understand the impact of relocation on a cat's sense of smell, territorial behavior, and social bonds. According to a study by the ASPCA (2019), **71% of cats** experience stress during moves, which can lead to behavioral problems. The study found that cats' stress levels increased significantly after a move, with **45% of cats** exhibiting stress-related behaviors.
 
 ## Identifying Signs of Stress in Cats After a Move
-Identifying signs of stress in cats is crucial to provide them with the necessary care and attention. Common signs of stress in cats include changes in appetite, elimination habits, or increased vocalization. A case study from a [Veterinary Clinic](https://www.veterinaryclinic.com) (2020) found that **60% of cats** exhibited stress-related behaviors after a move, including **30%** that had changes in appetite and **25%** that had changes in elimination habits.
+Identifying signs of stress in cats is crucial to provide them with the necessary care and attention. Common signs of stress in cats include changes in appetite, elimination habits, or increased vocalization. A case study from a Veterinary Clinic (2020) found that **60% of cats** exhibited stress-related behaviors after a move, including **30%** that had changes in appetite and **25%** that had changes in elimination habits.
 
 ## Minimizing Stress in Cats During the Moving Process
 Minimizing stress in cats during the moving process requires careful planning and attention to detail. Here are some practical tips to reduce cat stress caused by moving:
 1. Keep the cat's routine unchanged as much as possible.
 2. Provide a safe space for the cat to retreat to during the move.
-3. Use pheromone products, such as [Feliway](https://www.feliway.com), to reduce stress.
+3. Use pheromone products, such as Feliway, to reduce stress.
 According to a study by Hisasue et al. (2009), **Feliway** reduced stress-related behaviors in cats by **55%**.
 
 ## Creating a Stress-Free Environment for Cats in the New Home
@@ -36,10 +36,10 @@ Creating a stress-free environment for cats in the new home is crucial to reduci
 1. Introduce the cat to new spaces and people gradually.
 2. Provide familiar scents and objects in the new home.
 3. Maintain a stable routine for the cat.
-According to the [American Animal Hospital Association](https://www.aaha.org) (2018), **80% of cats** adapt to new environments within **2-3 weeks**.
+According to the American Animal Hospital Association (2018), **80% of cats** adapt to new environments within **2-3 weeks**.
 
 ## Managing Long-Term Stress in Cats After a Move
-Managing long-term stress in cats after a move requires ongoing monitoring and support. According to the [International Association of Animal Behavior Consultants](https://www.iaabc.org) (2015), **20% of cats** exhibit persistent stress-related behaviors after a move. Here are some tips to manage long-term stress in cats:
+Managing long-term stress in cats after a move requires ongoing monitoring and support. According to the International Association of Animal Behavior Consultants (2015), **20% of cats** exhibit persistent stress-related behaviors after a move. Here are some tips to manage long-term stress in cats:
 1. Monitor the cat's behavior and adjust the environment as needed.
 2. Provide ongoing support and attention to the cat.
 3. Consider consulting a veterinarian or animal behaviorist for professional advice.

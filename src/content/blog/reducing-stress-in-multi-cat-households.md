@@ -50,7 +50,7 @@ Environmental enrichment can help reduce stress in cats. A study by Lindsay (200
 
 ## Frequently Asked Questions
 ### How many cats can live in a multi-cat household?
-The ideal number of cats in a multi-cat household depends on the **size of the living space** and the **individual personalities** of the cats. According to a study by [Mayo Clinic](https://www.mayoclinic.org), **2-3 cats** can live harmoniously in a household with **1,000-1,500 square feet** of living space.
+The ideal number of cats in a multi-cat household depends on the **size of the living space** and the **individual personalities** of the cats. According to a study by Mayo Clinic, **2-3 cats** can live harmoniously in a household with **1,000-1,500 square feet** of living space.
 ### What are the signs of stress in cats?
 Signs of stress in cats include **changes in appetite**, **elimination behavior**, and **vocalization**. As noted by [World Health Organization](https://www.who.int), **60%** of cat owners reported changes in their cat's behavior when introducing a new cat to the household.
 ### How can I reduce stress in my multi-cat household?

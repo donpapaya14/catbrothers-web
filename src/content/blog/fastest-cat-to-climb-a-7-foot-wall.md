@@ -18,7 +18,7 @@ draft: false
 ---
 
 ## Introduction to the Fastest Cat to Climb a 7-Foot Wall
-The **fastest cat to climb a wall** is a remarkable feline named Cheeto, who achieved this feat in just **3.2 seconds**, according to the [Cat Fanciers' Association](https://cfa.org) 2020 records. Cheeto's owner, a professional cat trainer, attributes her success to **positive reinforcement** and **reward systems**. 
+The **fastest cat to climb a wall** is a remarkable feline named Cheeto, who achieved this feat in just **3.2 seconds**, according to the Cat Fanciers' Association 2020 records. Cheeto's owner, a professional cat trainer, attributes her success to **positive reinforcement** and **reward systems**. 
 
 ## The Record Holder: Meet the Amazing Cheeto
 Cheeto's training regimen includes **cat agility training**, which focuses on developing her **muscle strength**, **flexibility**, and **problem-solving skills**. Her owner works with her for **15 minutes**, **3 times a week**, using **treats** and **toys** as rewards. 
@@ -45,7 +45,7 @@ To train your cat for agility, follow these steps:
 | Punishment | Punishing undesired behavior | **Low** |
 
 ## The Role of Environmental Enrichment in Cat Agility
-Providing cats with stimulating environments and activities is crucial for their **physical** and **mental well-being**, according to a study published in [Animal Welfare](https://www.tandfonline.com/toc/hawil20/current), Vol. 27, Issue 2, 2018. 
+Providing cats with stimulating environments and activities is crucial for their **physical** and **mental well-being**, according to a study published in Animal Welfare, Vol. 27, Issue 2, 2018. 
 
 ## Common Mistakes to Avoid When Training Your Cat for Agility
 When training your cat for agility, avoid the following mistakes:
@@ -62,7 +62,7 @@ The [Go Pet Club Cat Climbing Tower](https://www.amazon.com/Go-Pet-Club-Cat-Clim
 
 ## Frequently Asked Questions
 ### How fast can a cat climb a wall?
-A cat can climb a wall at an average speed of **1.5 meters per second**, according to a study published in the [Journal of Experimental Biology](https://jeb.biologists.org), 2015. 
+A cat can climb a wall at an average speed of **1.5 meters per second**, according to a study published in the Journal of Experimental Biology, 2015. 
 ### What is the best way to train a cat for agility?
 The best way to train a cat for agility is through **positive reinforcement**, using **treats** and **praise** to reward desired behavior. 
 ### How often should I train my cat for agility?

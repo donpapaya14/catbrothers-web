@@ -20,10 +20,10 @@ draft: false
 
 
 ## Introduction to Cat Acrobatics
-The **longest duration cat upside down record** is a fascinating topic that has garnered significant attention in the feline world. According to the [Guinness World Records](https://www.guinnessworldrecords.com), the current record holder is a cat named Didga, who was held upside down for **30.5 seconds** on August 25, 2018.
+The **longest duration cat upside down record** is a fascinating topic that has garnered significant attention in the feline world. According to the Guinness World Records, the current record holder is a cat named Didga, who was held upside down for **30.5 seconds** on August 25, 2018.
 
 ## What is the Current Guinness World Record for Longest Duration a Cat Can be Held Upside Down?
-The record was set by Robert Dollwet and his cat, Didga, in Australia. Didga is a skilled feline acrobat, known for her **feline agility** and **cat record holder** status. As reported by [Guinness World Records (2020)](https://www.guinnessworldrecords.com), the record attempt was carefully monitored to ensure the cat's safety and well-being.
+The record was set by Robert Dollwet and his cat, Didga, in Australia. Didga is a skilled feline acrobat, known for her **feline agility** and **cat record holder** status. As reported by Guinness World Records (2020), the record attempt was carefully monitored to ensure the cat's safety and well-being.
 
 ## Physical and Mental Factors that Contribute to a Cat's Ability to be Held Upside Down for Extended Periods
 Research has shown that a cat's **righting reflex**, flexibility, and calm temperament are key factors in determining their ability to be held upside down. According to a [scientific study on feline righting reflex (2015)](https://www.ncbi.nlm.nih.gov), cats have a unique ability to rotate their bodies in mid-air, allowing them to land on their feet. This is made possible by their flexible spine, which can rotate up to **270 degrees**.
@@ -33,24 +33,24 @@ If you're interested in trying this with your own cat, it's essential to follow 
 1. Choose a quiet and comfortable location where your cat feels secure.
 2. Support your cat's body, making sure to hold them securely but gently.
 3. Monitor your cat's stress levels, and stop immediately if they show signs of distress.
-As advised by [Veterinary behaviorist expert advice (2018)](https://www.veterinarypartner.com), it's crucial to prioritize your cat's safety and well-being.
+As advised by Veterinary behaviorist expert advice (2018), it's crucial to prioritize your cat's safety and well-being.
 
 ## Breeds Known for Their Acrobatic Abilities and Potential to Hold the Record
 Some cat breeds are naturally more agile and flexible than others, making them well-suited for acrobatic feats. These include:
 * **Bengal**: known for their energetic and playful personalities
 * **Abyssinian**: recognized for their slender build and agile bodies
 * **Oriental Shorthair**: prized for their muscular physique and flexible spines
-As reported by [Cat breed association research (2022)](https://www.catbreeds.org), these breeds are often used in cat shows and agility competitions.
+As reported by Cat breed association research (2022), these breeds are often used in cat shows and agility competitions.
 
 ## Precautions and Potential Risks Associated with Holding a Cat Upside Down
-While holding a cat upside down can be a fun and entertaining activity, it's essential to be aware of the potential risks involved. According to [Veterinary medical association guidelines (2019)](https://www.avma.org), cats can suffer from injuries, stress, and long-term effects if not handled properly.
+While holding a cat upside down can be a fun and entertaining activity, it's essential to be aware of the potential risks involved. According to Veterinary medical association guidelines (2019), cats can suffer from injuries, stress, and long-term effects if not handled properly.
 
 ## How to Teach Your Cat to Enjoy Being Held Upside Down
 If you're interested in teaching your cat to enjoy being held upside down, here's a step-by-step guide:
 1. Start by gently lifting your cat's front paws off the ground.
 2. Gradually increase the duration and height of the lift.
 3. Reward your cat with treats and praise for their calm behavior.
-As advised by [Cat training expert advice (2020)](https://www.cattraining.org), patience and positive reinforcement are key to successful training.
+As advised by Cat training expert advice (2020), patience and positive reinforcement are key to successful training.
 
 ## Frequently Asked Questions
 ### What is the average duration a cat can be held upside down?

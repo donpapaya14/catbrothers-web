@@ -19,28 +19,28 @@ draft: false
 
 
 ## Introduction to Félicette
-Félicette, a **French cat**, was the first cat to eat a **space meal** in 1963. According to the [ESA (European Space Agency)](https://www.esa.int), Félicette was a **tuxedo cat** selected for her **temperament** and **breed**. Her training included **parachute** and **spaceflight** simulations.
+Félicette, a **French cat**, was the first cat to eat a **space meal** in 1963. According to the ESA (European Space Agency), Félicette was a **tuxedo cat** selected for her **temperament** and **breed**. Her training included **parachute** and **spaceflight** simulations.
 
 ## Félicette's Space Mission
-On October 18, 1963, Félicette launched into space on a **Véronique AGI** rocket, reaching an **altitude** of 157 miles (253 kilometers) and a **duration** of 15 minutes. During the flight, Félicette ate a specially prepared **space meal**, as reported by the [Cité de l'Espace (Space Museum)](https://www.cite-espace.com) in Toulouse, France.
+On October 18, 1963, Félicette launched into space on a **Véronique AGI** rocket, reaching an **altitude** of 157 miles (253 kilometers) and a **duration** of 15 minutes. During the flight, Félicette ate a specially prepared **space meal**, as reported by the Cité de l'Espace (Space Museum) in Toulouse, France.
 
 ## Félicette's Legacy
 Félicette's space mission contributed to the development of **space exploration**, including the use of **cats in space research**. According to [NASA's Ames Research Center](https://www.nasa.gov/ames), cats have unique **physiological** and **psychological** abilities that make them ideal for space travel.
 
 ## Interesting Facts About Félicette
-Félicette's favorite foods included **salmon** and **tuna**. After the space mission, Félicette was treated as a **hero** and lived a normal life. As reported by [Félicette's owner, Madame Jeanne Dumont](https://www.felicette.fr), in her book 'Félicette: La Chatte de l'Espace', Félicette's **personality** was calm and affectionate.
+Félicette's favorite foods included **salmon** and **tuna**. After the space mission, Félicette was treated as a **hero** and lived a normal life. As reported by Félicette's owner, Madame Jeanne Dumont, in her book 'Félicette: La Chatte de l'Espace', Félicette's **personality** was calm and affectionate.
 
 ## Félicette's Impact on Cat Space Travel
-The impact of Félicette's space mission on **cat space travel** was significant, as it paved the way for future **feline space research**. According to [The Planetary Society](https://www.planetary.org), cats have been used in space research to study **space adaptation** and **spaceflight effects**.
+The impact of Félicette's space mission on **cat space travel** was significant, as it paved the way for future **feline space research**. According to The Planetary Society, cats have been used in space research to study **space adaptation** and **spaceflight effects**.
 
 ## Conclusion and Final Thoughts
 Félicette's remarkable story is a significant part of **French space history** and **cat space travel**. As reported by the [International Space University](https://www.isunet.edu), Félicette's legacy continues to inspire **space research** and **space exploration**.
 
 ### Practical Advice
 To learn more about Félicette and **space exploration**, follow these steps:
-1. Visit the [ESA (European Space Agency)](https://www.esa.int) website for more information on **space missions** and **space research**.
-2. Read [Félicette's owner, Madame Jeanne Dumont](https://www.felicette.fr), book 'Félicette: La Chatte de l'Espace' for a personal account of Félicette's life and space mission.
-3. Explore the [Cité de l'Espace (Space Museum)](https://www.cite-espace.com) in Toulouse, France, for interactive exhibits on **space exploration** and **space travel**.
+1. Visit the ESA (European Space Agency) website for more information on **space missions** and **space research**.
+2. Read Félicette's owner, Madame Jeanne Dumont, book 'Félicette: La Chatte de l'Espace' for a personal account of Félicette's life and space mission.
+3. Explore the Cité de l'Espace (Space Museum) in Toulouse, France, for interactive exhibits on **space exploration** and **space travel**.
 
 ## Frequently Asked Questions
 ### What was Félicette's space mission?
@@ -48,13 +48,13 @@ Félicette's space mission was a **suborbital flight** on a **Véronique AGI** r
 ### How high did Félicette fly?
 Félicette reached an **altitude** of 157 miles (253 kilometers) during her 15-minute spaceflight.
 ### What did Félicette eat in space?
-Félicette ate a specially prepared **space meal** during her spaceflight, as reported by the [Cité de l'Espace (Space Museum)](https://www.cite-espace.com).
+Félicette ate a specially prepared **space meal** during her spaceflight, as reported by the Cité de l'Espace (Space Museum).
 ### What was Félicette's breed?
 Félicette was a **tuxedo cat**, selected for her **temperament** and **breed**.
 ### What was Félicette's legacy?
 Félicette's legacy is significant in **French space history** and **cat space travel**, as she paved the way for future **feline space research**.
 ### How can I learn more about Félicette?
-To learn more about Félicette, visit the [ESA (European Space Agency)](https://www.esa.int) website, read [Félicette's owner, Madame Jeanne Dumont](https://www.felicette.fr), book 'Félicette: La Chatte de l'Espace', and explore the [Cité de l'Espace (Space Museum)](https://www.cite-espace.com) in Toulouse, France.
+To learn more about Félicette, visit the ESA (European Space Agency) website, read Félicette's owner, Madame Jeanne Dumont, book 'Félicette: La Chatte de l'Espace', and explore the Cité de l'Espace (Space Museum) in Toulouse, France.
 
 ## My Take
 As an app developer and professional chef, I find Félicette's story fascinating. Félicette's **space meal** was a significant aspect of her space mission, and it's interesting to learn about the **nutritional** aspects of space travel. I recommend trying [Space Food en Amazon](https://www.amazon.com/s?k=Space+Food&tag=vds96-20)(https://www.amazon.com) for a unique culinary experience.
@@ -74,10 +74,10 @@ To summarize, here are the key points:
 * Félicette's space mission was a **suborbital flight** on a **Véronique AGI** rocket.
 * Félicette reached an **altitude** of 157 miles (253 kilometers) during her 15-minute spaceflight.
 * Félicette's legacy is significant in **French space history** and **cat space travel**.
-* To learn more about Félicette, visit the [ESA (European Space Agency)](https://www.esa.int) website, read [Félicette's owner, Madame Jeanne Dumont](https://www.felicette.fr), book 'Félicette: La Chatte de l'Espace', and explore the [Cité de l'Espace (Space Museum)](https://www.cite-espace.com) in Toulouse, France.
+* To learn more about Félicette, visit the ESA (European Space Agency) website, read Félicette's owner, Madame Jeanne Dumont, book 'Félicette: La Chatte de l'Espace', and explore the Cité de l'Espace (Space Museum) in Toulouse, France.
 * Try [Space Food en Amazon](https://www.amazon.com/s?k=Space+Food&tag=vds96-20)(https://www.amazon.com) for a unique culinary experience.
-* Follow the [ESA (European Space Agency)](https://www.esa.int) for updates on **space missions** and **space research**.
-* Support [The Planetary Society](https://www.planetary.org) for **space exploration** and **space research** initiatives.
+* Follow the ESA (European Space Agency) for updates on **space missions** and **space research**.
+* Support The Planetary Society for **space exploration** and **space research** initiatives.
 
 
 ---

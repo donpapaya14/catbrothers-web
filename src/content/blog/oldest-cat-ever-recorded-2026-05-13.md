@@ -18,10 +18,10 @@ draft: false
 ---
 
 ## Introduction to Feline Longevity
-The **oldest cat Guinness record** is a fascinating topic that has garnered significant attention from cat lovers and researchers alike. Factors such as breed, diet, and lifestyle play a crucial role in determining a cat's lifespan, according to the [American Association of Feline Practitioners](https://www.aafp.org) (2020). For instance, a study published in the Journal of Feline Medicine and Surgery found that **indoor cats** live an average of **12-17 years**, while outdoor cats have a significantly shorter lifespan of **2-5 years**.
+The **oldest cat Guinness record** is a fascinating topic that has garnered significant attention from cat lovers and researchers alike. Factors such as breed, diet, and lifestyle play a crucial role in determining a cat's lifespan, according to the American Association of Feline Practitioners (2020). For instance, a study published in the Journal of Feline Medicine and Surgery found that **indoor cats** live an average of **12-17 years**, while outdoor cats have a significantly shorter lifespan of **2-5 years**.
 
 ## The Oldest Cat Record Holder
-The Guinness World Record for the **oldest cat** is held by Creme Puff, who lived an impressive **38 years and 3 days**. According to [Guinness World Records](https://www.guinnessworldrecords.com) (2019), Creme Puff was born on August 3, 1967, and passed away on August 6, 2005. Her owner, Jake Perry, attributed her long life to a **balanced diet** and regular **veterinary check-ups**.
+The Guinness World Record for the **oldest cat** is held by Creme Puff, who lived an impressive **38 years and 3 days**. According to Guinness World Records (2019), Creme Puff was born on August 3, 1967, and passed away on August 6, 2005. Her owner, Jake Perry, attributed her long life to a **balanced diet** and regular **veterinary check-ups**.
 
 ## Genetics and Longevity in Cats
 Genetics play a significant role in determining a cat's lifespan. Research published in the [Journal of Feline Medicine and Surgery](https://www.sciencedirect.com/journal/journal-of-feline-medicine-and-surgery) (2018) found that **telomeres**, which are protective caps on the ends of chromosomes, can affect a cat's lifespan. Additionally, certain **genetic disorders** can also impact a cat's longevity.
@@ -30,7 +30,7 @@ Genetics play a significant role in determining a cat's lifespan. Research publi
 A **balanced diet** is essential for promoting feline longevity. According to the [National Research Council](https://www.nap.edu) (2006), a cat's diet should include **key nutrients** such as protein, fat, and carbohydrates. Feeding strategies such as **meal frequency** and **portion control** can also impact a cat's lifespan. For example, a study published in the Journal of Animal Science found that **feeding cats 2-3 times a day** can help maintain a healthy weight and reduce the risk of **obesity**.
 
 ## Health Conditions Affecting Longevity
-Common health issues such as **kidney disease**, **cancer**, and **obesity** can significantly impact a cat's lifespan. According to the [Journal of Veterinary Internal Medicine](https://onlinelibrary.wiley.com/journal/19391355) (2017), **regular veterinary check-ups** and **preventative care** can help identify and manage these conditions. For instance, a study published in the Journal of Feline Medicine and Surgery found that **annual blood tests** can help detect **kidney disease** in its early stages.
+Common health issues such as **kidney disease**, **cancer**, and **obesity** can significantly impact a cat's lifespan. According to the Journal of Veterinary Internal Medicine (2017), **regular veterinary check-ups** and **preventative care** can help identify and manage these conditions. For instance, a study published in the Journal of Feline Medicine and Surgery found that **annual blood tests** can help detect **kidney disease** in its early stages.
 
 ## Tips for Promoting a Long and Healthy Life
 Here are some practical tips for cat owners to promote their pet's longevity:

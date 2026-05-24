@@ -20,7 +20,7 @@ draft: false
 
 
 ## The Link Between Diet and Kidney Disease in Cats
-Kidney disease is a prevalent condition in cats, affecting **1 in 5** felines over the age of 15, according to the [American Association of Feline Practitioners](https://www.catvets.com/), 2019. Diet plays a crucial role in exacerbating or managing the condition. A **well-balanced diet** can help slow the progression of kidney disease.
+Kidney disease is a prevalent condition in cats, affecting **1 in 5** felines over the age of 15, according to the American Association of Feline Practitioners, 2019. Diet plays a crucial role in exacerbating or managing the condition. A **well-balanced diet** can help slow the progression of kidney disease.
 
 ## The Effect of Wet vs Dry Food on Kidney Disease
 Studies have compared the effects of wet and dry food on cats with kidney disease. A study published in the [Journal of Feline Medicine and Surgery](https://www.sciencedirect.com/journal/journal-of-feline-medicine-and-surgery), 2015, found that **wet food** can help reduce **proteinuria** and improve renal function in cats with kidney disease.
@@ -32,10 +32,10 @@ Cats with kidney disease require a **balanced diet** that is low in **phosphorus
 Case studies have shown that cats with kidney disease can benefit from a **wet food diet**. For example, a study published by the [Cornell University College of Veterinary Medicine](https://www.vet.cornell.edu/), 2018, found that cats fed a **wet food diet** had improved renal function and reduced **proteinuria** compared to those fed a **dry food diet**.
 
 ## What to Look for in a Kidney-Friendly Cat Food
-When selecting a cat food for a cat with kidney disease, look for a **balanced diet** that is low in **phosphorus** and **protein**, according to the [World Small Animal Veterinary Association](https://www.wsava.org/), 2017. Consider a **wet food diet** that is rich in **omega-3 fatty acids** and **antioxidants**.
+When selecting a cat food for a cat with kidney disease, look for a **balanced diet** that is low in **phosphorus** and **protein**, according to the World Small Animal Veterinary Association, 2017. Consider a **wet food diet** that is rich in **omega-3 fatty acids** and **antioxidants**.
 
 ## Veterinary Recommendations for Feeding Cats with Kidney Disease
-Veterinarians recommend feeding cats with kidney disease a **balanced diet** that is tailored to their individual needs, according to the [American Veterinary Medical Association](https://www.avma.org/), 2020. A **wet food diet** can be beneficial, but it's essential to consult with a veterinarian to determine the best diet for your cat.
+Veterinarians recommend feeding cats with kidney disease a **balanced diet** that is tailored to their individual needs, according to the American Veterinary Medical Association, 2020. A **wet food diet** can be beneficial, but it's essential to consult with a veterinarian to determine the best diet for your cat.
 
 ### Comparison of Wet and Dry Food for Cats with Kidney Disease
 | Food Type | Phosphorus Content | Protein Content | Omega-3 Fatty Acids |
@@ -51,10 +51,10 @@ The best food for cats with kidney disease is a **balanced diet** that is low in
 While **dry food** can be convenient, it may not be the best option for cats with kidney disease. A study published in the [Journal of Feline Medicine and Surgery](https://www.sciencedirect.com/journal/journal-of-feline-medicine-and-surgery), 2015, found that **wet food** can help reduce **proteinuria** and improve renal function in cats with kidney disease.
 
 ### How often should I feed my cat with kidney disease?
-Feed your cat with kidney disease **2-3 times a day**, according to the [American Veterinary Medical Association](https://www.avma.org/), 2020. Divide your cat's daily ration into **smaller meals** to help manage their condition.
+Feed your cat with kidney disease **2-3 times a day**, according to the American Veterinary Medical Association, 2020. Divide your cat's daily ration into **smaller meals** to help manage their condition.
 
 ### What are the benefits of using Hill's Science Diet Kidney Cat Food?
-[Hill's Science Diet Kidney Cat Food](https://www.hillspet.com/) is a **balanced diet** that is specifically formulated for cats with kidney disease. It is low in **phosphorus** and **protein** and rich in **omega-3 fatty acids** and **antioxidants**.
+Hill's Science Diet Kidney Cat Food is a **balanced diet** that is specifically formulated for cats with kidney disease. It is low in **phosphorus** and **protein** and rich in **omega-3 fatty acids** and **antioxidants**.
 
 ### Can I add supplements to my cat's food?
 While **supplements** can be beneficial, it's essential to consult with a veterinarian before adding any supplements to your cat's food. Excessive **supplementation** can be harmful to your cat's health.

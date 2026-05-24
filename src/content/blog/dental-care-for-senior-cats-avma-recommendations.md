@@ -19,13 +19,13 @@ draft: false
 
 
 ## Understanding Senior Cat Dental Health
-Senior cat dental care is crucial for maintaining overall health, as **periodontal disease** affects **70% of cats** by age 3, according to the [American Veterinary Medical Association (AVMA)](https://www.avma.org). This condition can lead to **kidney disease**, **diabetes**, and **heart disease** if left untreated. The AVMA 2020 guidelines emphasize the importance of regular dental care for senior cats.
+Senior cat dental care is crucial for maintaining overall health, as **periodontal disease** affects **70% of cats** by age 3, according to the American Veterinary Medical Association (AVMA). This condition can lead to **kidney disease**, **diabetes**, and **heart disease** if left untreated. The AVMA 2020 guidelines emphasize the importance of regular dental care for senior cats.
 
 ## AVMA Recommended Dental Care for Senior Cats
 The AVMA recommends **annual dental exams** and **cleaning** for senior cats. Owners should also monitor their cat's **dental health** and watch for signs of problems, such as **bad breath**, **drooling**, and **difficulty eating**. The AVMA 2020 guidelines provide a comprehensive guide for senior cat dental care.
 
 ## Home Dental Care for Senior Cats
-To maintain your senior cat's dental health at home, **brush their teeth** regularly using a **veterinary-approved toothpaste**, such as [ Virbac C.E.T. Toothpaste for Cats en Amazon](https://www.amazon.com/s?k=+Virbac+C.E.T.+Toothpaste+for+Cats&tag=vds96-20). The [Veterinary Oral Health Council (VOHC)](https://www.vohc.org) recommends brushing at least **2-3 times a week**. Additionally, using a **water fountain** can help reduce **tartar buildup**.
+To maintain your senior cat's dental health at home, **brush their teeth** regularly using a **veterinary-approved toothpaste**, such as [ Virbac C.E.T. Toothpaste for Cats en Amazon](https://www.amazon.com/s?k=+Virbac+C.E.T.+Toothpaste+for+Cats&tag=vds96-20). The Veterinary Oral Health Council (VOHC) recommends brushing at least **2-3 times a week**. Additionally, using a **water fountain** can help reduce **tartar buildup**.
 
 ## Dietary Changes for Senior Cats' Dental Health
 Certain cat foods can help prevent dental problems. **Dental chews** and **crunchy foods** promote **saliva production**, which helps neutralize acid and remineralize teeth. A study in the [Journal of Feline Medicine and Surgery (2018)](https://www.sciencedirect.com/journal/journal-of-feline-medicine-and-surgery) found that **nutritional management** can play a crucial role in preventing dental disease in cats.
@@ -34,7 +34,7 @@ Certain cat foods can help prevent dental problems. **Dental chews** and **crunc
 Common signs of dental problems in senior cats include **changes in appetite**, **drooling**, and **difficulty eating**. If you notice any of these signs, consult your veterinarian immediately. A study in [Veterinary Clinics of North America: Small Animal Practice (2017)](https://www.sciencedirect.com/journal/veterinary-clinics-of-north-america-small-animal-practice) found that **dental disease** is a common issue in older cats.
 
 ## Veterinary Care for Senior Cat Dental Problems
-If your senior cat is experiencing dental problems, it's essential to seek veterinary care. The [American Animal Hospital Association (AAHA)](https://www.aaha.org) recommends **regular dental check-ups** and **professional cleanings** to prevent and treat dental disease. In emergency situations, such as **tooth abscesses** or **broken teeth**, seek immediate veterinary attention.
+If your senior cat is experiencing dental problems, it's essential to seek veterinary care. The American Animal Hospital Association (AAHA) recommends **regular dental check-ups** and **professional cleanings** to prevent and treat dental disease. In emergency situations, such as **tooth abscesses** or **broken teeth**, seek immediate veterinary attention.
 
 ## Frequently Asked Questions
 ### What are the most common dental problems in senior cats?

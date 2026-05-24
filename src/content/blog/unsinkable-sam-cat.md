@@ -69,7 +69,7 @@ Sam’s story became a **symbol of hope** during WWII. Books like *Ship’s Cats
 Today, Sam is commemorated at:
 1. **The Imperial War Museum** (London)
 2. **Gibraltar’s naval archives**
-3. Online exhibits like the [UK National Archives](https://www.nationalarchives.gov.uk).
+3. Online exhibits like the UK National Archives.
 
 ---
 
@@ -110,7 +110,7 @@ As a history enthusiast and developer, I’m fascinated by how Sam’s story ble
 - **Visit**: Imperial War Museum’s Unsinkable Sam display.
 - **Read**: *Ship’s Cats in War and Peace* for more stories.
 - **Watch**: BBC’s *The Secret Life of Cats* (2018) episode on Sam.
-- **Explore**: [UK National Archives](https://www.nationalarchives.gov.uk) for primary documents.
+- **Explore**: UK National Archives for primary documents.
 - **Commemorate**: Share Sam’s story on social media (tag #UnsinkableSam).
 - **Support**: Donate to naval history preservation societies.
 

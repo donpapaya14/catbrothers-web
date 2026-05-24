@@ -18,7 +18,7 @@ draft: false
 ---
 
 ## Introduction to Feline Hyperthyroidism
-Feline hyperthyroidism is the most common endocrine disorder in cats, affecting **1 in 10 cats over age 10** according to the [American Association of Feline Practitioners (2020)](https://catvets.com). It occurs when the thyroid gland produces excess thyroid hormones (T3 and T4), often due to benign tumors. Iodine imbalance plays a key role, as thyroid hormones require iodine for synthesis.
+Feline hyperthyroidism is the most common endocrine disorder in cats, affecting **1 in 10 cats over age 10** according to the American Association of Feline Practitioners (2020). It occurs when the thyroid gland produces excess thyroid hormones (T3 and T4), often due to benign tumors. Iodine imbalance plays a key role, as thyroid hormones require iodine for synthesis.
 
 Key risk factors include:
 - Age (90% of cases occur in cats >10 years)
@@ -51,7 +51,7 @@ Diagnosing cat thyroid problems requires multiple approaches:
 | Free T4 by dialysis | 98% | Gold standard but expensive |
 | Thyroid scan | 95% | Detects tumor location |
 
-Veterinarians often need to test **T4 levels 2-3 times** if symptoms persist, as levels fluctuate daily ([Veterinary Clinics of North America, 2019](https://www.vetsmallanimal.com)).
+Veterinarians often need to test **T4 levels 2-3 times** if symptoms persist, as levels fluctuate daily (Veterinary Clinics of North America, 2019).
 
 ## Treatment Options and Efficacy
 Three main treatments exist for feline hyperthyroidism:
@@ -62,7 +62,7 @@ Three main treatments exist for feline hyperthyroidism:
    - Side effects: vomiting (15% of cats), liver issues (5%)
 
 2. **Radioactive iodine (I-131)**: 
-   - 95% cure rate in one dose ([Journal of Veterinary Internal Medicine, 2020](https://onlinelibrary.wiley.com))
+   - 95% cure rate in one dose (Journal of Veterinary Internal Medicine, 2020)
    - $1,200-$2,000 cost
    - Requires 3-5 day quarantine
 

@@ -19,7 +19,7 @@ draft: false
 
 ## Introduction to Cat Scratching
 
-Cat scratching is an instinctual behavior rooted in territorial marking and physical maintenance. According to [International Cat Care (2019)](https://icatcare.org), **scratching helps cats deposit scent markers from glands in their paws**, establishing boundaries. It also serves as exercise, stretching tendons and muscles. Without proper outlets like scratching posts, cats may target furniture, causing **$300 million in annual furniture repairs** in the U.S. alone (American Pet Products Association, 2021).
+Cat scratching is an instinctual behavior rooted in territorial marking and physical maintenance. According to International Cat Care (2019), **scratching helps cats deposit scent markers from glands in their paws**, establishing boundaries. It also serves as exercise, stretching tendons and muscles. Without proper outlets like scratching posts, cats may target furniture, causing **$300 million in annual furniture repairs** in the U.S. alone (American Pet Products Association, 2021).
 
 ## Physical Health Benefits
 
@@ -49,7 +49,7 @@ Selecting an effective post requires considering:
 
 > Relacionado: [Best self-cleaning litter boxes for large cats 2024](/blog/best-self-cleaning-litter-boxes-for-large-cats-2024)
 
-[Cat Behavior Associates (2022)](https://catbehaviorassociates.com) recommends placing posts near resting areas, as cats often scratch upon waking.
+Cat Behavior Associates (2022) recommends placing posts near resting areas, as cats often scratch upon waking.
 
 ## Training Cats to Use Scratching Posts
 
@@ -60,11 +60,11 @@ Selecting an effective post requires considering:
 
 > Relacionado: [cat with the longest tail ever recorded](/blog/cat-with-the-longest-tail-ever-recorded)
 
-A [Certified Animal Behaviorist (2021)](https://www.animalbehavior.org) notes that **consistency for 2-3 weeks** establishes lasting habits.
+A Certified Animal Behaviorist (2021) notes that **consistency for 2-3 weeks** establishes lasting habits.
 
 ## Conclusion and Recommendations
 
-Scratching posts are **non-negotiable** for cat owners. The [American Association of Feline Practitioners (2020)](https://catvets.com) advises **one post per cat, plus one extra** to prevent competition. Pair with nail trims every 3-4 weeks for optimal claw health.
+Scratching posts are **non-negotiable** for cat owners. The American Association of Feline Practitioners (2020) advises **one post per cat, plus one extra** to prevent competition. Pair with nail trims every 3-4 weeks for optimal claw health.
 
 ## Frequently Asked Questions
 
@@ -72,10 +72,10 @@ Scratching posts are **non-negotiable** for cat owners. The [American Associatio
 Cats scratch furniture to mark territory and stretch muscles. A 2017 Cornell study found **64% of cats prefer vertical surfaces** like couch arms when no post is available.
 
 ### How tall should a scratching post be?
-The post should be **at least 30 inches tall** to allow full-body stretching. Larger breeds like Maine Coons need 36+ inches ([International Cat Association, 2021](https://tica.org)).
+The post should be **at least 30 inches tall** to allow full-body stretching. Larger breeds like Maine Coons need 36+ inches (International Cat Association, 2021).
 
 ### Can scratching posts damage cat claws?
-No—quality posts with sisal or cardboard **safely file claws**. Avoid carpet-covered posts, which can fray and snag nails ([Veterinary Medical Association, 2019](https://www.avma.org)).
+No—quality posts with sisal or cardboard **safely file claws**. Avoid carpet-covered posts, which can fray and snag nails (Veterinary Medical Association, 2019).
 
 ### How often should I replace a scratching post?
 Replace when material is shredded or unstable. Sisal posts last **6-12 months** with daily use; cardboard lasts **3-6 months**.

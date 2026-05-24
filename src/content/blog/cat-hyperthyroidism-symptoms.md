@@ -20,11 +20,11 @@ draft: false
 
 ## Introduction to Feline Hyperthyroidism
 
-Feline hyperthyroidism is the most common endocrine disorder in cats, affecting **1 in 10 cats over age 10** according to the [American Association of Feline Practitioners (2019)](https://catvets.com). It occurs when the thyroid gland produces excess thyroid hormones (T4 and T3), often due to benign tumors. Iodine imbalance plays a key role, as the thyroid uses iodine to produce these hormones.
+Feline hyperthyroidism is the most common endocrine disorder in cats, affecting **1 in 10 cats over age 10** according to the American Association of Feline Practitioners (2019). It occurs when the thyroid gland produces excess thyroid hormones (T4 and T3), often due to benign tumors. Iodine imbalance plays a key role, as the thyroid uses iodine to produce these hormones.
 
 ## Subtle Signs of Hyperthyroidism in Cats
 
-Early **cat hyperthyroidism warning signs** are often overlooked. A [Journal of Veterinary Internal Medicine (2017)](https://onlinelibrary.wiley.com) study of 1,200 cats found:
+Early **cat hyperthyroidism warning signs** are often overlooked. A Journal of Veterinary Internal Medicine (2017) study of 1,200 cats found:
 - **Weight loss despite increased appetite** (87% of cases)
 - **Restlessness at night** (63%)
 - **Excessive thirst** (42%)
@@ -36,7 +36,7 @@ Owners may mistake these for normal aging. A 15% body weight drop over 3 months 
 ## Physical Examination Findings
 
 Vets check for:
-1. **Palpable thyroid nodule** (present in 90% of cases per [Veterinary Clinics of North America (2015)](https://www.vetsmall.theclinics.com))
+1. **Palpable thyroid nodule** (present in 90% of cases per Veterinary Clinics of North America (2015))
 2. **Heart rate >220 bpm** (normal: 140-180)
 3. **Hypertension** (systolic BP >160 mmHg)
 
@@ -50,7 +50,7 @@ Vets check for:
 
 > Relacionado: [Oldest Cat Ever Recorded](/blog/oldest-cat-ever-recorded)
 
-Source: [Journal of the American Veterinary Medical Association (2018)](https://avmajournals.avma.org)
+Source: Journal of the American Veterinary Medical Association (2018)
 
 ## Treatment Options for Feline Hyperthyroidism
 
@@ -62,7 +62,7 @@ Source: [Journal of the American Veterinary Medical Association (2018)](https://
 
 ## Monitoring and Management
 
-Post-diagnosis, the [International Journal of Veterinary Medicine (2020)](https://www.ivis.org) recommends:
+Post-diagnosis, the International Journal of Veterinary Medicine (2020) recommends:
 - **Quarterly blood tests** (T4 levels should be 1.5-3.5 µg/dL)
 - **Annual blood pressure checks**
 - **Iodine-restricted diet** (Hill's y/d reduces hormone production by 30% in 3 weeks)
@@ -79,7 +79,7 @@ No, but secondary effects like hypertension can cause discomfort. **85% of owner
 Yes, **28% of hyperthyroid cats show increased irritability** due to metabolic overdrive. This typically resolves with treatment (Tufts University, 2018).
 
 ### What foods should hyperthyroid cats avoid?
-Avoid **high-iodine foods** like fish, dairy, and eggs. The [American College of Veterinary Nutrition](https://www.acvn.org) recommends <0.4 ppm iodine in therapeutic diets.
+Avoid **high-iodine foods** like fish, dairy, and eggs. The American College of Veterinary Nutrition recommends <0.4 ppm iodine in therapeutic diets.
 
 ### Can young cats get hyperthyroidism?
 Rare but possible - **3% of cases occur in cats under 8 years old**. Genetic factors may play a role (University of California-Davis, 2020).

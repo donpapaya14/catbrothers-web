@@ -19,22 +19,22 @@ draft: false
 
 
 ## Understanding the AVMA Vaccination Guidelines
-The American Veterinary Medical Association (AVMA) provides guidelines for **indoor cat vaccinations**, emphasizing the importance of core and non-core vaccines. According to the [American Veterinary Medical Association](https://www.avma.org), core vaccines are essential for all cats, while non-core vaccines are recommended based on the cat's lifestyle and risk factors.
+The American Veterinary Medical Association (AVMA) provides guidelines for **indoor cat vaccinations**, emphasizing the importance of core and non-core vaccines. According to the American Veterinary Medical Association, core vaccines are essential for all cats, while non-core vaccines are recommended based on the cat's lifestyle and risk factors.
 
 ## Core Vaccines for Indoor Cats
-Core vaccines for indoor cats include the **rabies vaccine**, which is typically administered at 12-16 weeks of age, and the **feline viral rhinotracheitis (FVR)**, **feline calicivirus (FCV)**, and **feline panleukopenia (FPV)** vaccines, which are usually given in a combination vaccine at 6-8 weeks of age. The [AVMA Core Vaccination Guidelines (2020)](https://www.avma.org/KB/Policies/Pages/Vaccination-Guidelines.aspx) recommend a booster dose one year after the initial vaccination, and then every 3 years thereafter.
+Core vaccines for indoor cats include the **rabies vaccine**, which is typically administered at 12-16 weeks of age, and the **feline viral rhinotracheitis (FVR)**, **feline calicivirus (FCV)**, and **feline panleukopenia (FPV)** vaccines, which are usually given in a combination vaccine at 6-8 weeks of age. The AVMA Core Vaccination Guidelines (2020) recommend a booster dose one year after the initial vaccination, and then every 3 years thereafter.
 
 ## Non-Core Vaccines: When to Consider
-Non-core vaccines, such as the **feline leukemia virus (FeLV)** and **feline immunodeficiency virus (FIV)** vaccines, are recommended for cats that are at high risk of exposure. According to the [American Association of Feline Practitioners (AAFP)](https://www.catvets.com), cats that go outdoors, are exposed to other cats, or have a history of fighting are at higher risk and may benefit from these vaccines.
+Non-core vaccines, such as the **feline leukemia virus (FeLV)** and **feline immunodeficiency virus (FIV)** vaccines, are recommended for cats that are at high risk of exposure. According to the American Association of Feline Practitioners (AAFP), cats that go outdoors, are exposed to other cats, or have a history of fighting are at higher risk and may benefit from these vaccines.
 
 ## Factors Influencing Vaccination Decisions
-Several factors influence vaccination decisions, including the cat's **lifestyle**, **geographical location**, and **health status**. For example, cats that live in areas with high rates of FeLV or FIV may require additional vaccinations. The [AVMA Vaccination Guidelines (2020)](https://www.avma.org/KB/Policies/Pages/Vaccination-Guidelines.aspx) provide guidance on how to assess these factors and make informed decisions.
+Several factors influence vaccination decisions, including the cat's **lifestyle**, **geographical location**, and **health status**. For example, cats that live in areas with high rates of FeLV or FIV may require additional vaccinations. The AVMA Vaccination Guidelines (2020) provide guidance on how to assess these factors and make informed decisions.
 
 ## Managing Vaccine-Related Risks
-While vaccines are generally safe, there is a small risk of adverse reactions. To manage these risks, it's essential to **monitor your cat for signs of an adverse reaction**, such as vomiting, diarrhea, or lethargy, and to **seek veterinary care immediately if you notice any of these symptoms**. The [American Animal Hospital Association (AAHA)](https://www.aaha.org) recommends that veterinarians provide clear instructions on how to monitor for adverse reactions and what to do in case of an emergency.
+While vaccines are generally safe, there is a small risk of adverse reactions. To manage these risks, it's essential to **monitor your cat for signs of an adverse reaction**, such as vomiting, diarrhea, or lethargy, and to **seek veterinary care immediately if you notice any of these symptoms**. The American Animal Hospital Association (AAHA) recommends that veterinarians provide clear instructions on how to monitor for adverse reactions and what to do in case of an emergency.
 
 ## Consulting with Your Veterinarian
-When consulting with your veterinarian about vaccination decisions, it's essential to **ask the right questions**, such as what vaccines are recommended, what are the risks and benefits, and what are the potential side effects. The [Veterinary Information Network (VIN)](https://www.vin.com) provides a wealth of information on vaccination guidelines and can help you make informed decisions.
+When consulting with your veterinarian about vaccination decisions, it's essential to **ask the right questions**, such as what vaccines are recommended, what are the risks and benefits, and what are the potential side effects. The Veterinary Information Network (VIN) provides a wealth of information on vaccination guidelines and can help you make informed decisions.
 
 ### Comparison of Vaccination Schedules
 | Vaccine | Core/Non-Core | Recommended Age |
@@ -48,19 +48,19 @@ When consulting with your veterinarian about vaccination decisions, it's essenti
 ### What are the most common indoor cat vaccinations?
 The most common indoor cat vaccinations are the **rabies vaccine**, **FVR/FCV/FPV vaccine**, and **FeLV vaccine**. According to the [Centers for Disease Control and Prevention (CDC)](https://www.cdc.gov), these vaccines are essential for protecting cats against serious diseases.
 ### How often do indoor cats need to be vaccinated?
-Indoor cats typically need to be vaccinated every 3 years, although this may vary depending on the vaccine and the cat's risk factors. The [AVMA Vaccination Guidelines (2020)](https://www.avma.org/KB/Policies/Pages/Vaccination-Guidelines.aspx) provide guidance on vaccination schedules.
+Indoor cats typically need to be vaccinated every 3 years, although this may vary depending on the vaccine and the cat's risk factors. The AVMA Vaccination Guidelines (2020) provide guidance on vaccination schedules.
 ### What are the risks of not vaccinating my indoor cat?
 The risks of not vaccinating your indoor cat include **exposure to serious diseases**, such as rabies, FeLV, and FIV. According to the [World Health Organization (WHO)](https://www.who.int), these diseases can be fatal if left untreated.
 ### Can I vaccinate my indoor cat myself?
-No, it's not recommended to vaccinate your indoor cat yourself. Vaccinations should only be administered by a **licensed veterinarian**, as they require specialized training and equipment. The [American Veterinary Medical Association (AVMA)](https://www.avma.org) emphasizes the importance of proper vaccination techniques to ensure safety and efficacy.
+No, it's not recommended to vaccinate your indoor cat yourself. Vaccinations should only be administered by a **licensed veterinarian**, as they require specialized training and equipment. The American Veterinary Medical Association (AVMA) emphasizes the importance of proper vaccination techniques to ensure safety and efficacy.
 ### What are the potential side effects of indoor cat vaccinations?
 Potential side effects of indoor cat vaccinations include **vomiting**, **diarrhea**, and **lethargy**. According to the [Food and Drug Administration (FDA)](https://www.fda.gov), these side effects are typically mild and short-lived.
 ### How much do indoor cat vaccinations cost?
-The cost of indoor cat vaccinations can vary depending on the vaccine, the veterinarian, and the location. On average, the cost of a **rabies vaccine** is around $20-$50, while the cost of a **FVR/FCV/FPV vaccine** is around $30-$70. The [American Animal Hospital Association (AAHA)](https://www.aaha.org) provides guidance on vaccination costs and how to budget for them.
+The cost of indoor cat vaccinations can vary depending on the vaccine, the veterinarian, and the location. On average, the cost of a **rabies vaccine** is around $20-$50, while the cost of a **FVR/FCV/FPV vaccine** is around $30-$70. The American Animal Hospital Association (AAHA) provides guidance on vaccination costs and how to budget for them.
 
 ## My Take
 As an app developer and professional chef, I understand the importance of **staying informed** about the latest vaccination guidelines. When it comes to my own cat, I want to make sure I'm doing everything I can to protect her health and wellbeing. That's why I always consult with my veterinarian to determine the best vaccination schedule for her.
-I've also found that **staying up-to-date** on the latest research and guidelines is essential for making informed decisions. The [AVMA Vaccination Guidelines (2020)](https://www.avma.org/KB/Policies/Pages/Vaccination-Guidelines.aspx) are a valuable resource for cat owners, providing guidance on vaccination schedules, risks, and benefits.
+I've also found that **staying up-to-date** on the latest research and guidelines is essential for making informed decisions. The AVMA Vaccination Guidelines (2020) are a valuable resource for cat owners, providing guidance on vaccination schedules, risks, and benefits.
 In addition to following the recommended vaccination schedule, I also make sure to **provide a healthy lifestyle** for my cat, including a balanced diet, regular exercise, and plenty of love and attention. By taking a holistic approach to her health, I can help ensure she lives a long and happy life.
 
 

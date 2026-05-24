@@ -19,17 +19,17 @@ draft: false
 
 
 ## Introduction to Senior Cat Pain Recognition
-Recognizing **senior cat pain** is crucial for improving their quality of life. According to the [American Animal Hospital Association (AAHA)](https://www.aaha.org/), a 2019 study on Pain in Geriatric Cats found that **60% of senior cats** experience some form of pain. 
+Recognizing **senior cat pain** is crucial for improving their quality of life. According to the American Animal Hospital Association (AAHA), a 2019 study on Pain in Geriatric Cats found that **60% of senior cats** experience some form of pain. 
 
 ## Unconventional Signs of Pain in Senior Cats
-Increased **vocalization**, changes in **appetite**, or **restlessness** can indicate pain in senior cats. The [American Animal Hospital Association (AAHA)](https://www.aaha.org/) 2019 study suggests that these behaviors are often overlooked as signs of pain.
+Increased **vocalization**, changes in **appetite**, or **restlessness** can indicate pain in senior cats. The American Animal Hospital Association (AAHA) 2019 study suggests that these behaviors are often overlooked as signs of pain.
 
 1. **Increased vocalization**: Meowing or crying, especially at night or during feeding times.
 2. **Changes in appetite**: Decreased interest in food or difficulty eating due to dental issues.
 3. **Restlessness**: Pacing, panting, or difficulty settling down.
 
 ## The Role of Age-Related Changes in Pain Perception
-Age affects a cat's **pain threshold**, and certain medical conditions can increase sensitivity to pain. The [International Association for Animal Pain Research and Management (IAAPRM)](https://www.iaapm.org/) 2017 report on Geriatric Pain in Animals states that **40% of senior cats** have some degree of cognitive decline, which can impact their pain perception.
+Age affects a cat's **pain threshold**, and certain medical conditions can increase sensitivity to pain. The International Association for Animal Pain Research and Management (IAAPRM) 2017 report on Geriatric Pain in Animals states that **40% of senior cats** have some degree of cognitive decline, which can impact their pain perception.
 
 | Age | Pain Threshold |
 | --- | --- |
@@ -49,7 +49,7 @@ Age affects a cat's **pain threshold**, and certain medical conditions can incre
 > Relacionado: [Why cats knock things off tables: science behind the behavior](/blog/why-cats-knock-things-off-tables-science-behind-the-behavior)
 
 ## What Vets Recommend: Pain Assessment and Management
-Working with your veterinarian to assess and manage pain in your senior cat is crucial. The [American Veterinary Medical Association (AVMA)](https://www.avma.org/) 2020 guidelines on Pain Management in Geriatric Cats recommend using **pain scales** and **pharmacological management**.
+Working with your veterinarian to assess and manage pain in your senior cat is crucial. The American Veterinary Medical Association (AVMA) 2020 guidelines on Pain Management in Geriatric Cats recommend using **pain scales** and **pharmacological management**.
 
 | Pain Scale | Description |
 | --- | --- |
@@ -65,17 +65,17 @@ Working with your veterinarian to assess and manage pain in your senior cat is c
 3. **Dietary modifications**: Feeding a balanced diet with omega-3 fatty acids and antioxidants.
 
 ## Conclusion: Early Detection and Intervention
-Early recognition and intervention are crucial for improving the quality of life for senior cats. The [American Society for the Prevention of Cruelty to Animals (ASPCA)](https://www.aspca.org/) 2020 report on Senior Cat Care emphasizes the importance of regular veterinary check-ups and monitoring for signs of pain.
+Early recognition and intervention are crucial for improving the quality of life for senior cats. The American Society for the Prevention of Cruelty to Animals (ASPCA) 2020 report on Senior Cat Care emphasizes the importance of regular veterinary check-ups and monitoring for signs of pain.
 
 ## Frequently Asked Questions
 ### What are the most common signs of pain in senior cats?
-The most common signs of pain in senior cats are **increased vocalization**, **changes in appetite**, and **restlessness**. According to the [American Animal Hospital Association (AAHA)](https://www.aaha.org/), these behaviors are often overlooked as signs of pain.
+The most common signs of pain in senior cats are **increased vocalization**, **changes in appetite**, and **restlessness**. According to the American Animal Hospital Association (AAHA), these behaviors are often overlooked as signs of pain.
 ### How can I manage my senior cat's pain at home?
 You can manage your senior cat's pain at home by providing a **comfortable environment**, **gentle exercise**, and **a balanced diet**. Consider using an [Armarkat Orthopedic Memory Foam Cat Bed en Amazon](https://www.amazon.com/s?k=Armarkat+Orthopedic+Memory+Foam+Cat+Bed&tag=vds96-20) for added comfort.
 ### What are some non-pharmacological pain relief options for senior cats?
 Some non-pharmacological pain relief options for senior cats include **physical therapy**, **acupuncture**, and **dietary modifications**. Consult with your veterinarian to determine the best approach for your cat.
 ### How often should I take my senior cat to the vet?
-You should take your senior cat to the vet at least **twice a year** for regular check-ups and monitoring for signs of pain. The [American Veterinary Medical Association (AVMA)](https://www.avma.org/) recommends more frequent visits if your cat has a pre-existing medical condition.
+You should take your senior cat to the vet at least **twice a year** for regular check-ups and monitoring for signs of pain. The American Veterinary Medical Association (AVMA) recommends more frequent visits if your cat has a pre-existing medical condition.
 ### What are some common age-related health issues that can cause pain in senior cats?
 Some common age-related health issues that can cause pain in senior cats include **arthritis**, **kidney disease**, and **hyperthyroidism**. Consult with your veterinarian to determine the best course of treatment for your cat.
 ### How can I create a comfortable environment for my senior cat?

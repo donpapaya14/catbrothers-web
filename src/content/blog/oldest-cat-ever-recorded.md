@@ -19,7 +19,7 @@ draft: false
 
 ## Introduction to Creme Puff
 
-The **oldest cat ever recorded** was Creme Puff, a domestic cat who lived an astonishing **38 years and 3 days** (1967–2005), as verified by [Guinness World Records](https://www.guinnessworldrecords.com). Owned by Jake Perry of Austin, Texas, Creme Puff's longevity remains unmatched, surpassing the typical feline lifespan by over two decades. Her case offers valuable insights into **cat longevity**, from diet to genetics.
+The **oldest cat ever recorded** was Creme Puff, a domestic cat who lived an astonishing **38 years and 3 days** (1967–2005), as verified by Guinness World Records. Owned by Jake Perry of Austin, Texas, Creme Puff's longevity remains unmatched, surpassing the typical feline lifespan by over two decades. Her case offers valuable insights into **cat longevity**, from diet to genetics.
 
 ## Diet and Lifestyle
 
@@ -33,7 +33,7 @@ A 2015 [Journal of Feline Medicine and Surgery](https://journals.sagepub.com) st
 ## Genetics and Health
 
 Creme Puff was a **mixed-breed cat**, which may have reduced genetic predispositions to certain diseases. Key health factors:
-- **No chronic illnesses**: Regular vet checks detected only minor age-related arthritis ([International Cat Care, 2018](https://icatcare.org))
+- **No chronic illnesses**: Regular vet checks detected only minor age-related arthritis (International Cat Care, 2018)
 - **Dental care**: Annual cleanings prevented periodontal disease, linked to heart conditions in cats
 
 | Factor             | Creme Puff | Average Cat |
@@ -53,11 +53,11 @@ Jake Perry maintained a **structured routine** for Creme Puff:
 
 > Relacionado: [Feline Dental Care Guide](/blog/feline-dental-care-guide)
 
-Perry also owned Granpa, another long-lived cat (34 years), suggesting his care methods were pivotal ([Guinness World Records 2016](https://www.guinnessworldrecords.com)).
+Perry also owned Granpa, another long-lived cat (34 years), suggesting his care methods were pivotal (Guinness World Records 2016).
 
 ## Comparison to Average Cat Lifespan
 
-The **average domestic cat lives 12–15 years**, but indoor cats often reach 18–20 years with optimal care ([American Association of Feline Practitioners, 2019](https://catvets.com)). Key differences:
+The **average domestic cat lives 12–15 years**, but indoor cats often reach 18–20 years with optimal care (American Association of Feline Practitioners, 2019). Key differences:
 - **Diet**: Creme Puff’s protein-rich meals vs. standard kibble
 - **Preventive care**: Biannual vet visits vs. reactive treatments
 - **Exercise**: Daily activity vs. sedentary lifestyles
@@ -66,7 +66,7 @@ The **average domestic cat lives 12–15 years**, but indoor cats often reach 18
 
 To promote **cat longevity**, consider these evidence-backed steps:
 1. **Feed high-protein meals**: Include wet food or cooked meats (avoid onions/garlic)
-2. **Schedule playtime**: 20–30 mins/day reduces obesity risk by 40% ([Veterinary Information Network, 2020](https://vin.com))
+2. **Schedule playtime**: 20–30 mins/day reduces obesity risk by 40% (Veterinary Information Network, 2020)
 3. **Annual bloodwork**: Detects early kidney/liver issues
 4. **Brush teeth weekly**: Prevents dental disease affecting 70% of cats by age 3
 
@@ -82,7 +82,7 @@ While rare, **optimal care** (genetics, diet, vet checks) can maximize lifespan.
 **Wet food with 50%+ protein** and **omega-3s** supports kidney health. Avoid fillers like corn—linked to diabetes in a [Cornell University study (2018)](https://www.vet.cornell.edu).
 
 ### How often should senior cats see a vet?
-**Every 6 months** for cats over 10. Blood tests can catch 80% of age-related diseases early ([AAFP, 2019](https://catvets.com)).
+**Every 6 months** for cats over 10. Blood tests can catch 80% of age-related diseases early (AAFP, 2019).
 
 ### Did Creme Puff take supplements?
 Her owner added **vitamin drops** to her coffee, though vets caution against caffeine. Modern alternatives include vet-approved joint supplements.

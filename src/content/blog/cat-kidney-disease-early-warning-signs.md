@@ -20,13 +20,13 @@ draft: false
 
 
 ## Introduction to Cat Kidney Disease
-The **early signs of cat kidney disease** can be subtle, making it crucial for cat owners to be aware of the **feline CKD symptoms**. According to the [International Renal Interest Society (IRIS)](https://www.iris-kidney.com), increased water intake is often mistaken for good hydration. However, a cat's daily water consumption should be around 30-50 ml/kg body weight. If your cat is drinking more than this, it may be a sign of kidney disease.
+The **early signs of cat kidney disease** can be subtle, making it crucial for cat owners to be aware of the **feline CKD symptoms**. According to the International Renal Interest Society (IRIS), increased water intake is often mistaken for good hydration. However, a cat's daily water consumption should be around 30-50 ml/kg body weight. If your cat is drinking more than this, it may be a sign of kidney disease.
 
 ## The 'Silent Thirst' Paradox
-A study by the [International Renal Interest Society (IRIS) 2022 Guidelines](https://www.iris-kidney.com/guidelines/index.php) found that cats with kidney disease may drink more water to compensate for their decreased ability to concentrate urine. For example, a 10-pound (4.5 kg) cat should drink around 135-225 ml of water per day. If your cat is drinking more than this, it's essential to consult with your veterinarian.
+A study by the International Renal Interest Society (IRIS) 2022 Guidelines found that cats with kidney disease may drink more water to compensate for their decreased ability to concentrate urine. For example, a 10-pound (4.5 kg) cat should drink around 135-225 ml of water per day. If your cat is drinking more than this, it's essential to consult with your veterinarian.
 
 ## Litter Box Clues You're Missing
-The [Journal of Feline Medicine and Surgery 2021](https://onlinelibrary.wiley.com/journal/17488929) study found that cats with kidney disease may produce more urine, which can lead to larger or more frequent litter clumps. Here are some **litter box clues** to look out for:
+The Journal of Feline Medicine and Surgery 2021 study found that cats with kidney disease may produce more urine, which can lead to larger or more frequent litter clumps. Here are some **litter box clues** to look out for:
 1. Increased urine volume
 2. More frequent urination
 3. Stronger urine odor
@@ -39,7 +39,7 @@ A [Tufts University Veterinary Medicine Study 2020](https://vet.tufts.edu) found
 3. If it takes longer than 3 seconds, consult with your veterinarian
 
 ## Weight Loss vs. Appetite Deception
-The [WSAVA Nutritional Assessment Guidelines 2023](https://www.wsava.org) found that cats with kidney disease may maintain their appetite while losing muscle mass. Here's a **body condition scoring system** to assess your cat's weight:
+The WSAVA Nutritional Assessment Guidelines 2023 found that cats with kidney disease may maintain their appetite while losing muscle mass. Here's a **body condition scoring system** to assess your cat's weight:
 | Score | Description |
 | --- | --- |
 | 1 | Underweight |
@@ -49,20 +49,20 @@ The [WSAVA Nutritional Assessment Guidelines 2023](https://www.wsava.org) found 
 You can use this system to monitor your cat's weight and adjust their diet accordingly.
 
 ## The Hidden Bloodwork Red Flag
-The [IDEXX Laboratories Clinical Research 2019](https://www.idexx.com) study found that **SDMA testing** can detect kidney decline 12-18 months earlier than traditional tests. SDMA (symmetric dimethylarginine) is a biomarker that can be measured through a simple blood test. Here's what you need to know about SDMA testing:
+The IDEXX Laboratories Clinical Research 2019 study found that **SDMA testing** can detect kidney decline 12-18 months earlier than traditional tests. SDMA (symmetric dimethylarginine) is a biomarker that can be measured through a simple blood test. Here's what you need to know about SDMA testing:
 1. SDMA is a biomarker for kidney disease
 2. It can be measured through a blood test
 3. It can detect kidney decline 12-18 months earlier than traditional tests
 
 ## Emergency Signs You Can't Ignore
-The [American College of Veterinary Emergency Care 2021](https://www.acvec.org) found that cats with kidney disease may exhibit emergency signs such as **uremic breath** and **vomiting bile**. If you notice any of these signs, it's essential to seek immediate veterinary attention. Here's an **ER vet triage protocol** to follow:
+The American College of Veterinary Emergency Care 2021 found that cats with kidney disease may exhibit emergency signs such as **uremic breath** and **vomiting bile**. If you notice any of these signs, it's essential to seek immediate veterinary attention. Here's an **ER vet triage protocol** to follow:
 1. Call your veterinarian or an emergency vet clinic
 2. Provide your cat's medical history and symptoms
 3. Follow the veterinarian's instructions for emergency care
 
 ## Frequently Asked Questions
 ### What are the early signs of cat kidney disease?
-The early signs of cat kidney disease can be subtle, but they may include increased water intake, more frequent urination, and weight loss. According to the [Mayo Clinic](https://www.mayoclinic.org), these signs can be mistaken for other conditions, so it's essential to consult with your veterinarian if you notice any changes in your cat's behavior or health.
+The early signs of cat kidney disease can be subtle, but they may include increased water intake, more frequent urination, and weight loss. According to the Mayo Clinic, these signs can be mistaken for other conditions, so it's essential to consult with your veterinarian if you notice any changes in your cat's behavior or health.
 
 ### How can I prevent cat kidney disease?
 While there is no guaranteed way to prevent cat kidney disease, you can reduce the risk by feeding your cat a balanced diet and ensuring they have access to fresh water at all times. The [World Health Organization](https://www.who.int) recommends a diet rich in protein and low in phosphorus to support kidney health.
@@ -71,10 +71,10 @@ While there is no guaranteed way to prevent cat kidney disease, you can reduce t
 The best food for cats with kidney disease is a balanced diet that is low in protein and phosphorus. [Purina Pro Plan Veterinary Diets NF Kidney Function Wet Cat Food](https://www.amazon.com/Purina-Pro-Plan-Veterinary-Diets) is a good option, as it is specifically formulated to support kidney health. You can also consider [Hill's Science Diet Kidney Care](https://www.amazon.com/Hill-Science-Diet-Kidney-Care) or [Royal Canin Renal LP](https://www.amazon.com/Royal-Canin-Renal-LP).
 
 ### Can cats with kidney disease still have a good quality of life?
-Yes, cats with kidney disease can still have a good quality of life with proper care and management. According to the [American Animal Hospital Association](https://www.aaha.org), cats with kidney disease can live for several years with the right diet, medication, and veterinary care.
+Yes, cats with kidney disease can still have a good quality of life with proper care and management. According to the American Animal Hospital Association, cats with kidney disease can live for several years with the right diet, medication, and veterinary care.
 
 ### How often should I take my cat to the vet for kidney disease check-ups?
-You should take your cat to the vet for kidney disease check-ups at least twice a year, or more often if your veterinarian recommends it. The [American Veterinary Medical Association](https://www.avma.org) recommends regular check-ups to monitor your cat's kidney health and adjust their treatment plan as needed.
+You should take your cat to the vet for kidney disease check-ups at least twice a year, or more often if your veterinarian recommends it. The American Veterinary Medical Association recommends regular check-ups to monitor your cat's kidney health and adjust their treatment plan as needed.
 
 ## My Take
 As an app developer and professional chef, I understand the importance of a balanced diet for both humans and animals. When my own cat was diagnosed with kidney disease, I was devastated. However, with the help of my veterinarian and a balanced diet, my cat was able to manage their condition and live a happy and healthy life. I hope that by sharing my experience, I can help other cat owners understand the importance of early detection and proper care for kidney disease.

@@ -59,7 +59,7 @@ Factors boosting domestic cat success:
 3. **Opportunistic feeding** (supplemented by human-provided meals)
 
 ## Play and Hunting in Domestic Cats
-Play is **essential hunting practice** for kittens. A 2020 study in the [International Journal of Applied Animal Behaviour](https://www.appliedanimalbehaviour.com) found:
+Play is **essential hunting practice** for kittens. A 2020 study in the International Journal of Applied Animal Behaviour found:
 - Kittens who played with feather toys **daily** had 40% higher hunting accuracy as adults
 - Laser pointers alone are insufficient—cats need **physical contact** to satisfy the "kill" instinct
 

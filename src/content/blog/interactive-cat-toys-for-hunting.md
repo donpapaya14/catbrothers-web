@@ -19,19 +19,19 @@ draft: false
 
 
 ## Introduction to Feline Hunting Instinct
-Cats have a natural **hunting instinct**, driven by **prey drive** and **stalking behavior**, as explained by [International Cat Care](https://icatcare.org/), 2020. This instinct is a crucial part of their behavior and physical health. According to a study by [University of California, Davis](https://www.vetmed.ucdavis.edu/), 2017, **70%** of a cat's daily activity is spent stalking and hunting.
+Cats have a natural **hunting instinct**, driven by **prey drive** and **stalking behavior**, as explained by International Cat Care, 2020. This instinct is a crucial part of their behavior and physical health. According to a study by [University of California, Davis](https://www.vetmed.ucdavis.edu/), 2017, **70%** of a cat's daily activity is spent stalking and hunting.
 
 ## Types of Interactive Cat Toys for Hunting
-There are various types of **interactive cat toys for hunting**, including **feather wands**, **laser pointers**, and **puzzle toys**. A study published in the [Journal of Feline Medicine and Surgery](https://www.jfms.com/), 2018, found that **feather wands** stimulate **hunting behavior** in **80%** of cats. The [GoCat Da Bird Pull Apart Rod](https://www.amazon.com/GoCat-Da-Bird-Pull-Apart-Rod) is a popular option.
+There are various types of **interactive cat toys for hunting**, including **feather wands**, **laser pointers**, and **puzzle toys**. A study published in the Journal of Feline Medicine and Surgery, 2018, found that **feather wands** stimulate **hunting behavior** in **80%** of cats. The [GoCat Da Bird Pull Apart Rod](https://www.amazon.com/GoCat-Da-Bird-Pull-Apart-Rod) is a popular option.
 
 ## How to Choose the Right Interactive Toy for Your Cat
-To choose the right **interactive cat toy for hunting**, consider your cat's **age**, **size**, and **personality**. The [American Animal Hospital Association](https://www.aaha.org/), 2022, recommends introducing new toys gradually and rotating them every **3-4 days** to prevent boredom. Here are some tips:
+To choose the right **interactive cat toy for hunting**, consider your cat's **age**, **size**, and **personality**. The American Animal Hospital Association, 2022, recommends introducing new toys gradually and rotating them every **3-4 days** to prevent boredom. Here are some tips:
 1. Observe your cat's preferences and interests.
 2. Choose toys that mimic prey, such as small furry mice or feather wands.
 3. Rotate toys regularly to keep your cat engaged.
 
 ## The Science Behind Feline Play and Hunting
-Feline play and hunting are driven by **neurotransmitters** such as **dopamine** and **serotonin**. A study published in the [Journal of Veterinary Behavior](https://www.journalvetbehavior.com/), 2019, found that **dopamine** levels increase by **25%** during play. Here is a comparison of neurotransmitters involved in feline play:
+Feline play and hunting are driven by **neurotransmitters** such as **dopamine** and **serotonin**. A study published in the Journal of Veterinary Behavior, 2019, found that **dopamine** levels increase by **25%** during play. Here is a comparison of neurotransmitters involved in feline play:
 | Neurotransmitter | Function |
 | --- | --- |
 | Dopamine | Reward and pleasure |
@@ -39,21 +39,21 @@ Feline play and hunting are driven by **neurotransmitters** such as **dopamine**
 | Norepinephrine | Alertness and arousal |
 
 ## DIY Interactive Cat Toys for Hunting
-You can create **DIY interactive cat toys for hunting** using household items, such as cardboard boxes and paper bags. The [Cat Behavior Associates](https://www.catbehaviorassociates.com/), 2021, provides a step-by-step guide to creating a **cardboard box puzzle**:
+You can create **DIY interactive cat toys for hunting** using household items, such as cardboard boxes and paper bags. The Cat Behavior Associates, 2021, provides a step-by-step guide to creating a **cardboard box puzzle**:
 1. Cut holes of varying sizes in a cardboard box.
 2. Place treats or kibble inside the box.
 3. Encourage your cat to problem-solve and retrieve the treats.
 
 ## Safety Precautions and Tips for Interactive Play
-When engaging in **interactive play** with your cat, it's essential to consider safety precautions, such as avoiding **overstimulation** and preventing **injury**. The [Veterinary Information Network](https://www.vin.com/), 2020, recommends supervising play sessions and providing a safe environment.
+When engaging in **interactive play** with your cat, it's essential to consider safety precautions, such as avoiding **overstimulation** and preventing **injury**. The Veterinary Information Network, 2020, recommends supervising play sessions and providing a safe environment.
 
 ## Frequently Asked Questions
 ### What are the benefits of interactive cat toys for hunting?
 Interactive cat toys for hunting provide mental and physical stimulation, reducing boredom and stress. According to a study by [University of Illinois](https://www.vetmed.illinois.edu/), 2019, **60%** of cats exhibit reduced stress when engaged in play.
 ### How often should I rotate interactive toys?
-Rotate interactive toys every **3-4 days** to prevent boredom and keep your cat engaged. The [American Animal Hospital Association](https://www.aaha.org/), 2022, recommends introducing new toys gradually.
+Rotate interactive toys every **3-4 days** to prevent boredom and keep your cat engaged. The American Animal Hospital Association, 2022, recommends introducing new toys gradually.
 ### Can I create my own interactive cat toys?
-Yes, you can create **DIY interactive cat toys** using household items, such as cardboard boxes and paper bags. The [Cat Behavior Associates](https://www.catbehaviorassociates.com/), 2021, provides a step-by-step guide.
+Yes, you can create **DIY interactive cat toys** using household items, such as cardboard boxes and paper bags. The Cat Behavior Associates, 2021, provides a step-by-step guide.
 
 ## My Take
 As an app developer and professional chef, I've always been fascinated by the connection between **feline behavior** and **nutrition**. I've observed that my own cat, Luna, is more engaged and active when playing with **interactive cat toys for hunting**. I recommend trying the [GoCat Da Bird Pull Apart Rod](https://www.amazon.com/GoCat-Da-Bird-Pull-Apart-Rod) and complementing it with a **laser pointer** for a fun and stimulating play session.

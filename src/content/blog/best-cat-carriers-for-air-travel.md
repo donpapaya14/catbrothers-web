@@ -20,11 +20,11 @@ draft: false
 
 ## Introduction to Air Travel Cat Carriers
 
-Choosing the right **cat carrier for air travel** is crucial for your pet's safety and comfort. According to the [International Air Transport Association (2022)](https://www.iata.org), airlines require carriers to meet specific size and ventilation standards. There are two main types: **soft-sided carriers**, which are lightweight and flexible, and **hard-sided carriers**, which offer more protection but may be bulkier. The best choice depends on your airline's policies and your cat's needs.
+Choosing the right **cat carrier for air travel** is crucial for your pet's safety and comfort. According to the International Air Transport Association (2022), airlines require carriers to meet specific size and ventilation standards. There are two main types: **soft-sided carriers**, which are lightweight and flexible, and **hard-sided carriers**, which offer more protection but may be bulkier. The best choice depends on your airline's policies and your cat's needs.
 
 ## Top 5 In-Cabin Cat Carriers
 
-Here’s a comparison of the top-rated **in-cabin cat carriers** based on [Pet Carrier Reviews (2023)](https://www.petcarrierreviews.com):
+Here’s a comparison of the top-rated **in-cabin cat carriers** based on Pet Carrier Reviews (2023):
 
 | Carrier Name | Dimensions (LxWxH) | Material | Key Features |
 |-------------|-------------------|----------|--------------|
@@ -43,7 +43,7 @@ Here’s a comparison of the top-rated **in-cabin cat carriers** based on [Pet C
 
 ## Airline Approved Cat Carriers
 
-Major airlines like **Delta, American Airlines, and United Airlines** have strict requirements for **airline-approved cat carriers**. For example, [Delta Air Lines (2022)](https://www.delta.com) mandates carriers must fit under the seat and have waterproof bottoms. Here’s a quick guide:
+Major airlines like **Delta, American Airlines, and United Airlines** have strict requirements for **airline-approved cat carriers**. For example, Delta Air Lines (2022) mandates carriers must fit under the seat and have waterproof bottoms. Here’s a quick guide:
 
 - **Delta**: Max dimensions 18" x 11" x 11", soft-sided only.
 - **American Airlines**: 19" x 13" x 9", hard or soft-sided.
@@ -55,7 +55,7 @@ Always check your airline’s website for updates before flying.
 
 ## Tips for Calming Your Cat During Air Travel
 
-According to the [American Animal Hospital Association (2020)](https://www.aaha.org), **40% of cats show signs of stress during travel**. Here’s how to help:
+According to the American Animal Hospital Association (2020), **40% of cats show signs of stress during travel**. Here’s how to help:
 
 1. **Use pheromone sprays**: Apply Feliway 15 minutes before travel.
 2. **Calming treats**: Give VetriScience Composure 30 minutes prior.
@@ -73,7 +73,7 @@ The [Consumer Product Safety Commission (2021)](https://www.cpsc.gov) recommends
 
 ## Conclusion and Recommendations
 
-Based on the [Pet Travel Industry Association (2022)](https://www.pettravel.com), the **best cat carriers for air travel** balance safety, comfort, and airline compliance. For in-cabin travel, the [ SturdiBag Pet Carrier en Amazon](https://www.amazon.com/s?k=+SturdiBag+Pet+Carrier&tag=vds96-20) is a top pick for its expandable design. For checked baggage, opt for a hard-sided crate like the Petmate Sky Kennel.
+Based on the Pet Travel Industry Association (2022), the **best cat carriers for air travel** balance safety, comfort, and airline compliance. For in-cabin travel, the [ SturdiBag Pet Carrier en Amazon](https://www.amazon.com/s?k=+SturdiBag+Pet+Carrier&tag=vds96-20) is a top pick for its expandable design. For checked baggage, opt for a hard-sided crate like the Petmate Sky Kennel.
 
 ## Frequently Asked Questions
 

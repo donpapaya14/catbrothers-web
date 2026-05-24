@@ -18,10 +18,10 @@ draft: false
 ---
 
 ## Introduction to Cat Kneading
-Cats knead blankets for a variety of reasons, including **evolutionary** and **emotional** purposes. The main reason behind this behavior is the **kitten nursing instinct**, where kittens knead their mother's belly to stimulate milk flow. According to a study published in the [Journal of Feline Medicine and Surgery](https://www.jfms.com) (2019), this behavior is essential for the survival of kittens.
+Cats knead blankets for a variety of reasons, including **evolutionary** and **emotional** purposes. The main reason behind this behavior is the **kitten nursing instinct**, where kittens knead their mother's belly to stimulate milk flow. According to a study published in the Journal of Feline Medicine and Surgery (2019), this behavior is essential for the survival of kittens.
 
 ## The Kitten Connection: Kneading as a Nursing Instinct
-Kittens use a specific motion pattern to trigger milk release, which involves **kneading with their front paws**. This behavior is retained in adult cats, who may knead on soft surfaces like blankets or pillows. As stated by the [Journal of Feline Medicine and Surgery](https://www.jfms.com) (2019), **75% of adult cats exhibit kneading behavior**.
+Kittens use a specific motion pattern to trigger milk release, which involves **kneading with their front paws**. This behavior is retained in adult cats, who may knead on soft surfaces like blankets or pillows. As stated by the Journal of Feline Medicine and Surgery (2019), **75% of adult cats exhibit kneading behavior**.
 
 ## Scent Marking: Your Cat's Territorial Claim
 Cats also knead to **mark their territory** with scent glands located in their paw pads. According to the [Cornell Feline Health Center](https://www.vet.cornell.edu), **pheromones released during kneading** help cats establish a sense of ownership and familiarity with their environment. Here is a comparison of feline scent gland locations:
@@ -32,13 +32,13 @@ Cats also knead to **mark their territory** with scent glands located in their p
 | Near the Tail | Scent glands near the base of the tail
 
 ## The Comfort Paradox: Stress Relief vs. Overstimulation
-While kneading can be a sign of **comfort and relaxation**, it can also be a sign of **anxiety or stress**. According to a study published in the [International Journal of Environmental Research and Public Health](https://www.mdpi.com) (2020), **kneading duration** can be an indicator of a cat's emotional state. Here are some warning signs of compulsive behavior:
+While kneading can be a sign of **comfort and relaxation**, it can also be a sign of **anxiety or stress**. According to a study published in the International Journal of Environmental Research and Public Health (2020), **kneading duration** can be an indicator of a cat's emotional state. Here are some warning signs of compulsive behavior:
 1. **Kneading for more than 10 minutes** at a time
 2. **Kneading in multiple locations** throughout the house
 3. **Kneading accompanied by other signs of stress**, such as panting or pacing
 
 ## Breed-Specific Differences in Kneading Intensity
-Different breeds of cats exhibit varying levels of kneading intensity. According to a study published in [PLOS ONE Feline Behavior Study](https://journals.plos.org) (2022), **Siamese cats knead more frequently** than **Maine Coon cats**. Here is a comparison of kneading frequencies between breeds:
+Different breeds of cats exhibit varying levels of kneading intensity. According to a study published in PLOS ONE Feline Behavior Study (2022), **Siamese cats knead more frequently** than **Maine Coon cats**. Here is a comparison of kneading frequencies between breeds:
 | Breed | Kneading Frequency |
 | --- | --- |
 | Siamese | **3.5 times per hour** |
@@ -52,13 +52,13 @@ Excessive kneading can damage fabrics and become a problem for cat owners. To re
 
 ## Frequently Asked Questions
 ### Why do cats knead blankets?
-Cats knead blankets due to their **kitten nursing instinct** and to **mark their territory** with scent glands. According to the [Journal of Feline Medicine and Surgery](https://www.jfms.com) (2019), **kneading is a natural behavior** for cats.
+Cats knead blankets due to their **kitten nursing instinct** and to **mark their territory** with scent glands. According to the Journal of Feline Medicine and Surgery (2019), **kneading is a natural behavior** for cats.
 ### How often do cats knead?
-Cats knead at varying frequencies, depending on their breed and individual personality. According to a study published in [PLOS ONE Feline Behavior Study](https://journals.plos.org) (2022), **Siamese cats knead more frequently** than **Maine Coon cats**.
+Cats knead at varying frequencies, depending on their breed and individual personality. According to a study published in PLOS ONE Feline Behavior Study (2022), **Siamese cats knead more frequently** than **Maine Coon cats**.
 ### Why do cats knead with their front paws?
-Cats knead with their front paws to **stimulate milk flow** in their mother's belly, a behavior retained in adult cats. As stated by the [Journal of Feline Medicine and Surgery](https://www.jfms.com) (2019), **kneading with front paws** is essential for kittens.
+Cats knead with their front paws to **stimulate milk flow** in their mother's belly, a behavior retained in adult cats. As stated by the Journal of Feline Medicine and Surgery (2019), **kneading with front paws** is essential for kittens.
 ### Can kneading be a sign of anxiety?
-Yes, kneading can be a sign of **anxiety or stress** in cats. According to a study published in the [International Journal of Environmental Research and Public Health](https://www.mdpi.com) (2020), **kneading duration** can be an indicator of a cat's emotional state.
+Yes, kneading can be a sign of **anxiety or stress** in cats. According to a study published in the International Journal of Environmental Research and Public Health (2020), **kneading duration** can be an indicator of a cat's emotional state.
 ### How can I redirect excessive kneading?
 To redirect excessive kneading, provide **alternative scratching surfaces**, such as the [PetFusion Ultimate Cat Scratcher Lounge](https://www.amazon.com), and **trim your cat's nails regularly**.
 ### What are some warning signs of compulsive kneading?

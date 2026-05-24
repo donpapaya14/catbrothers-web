@@ -19,10 +19,10 @@ draft: false
 
 
 ## Introduction to Cat Carriers for Small Cats
-When it comes to traveling with small cats under 10 pounds, choosing the right **cat carriers for small cats** is crucial for their comfort and safety. According to the [International Association of Animal Behavior Consultants (IAABC)](https://iaabc.org), the type of carrier used can significantly impact the stress levels of cats during travel. 
+When it comes to traveling with small cats under 10 pounds, choosing the right **cat carriers for small cats** is crucial for their comfort and safety. According to the International Association of Animal Behavior Consultants (IAABC), the type of carrier used can significantly impact the stress levels of cats during travel. 
 
 ## Types of Cat Carriers Suitable for Small Cats
-There are several types of cat carriers suitable for small cats, including hard-sided, soft-sided, and backpack carriers. Each has its pros and cons. For example, hard-sided carriers provide excellent protection but can be heavy and less comfortable for cats, while soft-sided carriers are lightweight and more comfortable but may not provide the same level of protection. The [International Association of Animal Behavior Consultants (IAABC)](https://iaabc.org) recommends choosing a carrier that balances protection and comfort.
+There are several types of cat carriers suitable for small cats, including hard-sided, soft-sided, and backpack carriers. Each has its pros and cons. For example, hard-sided carriers provide excellent protection but can be heavy and less comfortable for cats, while soft-sided carriers are lightweight and more comfortable but may not provide the same level of protection. The International Association of Animal Behavior Consultants (IAABC) recommends choosing a carrier that balances protection and comfort.
 
 ## Key Dimensions for Comfortable Travel with Small Cats
 The **American Animal Hospital Association (AAHA)** recommends that cat carriers should have a length of at least 1.5 times the cat's body length, a width of at least 1.2 times the cat's body width, and a height of at least 1.2 times the cat's body height. For small cats under 10 pounds, a carrier with dimensions around 18 inches in length, 12 inches in width, and 12 inches in height would be suitable.
@@ -34,14 +34,14 @@ Based on [Amazon product reviews](https://www.amazon.com), some of the top-rated
 The material of the cat carrier is also an important consideration. According to the [Cornell University College of Veterinary Medicine](https://www.vet.cornell.edu), nylon and polyester are popular materials for cat carriers due to their durability and ease of cleaning. However, mesh materials can provide better ventilation and visibility for cats.
 
 ## Tips for Acclimating Small Cats to Cat Carriers
-Acclimating small cats to cat carriers can be a challenging task. The [Certification Council for Professional Dog Trainers (CCPDT)](https://www.ccpdt.org) recommends introducing the carrier gradually, starting with short periods of time and rewarding the cat with treats and praise. Here are some steps to follow:
+Acclimating small cats to cat carriers can be a challenging task. The Certification Council for Professional Dog Trainers (CCPDT) recommends introducing the carrier gradually, starting with short periods of time and rewarding the cat with treats and praise. Here are some steps to follow:
 1. Place the carrier in a room where the cat spends most of its time.
 2. Encourage the cat to enter the carrier by placing treats or toys inside.
 3. Gradually increase the time the cat spends in the carrier.
 4. Reward the cat with praise and treats for calm behavior.
 
 ## Additional Accessories for a Stress-Free Travel Experience
-To enhance the travel experience for small cats, several accessories can be useful. The [Pet Store Association (PSA)](https://www.petstoreassociation.com) recommends using harnesses, pads, and toys to reduce stress and increase comfort during travel.
+To enhance the travel experience for small cats, several accessories can be useful. The Pet Store Association (PSA) recommends using harnesses, pads, and toys to reduce stress and increase comfort during travel.
 
 ## Frequently Asked Questions
 ### What are the best cat carriers for small cats under 10 pounds?

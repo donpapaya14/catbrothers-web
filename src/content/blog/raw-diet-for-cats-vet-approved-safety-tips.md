@@ -44,7 +44,7 @@ The optimal bone percentage in a raw diet for cats is **10-15%**. Incorrect prep
 
 ## Commercial Raw Brands Vets Actually Recommend
 Some **AAFCO-compliant** brands with HPP processing include:
-1. [Stella & Chewy's Freeze-Dried Raw Cat Food](https://www.stellaandchewys.com)
+1. Stella & Chewy's Freeze-Dried Raw Cat Food
 2. Primal Pet Foods
 3. Blue Buffalo
 4. Wellness
@@ -60,11 +60,11 @@ To transition your cat to a raw diet safely, follow this ratio schedule over 14 
 - Day 5-8: **50% raw / 50% current food**
 - Day 9-14: **75% raw / 25% current food**
 
-Consult the [American College of Veterinary Nutrition (2020)](https://www.acvn.org) for more information on transition timelines and **probiotic recommendations**.
+Consult the American College of Veterinary Nutrition (2020) for more information on transition timelines and **probiotic recommendations**.
 
 ## Frequently Asked Questions
 ### What are the benefits of a raw diet for cats?
-The benefits of a raw diet for cats include improved digestion, reduced allergy symptoms, and a shinier coat. According to the [Mayo Clinic](https://www.mayoclinic.org), a balanced raw diet can also help manage weight.
+The benefits of a raw diet for cats include improved digestion, reduced allergy symptoms, and a shinier coat. According to the Mayo Clinic, a balanced raw diet can also help manage weight.
 
 ### How do I know if my cat is allergic to raw food?
 If your cat shows signs of **itching**, **vomiting**, or **diarrhea** after eating raw food, it may be an allergy. Consult with your veterinarian for proper diagnosis and treatment.

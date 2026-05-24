@@ -19,11 +19,11 @@ draft: false
 
 ## Introduction to Cat Food Allergies
 
-Cat food allergies occur when a cat's immune system overreacts to specific ingredients in their diet, triggering adverse reactions. According to the [American Animal Hospital Association (2020)](https://www.aaha.org), **10-15% of all feline allergic skin diseases** are caused by food allergies. Common culprits include beef (34% of cases), dairy (30%), and fish (20%) [Journal of Veterinary Dermatology, 2018]. Unlike food intolerances (non-immune reactions), true allergies involve IgE antibodies and require different management strategies.
+Cat food allergies occur when a cat's immune system overreacts to specific ingredients in their diet, triggering adverse reactions. According to the American Animal Hospital Association (2020), **10-15% of all feline allergic skin diseases** are caused by food allergies. Common culprits include beef (34% of cases), dairy (30%), and fish (20%) [Journal of Veterinary Dermatology, 2018]. Unlike food intolerances (non-immune reactions), true allergies involve IgE antibodies and require different management strategies.
 
 ## Common Symptoms of Cat Food Allergies
 
-Recognizing **cat food allergy symptoms** early can prevent chronic issues. The [Journal of Veterinary Dermatology (2018)](https://onlinelibrary.wiley.com) reports these primary signs:
+Recognizing **cat food allergy symptoms** early can prevent chronic issues. The Journal of Veterinary Dermatology (2018) reports these primary signs:
 
 1. **Skin issues**: Excessive scratching (67% of cases), red bumps, and ear infections
 2. **Digestive problems**: Chronic vomiting (22%) or diarrhea (18%)
@@ -37,7 +37,7 @@ A 2021 UC Davis study found that **42% of cats with food allergies** develop **f
 
 ## Diagnosing Food Allergies in Cats
 
-Veterinarians use a **strict 8-12 week elimination diet** to diagnose food allergies, per the [Veterinary Information Network (2019)](https://www.vin.com). Here's the step-by-step process:
+Veterinarians use a **strict 8-12 week elimination diet** to diagnose food allergies, per the Veterinary Information Network (2019). Here's the step-by-step process:
 
 1. **Switch to novel proteins**: Use venison, rabbit, or duck-based foods like [ Hill's Science Diet Adult Sensitive Stomach & Skin Dog Food en Amazon](https://www.amazon.com/s?k=+Hill's+Science+Diet+Adult+Sensitive+Stomach+&+Skin+Dog+Food&tag=vds96-20)
 2. **Monitor symptoms**: Track changes in itching, digestion, and energy levels
@@ -65,7 +65,7 @@ Preventing flare-ups requires vigilance:
 2. **Use separate bowls**: Prevent cross-contamination with other pets' food
 3. **Rotate proteins**: Decrease sensitivity risk with varied novel proteins
 
-The [International Journal of Veterinary Science (2019)](https://www.ijvets.com) found that **strict compliance** with elimination diets prevents relapse in 92% of cases.
+The International Journal of Veterinary Science (2019) found that **strict compliance** with elimination diets prevents relapse in 92% of cases.
 
 ## Case Studies and Success Stories
 

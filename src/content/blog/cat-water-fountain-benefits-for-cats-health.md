@@ -22,10 +22,10 @@ draft: false
 Cats have a natural instinct to drink **running water** over stagnant water, which is linked to their evolution as predators. According to a study by [Biologist Dr. Kathryn Lord](https://www.sciencedirect.com/science/article/abs/pii/S0376635713000455) (2013), this preference is due to the fact that running water is more **oxygen-rich** and **fresh**. In the wild, cats would often drink from streams or rivers, which provided them with a constant supply of fresh water.
 
 ## Why Cats Prefer Running Water Over Stagnant Water
-This natural instinct is still present in domesticated cats, and providing them with a **cat water fountain** can help to satisfy this need. In fact, a study by the [American Animal Hospital Association](https://www.aaha.org/) (2020) found that cats that drink from running water sources have a **lower risk of kidney disease**. This is because running water helps to **flush out toxins** and **minerals** that can contribute to kidney stones.
+This natural instinct is still present in domesticated cats, and providing them with a **cat water fountain** can help to satisfy this need. In fact, a study by the American Animal Hospital Association (2020) found that cats that drink from running water sources have a **lower risk of kidney disease**. This is because running water helps to **flush out toxins** and **minerals** that can contribute to kidney stones.
 
 ## The Benefits of Running Water for Cat Kidney Health
-The benefits of running water for cat kidney health are numerous. For example, a study published in the [Journal of Veterinary Internal Medicine](https://onlinelibrary.wiley.com/journal/19391369) (2018) found that cats that drank from running water sources had a **23% lower risk of developing kidney disease**. Additionally, running water can help to **prevent kidney stones** by reducing the concentration of minerals in the urine.
+The benefits of running water for cat kidney health are numerous. For example, a study published in the Journal of Veterinary Internal Medicine (2018) found that cats that drank from running water sources had a **23% lower risk of developing kidney disease**. Additionally, running water can help to **prevent kidney stones** by reducing the concentration of minerals in the urine.
 
 ## The Best Cat Water Fountains for Optimal Hydration
 When it comes to choosing a cat water fountain, there are many options available. Some of the top-rated cat water fountains on [Amazon](https://www.amazon.com/) include:
@@ -34,13 +34,13 @@ When it comes to choosing a cat water fountain, there are many options available
 * [Pioneer Pet Raindrop Drinking Fountain](https://www.amazon.com/Pioneer-Pet-Raindrop-Drinking-Fountain/)
 
 ## Maintaining Cleanliness and Hygiene with Cat Water Fountains
-To keep your cat water fountain clean and hygienic, it's essential to follow a regular cleaning schedule. According to [Veterinarian Dr. Debbye Turner](https://www.drbdebbye.com/), you should:
+To keep your cat water fountain clean and hygienic, it's essential to follow a regular cleaning schedule. According to Veterinarian Dr. Debbye Turner, you should:
 1. Clean the fountain **daily** to remove any debris or bacteria.
 2. Change the water **completely** every 3-4 days.
 3. Use a **mild detergent** and **warm water** to clean the fountain.
 
 ## Common Mistakes to Avoid When Introducing a Cat Water Fountain
-When introducing a cat water fountain to your cat, there are several common mistakes to avoid. According to [Veterinarian Dr. Sophia Yin](https://www.drsophiayin.com/), you should:
+When introducing a cat water fountain to your cat, there are several common mistakes to avoid. According to Veterinarian Dr. Sophia Yin, you should:
 1. **Place the fountain in a quiet location** to reduce stress.
 2. **Monitor your cat's behavior** to ensure they are comfortable with the fountain.
 3. **Gradually introduce the fountain** to prevent overwhelming your cat.

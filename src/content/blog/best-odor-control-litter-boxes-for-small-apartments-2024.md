@@ -18,7 +18,7 @@ draft: false
 ---
 
 ## Introduction to Odor-Control Litter Boxes
-For cat owners living in **small apartments**, finding the **best odor-control litter boxes** is crucial. According to a study published in the [Journal of Feline Medicine and Surgery](https://www.jfms.com) (2022), ammonia buildup in confined areas poses significant health risks for both cats and humans. It's essential to clean litter boxes frequently, ideally every 2-3 days, in homes under 500 sq ft.
+For cat owners living in **small apartments**, finding the **best odor-control litter boxes** is crucial. According to a study published in the Journal of Feline Medicine and Surgery (2022), ammonia buildup in confined areas poses significant health risks for both cats and humans. It's essential to clean litter boxes frequently, ideally every 2-3 days, in homes under 500 sq ft.
 
 ## Why Odor Control is Critical in Small Spaces
 Data from the [World Health Organization](https://www.who.int) shows that poor indoor air quality can lead to respiratory issues. In small apartments, this can be exacerbated by cat litter odor. The [Environmental Protection Agency](https://www.epa.gov) recommends regular cleaning and using **low-odor cat litter solutions** to mitigate these risks.
@@ -33,7 +33,7 @@ Here are three compact litter box designs that are perfect for small apartments:
 These designs are not only compact but also feature **space-saving** mechanisms to minimize odor.
 
 ## Carbon Filter vs. Enzymatic Systems Tested
-A 30-day comparison by [Consumer Reports](https://www.consumerreports.org) pet gear lab tests (2023) found that **enzymatic systems** outperformed **carbon filters** in containing smells. The test used the same litter brand for both technologies.
+A 30-day comparison by Consumer Reports pet gear lab tests (2023) found that **enzymatic systems** outperformed **carbon filters** in containing smells. The test used the same litter brand for both technologies.
 
 ## Unexpected Noise Factors
 According to a study by the [Cornell Feline Health Center](https://www.vet.cornell.edu) (2021), cats are highly sensitive to noise. Decibel measurements of self-cleaning mechanisms showed that some litter boxes can reach levels of up to **60 dB**, which can impact cats in studio apartments.
@@ -43,7 +43,7 @@ Here are some placement hacks and dual-purpose furniture ideas to hide litter bo
 1. Place the litter box in a **balcony** or **bathroom** to minimize odor spread.
 2. Use a litter box with a **built-in filter** to reduce odor.
 3. Consider a **hidden litter box** design that doubles as a piece of furniture.
-These tips are based on interviews with [NYC cat behaviorists](https://www.aspcapro.org) (2024).
+These tips are based on interviews with NYC cat behaviorists (2024).
 
 ## Frequently Asked Questions
 ### What is the best odor-control litter box for small apartments?

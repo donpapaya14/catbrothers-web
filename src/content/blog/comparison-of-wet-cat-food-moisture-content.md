@@ -46,7 +46,7 @@ Here is a comparison of the moisture content of 10 popular wet cat food brands:
 | Purina Pro Plan | **68%** |
 | Iams | **66%** |
 | Friskies | **64%** |
-As you can see, the moisture content varies significantly between brands. For more information, visit the [American Animal Hospital Association](https://www.aaha.org) or the [National Research Council](https://www.nap.edu).
+As you can see, the moisture content varies significantly between brands. For more information, visit the American Animal Hospital Association or the [National Research Council](https://www.nap.edu).
 
 ## Practical Tips for Choosing the Right Moisture Level
 Here are some practical tips for choosing the right moisture level for your cat:
@@ -54,7 +54,7 @@ Here are some practical tips for choosing the right moisture level for your cat:
 2. **Adult cats**: Choose a food with a moisture content of **75%** or higher.
 3. **Senior cats**: Choose a food with a moisture content of **70%** or higher.
 4. **Cats with kidney disease**: Choose a food with a moisture content of **80%** or higher.
-For more information, visit the [American Veterinary Medical Association](https://www.avma.org).
+For more information, visit the American Veterinary Medical Association.
 
 ## Concerns and Controversies Surrounding Moisture Content
 There is ongoing debate surrounding the optimal moisture level in cat food. Some argue that high moisture content can lead to **dental problems**, while others argue that it is essential for maintaining feline urinary health. According to a study by the **Feline Nutrition Society (2017)**, the optimal moisture level is between **75%** and **85%**.
@@ -98,7 +98,7 @@ Here are some concrete action bullets to take away:
 * Feed your cat **2-3 times** per day.
 * Consider making your own cat food at home, but consult with a veterinarian or a qualified animal nutritionist first.
 * Monitor your cat's **urinary health**, **dental health**, and **overall well-being** to ensure the best possible outcome.
-* Visit the [American Animal Hospital Association](https://www.aaha.org) and the [National Research Council](https://www.nap.edu) for more information on feline nutrition.
+* Visit the American Animal Hospital Association and the [National Research Council](https://www.nap.edu) for more information on feline nutrition.
 
 
 ---

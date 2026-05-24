@@ -19,7 +19,7 @@ draft: false
 
 ## Introduction to Cat Tail Language
 
-Cats communicate volumes through their tails, with each position and movement conveying specific emotions and intentions. According to [International Cat Care (2020)](https://icatcare.org), a cat's tail is one of its most expressive body parts, acting as a visual signal to humans and other animals. Understanding **cat tail language meaning** can help owners decode their pet's mood, from contentment to agitation.
+Cats communicate volumes through their tails, with each position and movement conveying specific emotions and intentions. According to International Cat Care (2020), a cat's tail is one of its most expressive body parts, acting as a visual signal to humans and other animals. Understanding **cat tail language meaning** can help owners decode their pet's mood, from contentment to agitation.
 
 Key tail signals include:
 - **Straight up**: Confidence or greeting
@@ -39,11 +39,11 @@ A study in the [Journal of Feline Medicine and Surgery (2018)](https://journals.
 
 > Relacionado: [7 Foods That Are Toxic to Cats (Most Owners Don't Know #4)](/blog/toxic-foods-for-cats)
 
-**Straight tails** signal confidence, while a **hook at the tip** (like a question mark) indicates curiosity. The [American Animal Hospital Association (2021)](https://www.aaha.org) notes that tail height directly correlates with a cat's comfort level in its environment.
+**Straight tails** signal confidence, while a **hook at the tip** (like a question mark) indicates curiosity. The American Animal Hospital Association (2021) notes that tail height directly correlates with a cat's comfort level in its environment.
 
 ## Tail Language in Context
 
-Certified animal behaviorists emphasize combining tail signals with other cues ([Behaviorist Study, 2019](https://www.animalbehavior.org)):
+Certified animal behaviorists emphasize combining tail signals with other cues (Behaviorist Study, 2019):
 1. **Ears forward + high tail**: Playful mood
 2. **Pupils dilated + puffed tail**: Defensive aggression
 3. **Ears flattened + low tail**: Fearful submission
@@ -52,7 +52,7 @@ A tail held high with **bristled fur** differs from a relaxed upright tail—the
 
 ## Common Tail Language Mistakes to Avoid
 
-Misinterpretations can lead to conflicts. Cat behaviorist Dr. Ellis notes ([2022 interview](https://www.catbehavioralliance.org)):
+Misinterpretations can lead to conflicts. Cat behaviorist Dr. Ellis notes (2022 interview):
 - **Myth**: A wagging tail means happiness (like dogs). **Truth**: It signals irritation in 83% of cases.
 - **Myth**: Purring always indicates contentment. **Truth**: Combined with a lashing tail, it may signal pain.
 
@@ -63,7 +63,7 @@ Use this 3-step checklist before approaching a cat:
 
 ## Using Tail Language to Improve Your Relationship with Your Cat
 
-Practical steps from the ASPCA ([2022](https://www.aspca.org)):
+Practical steps from the ASPCA (2022):
 1. **Greeting protocol**: Wait for a vertical tail before petting
 2. **Play sessions**: Initiate only when the tail shows slow, relaxed movements
 3. **Conflict avoidance**: Retreat if you see rapid tail lashing
@@ -72,7 +72,7 @@ Owners who correctly interpret tail signals report **40% fewer scratches/bites**
 
 ## Conclusion and Further Resources
 
-Mastering **feline communication** through tail observation requires practice. For deeper learning, consider [ The Cat Whisperer book en Amazon](https://www.amazon.com/s?k=+The+Cat+Whisperer+book&tag=vds96-20) or the [International Cat Care behavior guide](https://icatcare.org/advice/cat-behaviour).
+Mastering **feline communication** through tail observation requires practice. For deeper learning, consider [ The Cat Whisperer book en Amazon](https://www.amazon.com/s?k=+The+Cat+Whisperer+book&tag=vds96-20) or the International Cat Care behavior guide.
 
 ## Frequently Asked Questions
 
@@ -83,13 +83,13 @@ A puffed tail is an evolutionary response to appear larger. The [Cornell Feline 
 A twitching tip signals mild interest or impatience. In a University of Georgia study (2019), cats watching birds exhibited this 78% more often than during rest.
 
 ### How can I tell if my cat is happy from its tail?
-A relaxed, upright tail with a slight curve at the tip indicates happiness. The [AAHA](https://www.aaha.org) recommends pairing this with other signs like half-closed eyes and forward ears.
+A relaxed, upright tail with a slight curve at the tip indicates happiness. The AAHA recommends pairing this with other signs like half-closed eyes and forward ears.
 
 ### Do tailless cats have communication difficulties?
 Tailless breeds like Manx compensate with ear and vocal signals. Research from the University of Bristol (2021) shows they develop alternative cues within 6 months of age.
 
 ### Why does my cat wrap its tail around me?
-This is a bonding behavior. A [2020 study in Animals journal](https://www.mdpi.com/journal/animals) found cats reserve tail-wrapping primarily for trusted humans, not other pets.
+This is a bonding behavior. A 2020 study in Animals journal found cats reserve tail-wrapping primarily for trusted humans, not other pets.
 
 ## My Take
 

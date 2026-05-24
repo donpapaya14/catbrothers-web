@@ -18,10 +18,10 @@ draft: false
 ---
 
 ## Introduction to Raw Diets for Senior Cats
-The debate about **raw diets for senior cats** has been ongoing, with some proponents arguing that it provides essential nutrients, while others warn about the potential risks. According to the [American Animal Hospital Association](https://www.aaha.org/), a **raw diet for senior cats** can increase the risk of bacterial contamination and dental issues. 
+The debate about **raw diets for senior cats** has been ongoing, with some proponents arguing that it provides essential nutrients, while others warn about the potential risks. According to the American Animal Hospital Association, a **raw diet for senior cats** can increase the risk of bacterial contamination and dental issues. 
 
 ## The Case Against Raw Diets for Senior Cats
-A study by the [American Animal Hospital Association (2020)](https://www.aaha.org/) found that **raw diets** can pose a significant risk to **senior cats**, particularly those with compromised immune systems. The risk of **bacterial contamination** is higher in **raw diets**, which can lead to severe health issues in **senior cats**. 
+A study by the American Animal Hospital Association (2020) found that **raw diets** can pose a significant risk to **senior cats**, particularly those with compromised immune systems. The risk of **bacterial contamination** is higher in **raw diets**, which can lead to severe health issues in **senior cats**. 
 
 ## Nutritional Considerations for Senior Cats
 **Senior cats** have unique nutritional needs, requiring increased amounts of **protein**, **fat**, and certain **vitamins and minerals**. The [National Research Council (2006)](https://www.nap.edu/) recommends that **senior cats** consume a balanced diet that meets their nutritional requirements. 
@@ -36,10 +36,10 @@ If you're considering transitioning your **senior cat** to a **cooked diet**, it
 3. Monitor your **senior cat's** health and adjust the diet as needed.
 
 ## Consulting a Veterinarian for Senior Cat Nutrition
-Consulting a veterinarian is crucial when it comes to determining the best diet for your **senior cat**. The [American Veterinary Medical Association (2020)](https://www.avma.org/) recommends that pet owners work with their veterinarians to develop a personalized nutrition plan for their **senior cats**. 
+Consulting a veterinarian is crucial when it comes to determining the best diet for your **senior cat**. The American Veterinary Medical Association (2020) recommends that pet owners work with their veterinarians to develop a personalized nutrition plan for their **senior cats**. 
 
 ## Recommended Cooked Diets for Senior Cats
-There are several commercially available **cooked diets** that are suitable for **senior cats**. [Blue Buffalo Life Protection Formula Senior Cat Food](https://www.bluebuffalo.com/) is a popular option that provides a balanced mix of nutrients. Other options include [Hill's Science Diet Senior Cat Food](https://www.hillspet.com/) and [Royal Canin Senior Cat Food](https://www.royalcanin.com/). 
+There are several commercially available **cooked diets** that are suitable for **senior cats**. Blue Buffalo Life Protection Formula Senior Cat Food is a popular option that provides a balanced mix of nutrients. Other options include Hill's Science Diet Senior Cat Food and Royal Canin Senior Cat Food. 
 
 ### Comparison of Cooked Diets for Senior Cats
 | Diet | Protein Content | Fat Content | Fiber Content |

@@ -57,15 +57,15 @@ A lifespan prediction model can estimate an indoor cat's remaining lifespan. A s
 
 ## Frequently Asked Questions
 ### What is the average lifespan of an indoor cat?
-The average lifespan of an indoor cat is **12-17 years**, according to the [American Association of Feline Practitioners](https://www.aafp.org).
+The average lifespan of an indoor cat is **12-17 years**, according to the American Association of Feline Practitioners.
 ### How often should I feed my indoor cat?
-Feed your indoor cat **2-3 times a day**, depending on their age, size, and activity level, recommends the [World Small Animal Veterinary Association](https://www.wsava.org).
+Feed your indoor cat **2-3 times a day**, depending on their age, size, and activity level, recommends the World Small Animal Veterinary Association.
 ### What is the best diet for my indoor cat?
 The best diet for your indoor cat is a **high-quality commercial diet** or a **homemade diet** formulated by a veterinarian, according to the [Journal of Animal Science](https://academic.oup.com/jas).
 ### How can I keep my indoor cat healthy?
 Keep your indoor cat healthy by providing regular **veterinary care**, a **balanced diet**, and a **safe and stimulating environment**, advises the [Centers for Disease Control and Prevention](https://www.cdc.gov).
 ### What are the most common health issues in indoor cats?
-The most common health issues in indoor cats are **obesity**, **diabetes**, and **kidney disease**, according to the [Mayo Clinic](https://www.mayoclinic.org).
+The most common health issues in indoor cats are **obesity**, **diabetes**, and **kidney disease**, according to the Mayo Clinic.
 ### How can I extend my indoor cat's lifespan?
 Extend your indoor cat's lifespan by providing regular **health monitoring**, a **balanced diet**, and a **safe and stimulating environment**, recommends the [World Health Organization](https://www.who.int).
 

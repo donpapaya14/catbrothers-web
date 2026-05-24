@@ -19,7 +19,7 @@ draft: false
 
 
 ## Section 1: The Evolutionary Roots of Kneading
-The **cat kneading behavior meaning** is rooted in the way kittens stimulate milk production from their mother's belly. According to [Bekoff, Marc (2001)](https://www.researchgate.net/profile/Marc-Bekoff), this behavior has been retained in adult cats as a form of comfort and relaxation. A study by the [University of California, Davis](https://www.ucdavis.edu) found that **70%** of adult cats exhibit kneading behavior, indicating its significance in feline behavior.
+The **cat kneading behavior meaning** is rooted in the way kittens stimulate milk production from their mother's belly. According to Bekoff, Marc (2001), this behavior has been retained in adult cats as a form of comfort and relaxation. A study by the [University of California, Davis](https://www.ucdavis.edu) found that **70%** of adult cats exhibit kneading behavior, indicating its significance in feline behavior.
 
 ## Section 2: Kneading as a Sign of Contentment
 Research has shown that kneading is a sign of **contentment** and **happiness** in cats. A study published in the [Journal of Feline Medicine and Surgery](https://www.sciencedirect.com/journal/journal-of-feline-medicine-and-surgery) found that **60%** of cats exhibit kneading behavior when they are feeling relaxed and comfortable. This is supported by a study by [Allen, K., Blascovich, J., & Kelsey, R. P. (1991)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1767744/), which found that the presence of pets can reduce stress and anxiety in humans.
@@ -28,7 +28,7 @@ Research has shown that kneading is a sign of **contentment** and **happiness** 
 Cats use kneading as a **self-soothing behavior** to calm themselves in times of stress or anxiety. A study by [Lloyd, J. K. (2013)](https://www.sciencedirect.com/science/article/pii/B9780124077513000155) found that **40%** of cats exhibit kneading behavior when they are feeling stressed or anxious. This behavior can be triggered by changes in the environment, such as a new pet or person in the home.
 
 ## Section 4: Kneading as a Form of Communication
-Cats use kneading to **communicate** with their human caregivers, such as seeking attention or affection. A study by [Miklosi, A. (2007)](https://www.researchgate.net/profile/Adam-Miklosi) found that **50%** of cats exhibit kneading behavior when they want to initiate interaction with their owners. This behavior can be reinforced by positive reinforcement, such as treats and praise.
+Cats use kneading to **communicate** with their human caregivers, such as seeking attention or affection. A study by Miklosi, A. (2007) found that **50%** of cats exhibit kneading behavior when they want to initiate interaction with their owners. This behavior can be reinforced by positive reinforcement, such as treats and praise.
 
 ## Section 5: How to Respond to Your Cat's Kneading Behavior
 To respond to your cat's kneading behavior, follow these steps:
@@ -49,19 +49,19 @@ There are several common misconceptions about kneading behavior in cats, includi
 
 ## Frequently Asked Questions
 ### What is the cat kneading behavior meaning?
-The cat kneading behavior meaning is a form of comfort and relaxation that is rooted in the way kittens stimulate milk production from their mother's belly. According to the [American Animal Hospital Association](https://www.aaha.org), **80%** of adult cats exhibit kneading behavior.
+The cat kneading behavior meaning is a form of comfort and relaxation that is rooted in the way kittens stimulate milk production from their mother's belly. According to the American Animal Hospital Association, **80%** of adult cats exhibit kneading behavior.
 
 ### How often do cats knead?
 Cats knead **several times a day**, depending on their individual needs and circumstances. A study by the [University of Illinois](https://www.illinois.edu) found that **40%** of cats exhibit kneading behavior at least once a day.
 
 ### Why do cats knead on their owners?
-Cats knead on their owners as a form of **communication** and **affection**. According to the [International Cat Care](https://www.icatcare.org), **50%** of cats exhibit kneading behavior on their owners as a way to initiate interaction.
+Cats knead on their owners as a form of **communication** and **affection**. According to the International Cat Care, **50%** of cats exhibit kneading behavior on their owners as a way to initiate interaction.
 
 ### Can kneading behavior be a sign of stress or anxiety?
 Yes, kneading behavior can be a sign of **stress or anxiety** in cats. A study by the [University of California, Davis](https://www.ucdavis.edu) found that **30%** of cats exhibit kneading behavior when they are feeling stressed or anxious.
 
 ### How can I encourage my cat to knead?
-You can encourage your cat to knead by providing a **comfortable and secure environment**, such as a [K&H Pet Products Thermal-Nesting Cat Bed](https://www.amazon.com/K-H-Pet-Products-Thermal-Nesting-Cat-Bed). You can also try using [Feliway](https://www.feliway.com) to reduce stress and anxiety.
+You can encourage your cat to knead by providing a **comfortable and secure environment**, such as a [K&H Pet Products Thermal-Nesting Cat Bed](https://www.amazon.com/K-H-Pet-Products-Thermal-Nesting-Cat-Bed). You can also try using Feliway to reduce stress and anxiety.
 
 ### What are some complementary products to encourage kneading behavior?
 Some complementary products to encourage kneading behavior include [SmartCat Multi-Level Cat Tower](https://www.amazon.com/SmartCat-Multi-Level-Cat-Tower) and [Armarkat Orthopedic Memory Foam Cat Bed](https://www.amazon.com/Armarkat-Orthopedic-Memory-Foam-Cat-Bed).
@@ -88,7 +88,7 @@ Overall, I believe that kneading behavior is an important aspect of cat behavior
 * Avoid punishment or negative reinforcement, as this can create anxiety and stress
 * Recognize kneading behavior as a sign of comfort and relaxation
 * Use complementary products, such as [K&H Pet Products Thermal-Nesting Cat Bed](https://www.amazon.com/K-H-Pet-Products-Thermal-Nesting-Cat-Bed), to encourage kneading behavior
-* Consider using [Feliway](https://www.feliway.com) to reduce stress and anxiety
+* Consider using Feliway to reduce stress and anxiety
 * Observe your cat's behavior to determine the cause of the kneading
 * Provide a calm and quiet environment to reduce stress and anxiety
 

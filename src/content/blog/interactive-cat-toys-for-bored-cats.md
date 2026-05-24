@@ -21,28 +21,28 @@ draft: false
 
 
 ## Introduction to Feline Play
-Interactive cat toys for boredom are essential for your cat's mental and physical health. According to [International Cat Care](https://icatcare.org/), 2020, cats have a natural hunting instinct that needs to be stimulated through play. **70% of a cat's brain** is dedicated to processing sensory information, making play a crucial aspect of their daily routine.
+Interactive cat toys for boredom are essential for your cat's mental and physical health. According to International Cat Care, 2020, cats have a natural hunting instinct that needs to be stimulated through play. **70% of a cat's brain** is dedicated to processing sensory information, making play a crucial aspect of their daily routine.
 
 ## Types of Interactive Cat Toys
-There are various types of interactive toys available, including puzzle toys, feather wands, and bell toys. A study by the [Journal of Feline Medicine and Surgery](https://www.jfms.com/), 2018, found that **puzzle toys** can reduce stress and anxiety in cats by **40%**. Here are some benefits and drawbacks of each type:
+There are various types of interactive toys available, including puzzle toys, feather wands, and bell toys. A study by the Journal of Feline Medicine and Surgery, 2018, found that **puzzle toys** can reduce stress and anxiety in cats by **40%**. Here are some benefits and drawbacks of each type:
 * Puzzle toys: stimulate problem-solving skills, but can be frustrating if too difficult
 * Feather wands: provide exercise and stimulate hunting instinct, but can be overwhelming if used excessively
 * Bell toys: encourage auditory stimulation and play, but can be noisy and disturbing
 
 ## How to Choose the Right Toy
-Choosing the right interactive toy for your cat depends on their age, breed, and personality. According to the [American Animal Hospital Association](https://www.aaha.org/), 2022, **kittens** require more stimulation and play than adult cats. Here are some tips for selecting the right toy:
+Choosing the right interactive toy for your cat depends on their age, breed, and personality. According to the American Animal Hospital Association, 2022, **kittens** require more stimulation and play than adult cats. Here are some tips for selecting the right toy:
 1. Consider your cat's age and breed
 2. Observe your cat's play preferences
 3. Introduce new toys gradually to prevent overwhelming
 
 ## DIY Interactive Cat Toys
-You can create your own interactive toys using household items, such as cardboard boxes and paper bags. [Mieshelle Nagelschneider](https://www.thecatbehaviorist.com/), 2019, suggests using **cardboard boxes** to create hiding spots and stimulate exploration. Here's a simple DIY toy:
+You can create your own interactive toys using household items, such as cardboard boxes and paper bags. Mieshelle Nagelschneider, 2019, suggests using **cardboard boxes** to create hiding spots and stimulate exploration. Here's a simple DIY toy:
 1. Cut holes in a cardboard box
 2. Place treats or kibble inside
 3. Encourage your cat to explore and play
 
 ## Rotating Toys for Maximum Stimulation
-Rotating toys regularly is essential to prevent boredom and stimulate your cat's mind. A study by [Feline Behavioral Medicine](https://www.felinebehavioralmedicine.com/), 2017, found that **rotating toys every 3-4 days** can increase playtime by **30%**. Here's a sample rotation schedule:
+Rotating toys regularly is essential to prevent boredom and stimulate your cat's mind. A study by Feline Behavioral Medicine, 2017, found that **rotating toys every 3-4 days** can increase playtime by **30%**. Here's a sample rotation schedule:
 | Day | Toy |
 | --- | --- |
 | 1-3 | Puzzle toy |
@@ -57,7 +57,7 @@ Remember to rotate toys regularly and introduce new ones gradually to prevent ov
 
 ## Frequently Asked Questions
 ### What are the benefits of interactive cat toys?
-Interactive cat toys provide mental and physical stimulation, reducing stress and anxiety by **40%**. According to [Mayo Clinic](https://www.mayoclinic.org/), play is essential for maintaining cognitive function and overall health.
+Interactive cat toys provide mental and physical stimulation, reducing stress and anxiety by **40%**. According to Mayo Clinic, play is essential for maintaining cognitive function and overall health.
 ### How often should I rotate toys?
 Rotate toys every **3-4 days** to prevent boredom and stimulate your cat's mind. This can increase playtime by **30%**.
 ### Can I create my own interactive toys?
@@ -67,7 +67,7 @@ The best types of interactive toys include puzzle toys, feather wands, and bell 
 ### How can I introduce new toys to my cat?
 Introduce new toys gradually to prevent overwhelming. Start with short play sessions and gradually increase duration and frequency.
 ### Can interactive toys reduce stress and anxiety?
-Yes, interactive toys can reduce stress and anxiety by **40%**. According to [Journal of Feline Medicine and Surgery](https://www.jfms.com/), 2018, puzzle toys can provide a calming and stimulating effect.
+Yes, interactive toys can reduce stress and anxiety by **40%**. According to Journal of Feline Medicine and Surgery, 2018, puzzle toys can provide a calming and stimulating effect.
 
 ## My Take
 As an app developer and professional chef, I understand the importance of mental and physical stimulation for both humans and animals. I've seen firsthand how interactive toys can transform a cat's behavior and overall health. My own cat, Luna, loves playing with puzzle toys and feather wands. I recommend introducing interactive toys to your cat's daily routine and observing their unique preferences and play styles.

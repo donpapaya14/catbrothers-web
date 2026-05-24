@@ -18,7 +18,7 @@ draft: false
 ---
 
 ## Introduction to Feline CKD
-Feline chronic kidney disease (CKD) is a progressive condition affecting **15-30% of cats over age 10**, according to the [International Renal Interest Society (2019)](https://www.iris-kidney.com). It occurs when kidneys lose their ability to filter waste, leading to toxin buildup. Early detection is critical—cats diagnosed at **Stage 1 CKD** (creatinine <1.6 mg/dL) live **2-4 years longer** than those diagnosed at later stages.
+Feline chronic kidney disease (CKD) is a progressive condition affecting **15-30% of cats over age 10**, according to the International Renal Interest Society (2019). It occurs when kidneys lose their ability to filter waste, leading to toxin buildup. Early detection is critical—cats diagnosed at **Stage 1 CKD** (creatinine <1.6 mg/dL) live **2-4 years longer** than those diagnosed at later stages.
 
 ## Causes and Risk Factors of Feline CKD
 Key contributors to **feline kidney disease** include:
@@ -47,7 +47,7 @@ Subtle signs:
 > Relacionado: [Armarkat Cat Tree Review](/blog/armarkat-cat-tree-review)
 
 ## Diagnosing Feline CKD
-The [European College of Veterinary Internal Medicine (2018)](https://www.ecvim-ca.org) recommends:
+The European College of Veterinary Internal Medicine (2018) recommends:
 1. **Blood tests**: SDMA >14 μg/dL + creatinine >1.6 mg/dL
 2. **Urinalysis**: Specific gravity <1.035 + proteinuria
 3. **Ultrasound**: Kidney size <3.5 (normal: 3.5-4.3 cm)
