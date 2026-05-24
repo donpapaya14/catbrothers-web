@@ -27,7 +27,7 @@ On a custom-built climbing wall, Lil Nick achieved a **102.2 feet** climb, overc
 To train your cat for agility and climbing, follow these steps:
 1. **Start with short sessions**: 5-10 minutes, twice a day.
 2. **Use positive reinforcement**: Reward your cat with treats and praise.
-3. **Invest in a cat climbing wall**: Like the [ Go Pet Club Cat Tree en Amazon](https://www.amazon.com/s?k=+Go+Pet+Club+Cat+Tree&tag=vds96-20)(https://www.amazon.com/Go-Pet-Club-Cat-Tree/), which provides multiple levels and scratching posts.
+3. **Invest in a cat climbing wall**: Like the [ Go Pet Club Cat Tree en Amazon](https://www.amazon.com/s?k=+Go+Pet+Club+Cat+Tree&tag=vds96-20)(https://www.amazon.com/Go-Pet-Club-Cat-Tree/?tag=vds96-20), which provides multiple levels and scratching posts.
 As suggested by International Cat Care, 2022, cats need mental and physical stimulation.
 
 ## The Science Behind Cat Climbing: Muscles and Flexibility
@@ -52,7 +52,7 @@ Climbing provides **exercise** and **mental stimulation** for cats, improving th
 ### How can I create a safe climbing environment for my cat?
 Secure the climbing wall, provide a soft landing, and always supervise your cat during climbing activities, as recommended by the American Society for the Prevention of Cruelty to Animals (ASPCA), 2020.
 ### What is the best cat climbing wall for my cat?
-Consider the [ Armarkat Cat Tree en Amazon](https://www.amazon.com/s?k=+Armarkat+Cat+Tree&tag=vds96-20)(https://www.amazon.com/Armarkat-Cat-Tree/), which provides multiple levels and scratching posts.
+Consider the [ Armarkat Cat Tree en Amazon](https://www.amazon.com/s?k=+Armarkat+Cat+Tree&tag=vds96-20)(https://www.amazon.com/Armarkat-Cat-Tree/?tag=vds96-20), which provides multiple levels and scratching posts.
 ### How often should I train my cat for agility and climbing?
 Train your cat for **5-10 minutes**, twice a day, as suggested by International Cat Care, 2022.
 
@@ -72,7 +72,7 @@ In conclusion, cat climbing is an excellent way to provide your cat with exercis
 
 ## Practical Summary
 * Train your cat for agility and climbing using positive reinforcement and short sessions.
-* Invest in a cat climbing wall, such as the [ Go Pet Club Cat Tree en Amazon](https://www.amazon.com/s?k=+Go+Pet+Club+Cat+Tree&tag=vds96-20)(https://www.amazon.com/Go-Pet-Club-Cat-Tree/).
+* Invest in a cat climbing wall, such as the [ Go Pet Club Cat Tree en Amazon](https://www.amazon.com/s?k=+Go+Pet+Club+Cat+Tree&tag=vds96-20)(https://www.amazon.com/Go-Pet-Club-Cat-Tree/?tag=vds96-20).
 * Create a safe climbing environment by securing the climbing wall and providing a soft landing.
 * Supervise your cat during climbing activities to ensure their safety.
 * Provide your cat with mental and physical stimulation to improve their overall health and well-being.

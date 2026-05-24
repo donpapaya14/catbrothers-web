@@ -68,7 +68,7 @@ Yes, Félicette's memorial is located at France's International Space University
 To support ethical space research, you can learn about alternatives to animal testing, support organizations promoting ethical practices, and stay informed about the latest developments in space exploration. According to the [Kickstarter Félicette Memorial Project](https://www.kickstarter.com), every contribution counts in promoting ethical space research.
 
 ### How can I learn more about Félicette's story?
-You can learn more about Félicette's story by reading books such as [Space Cat: The Complete Trilogy](https://www.amazon.com), a children's fiction series inspired by her journey. Additionally, you can explore educational resources and documentaries about her mission and legacy.
+You can learn more about Félicette's story by reading books such as [Space Cat: The Complete Trilogy](https://amazon.com/?tag=vds96-20), a children's fiction series inspired by her journey. Additionally, you can explore educational resources and documentaries about her mission and legacy.
 
 ## My Take
 As an app developer and professional chef, I am fascinated by Félicette's story and the significance of her mission. I believe that her legacy serves as a reminder of the importance of ethical research practices and the need to prioritize animal welfare in scientific pursuits.
@@ -92,8 +92,8 @@ As I reflect on Félicette's journey, I am reminded of the power of courage and 
 * Learn about alternatives to animal testing in space research
 * Stay informed about the latest developments in space exploration
 * Explore educational resources about Félicette's story and legacy
-* Read books such as [Space Cat: The Complete Trilogy](https://www.amazon.com) to learn more about her journey
-* Consider purchasing [Félicette Space Cat Plush Toy](https://www.amazon.com) or [Space Exploration Documentary](https://www.amazon.com) to support ethical space research and education
+* Read books such as [Space Cat: The Complete Trilogy](https://amazon.com/?tag=vds96-20) to learn more about her journey
+* Consider purchasing [Félicette Space Cat Plush Toy](https://amazon.com/?tag=vds96-20) or [Space Exploration Documentary](https://amazon.com/?tag=vds96-20) to support ethical space research and education
 
 
 ---

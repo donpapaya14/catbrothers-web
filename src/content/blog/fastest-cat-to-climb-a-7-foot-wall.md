@@ -54,11 +54,11 @@ When training your cat for agility, avoid the following mistakes:
 3. **Insufficient practice**: Practice regularly to reinforce desired behavior.
 
 ## Amazon Product Recommendation: The Best Cat Climbing Structures
-The [Go Pet Club Cat Climbing Tower](https://www.amazon.com/Go-Pet-Club-Cat-Climbing-Tower) is an excellent option for cat owners who want to promote agility and exercise. This product features **multiple levels**, **scratching posts**, and **hiding spots**, making it an ideal choice for cats who love to climb and play.
+The [Go Pet Club Cat Climbing Tower](https://www.amazon.com/Go-Pet-Club-Cat-Climbing-Tower?tag=vds96-20) is an excellent option for cat owners who want to promote agility and exercise. This product features **multiple levels**, **scratching posts**, and **hiding spots**, making it an ideal choice for cats who love to climb and play.
 
 ### Complementary Products
-1. [Armarkat Cat Tree](https://www.amazon.com/Armarkat-Cat-Tree-Condo-Scratching): A sturdy cat tree with **multiple perches** and **scratching posts**.
-2. [K&H Pet Products Cat Climbing Wall](https://www.amazon.com/K-H-Pet-Products-Cat-Climbing-Wall): A **wall-mounted** cat climbing wall with **textured surface** for easy climbing.
+1. [Armarkat Cat Tree](https://www.amazon.com/Armarkat-Cat-Tree-Condo-Scratching?tag=vds96-20): A sturdy cat tree with **multiple perches** and **scratching posts**.
+2. [K&H Pet Products Cat Climbing Wall](https://www.amazon.com/K-H-Pet-Products-Cat-Climbing-Wall?tag=vds96-20): A **wall-mounted** cat climbing wall with **textured surface** for easy climbing.
 
 ## Frequently Asked Questions
 ### How fast can a cat climb a wall?

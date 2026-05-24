@@ -70,7 +70,7 @@ Common **cat behavior signs** include tail postures, ear postures, and pupil siz
 ## My Take
 As an app developer and professional chef, I've always been fascinated by the complex world of **cat communication**. Through my experience with cats, I've learned that understanding their body language is crucial for building a strong bond. By recognizing and responding to **cat behavior signs**, we can provide our feline friends with the care and attention they deserve.
 In my experience, using positive reinforcement training has been instrumental in improving communication with my cat. By rewarding calm behavior, I've been able to strengthen our bond and reduce stress and anxiety.
-For those interested in learning more about cat body language, I recommend checking out the [PetPaw Body Language Guide for Cat Owners](https://www.amazon.com/PetPaw-Body-Language-Guide-Cat-Owners) or the [Cat Behavior and Psychology](https://www.amazon.com/Cat-Behavior-and-Psychology) book.
+For those interested in learning more about cat body language, I recommend checking out the [PetPaw Body Language Guide for Cat Owners](https://www.amazon.com/PetPaw-Body-Language-Guide-Cat-Owners?tag=vds96-20) or the [Cat Behavior and Psychology](https://www.amazon.com/Cat-Behavior-and-Psychology?tag=vds96-20) book.
 
 
 
@@ -88,7 +88,7 @@ Here are some concrete actions you can take to better understand your cat's emot
 * Use positive reinforcement training to reward calm behavior.
 * Provide a stimulating environment and engage in play to increase happiness and contentment.
 * Recognize and respond to common cat behavior signs, such as tail postures and ear postures.
-* Check out resources like the [PetPaw Body Language Guide for Cat Owners](https://www.amazon.com/PetPaw-Body-Language-Guide-Cat-Owners) or the [Cat Behavior and Psychology](https://www.amazon.com/Cat-Behavior-and-Psychology) book to learn more about cat body language.
+* Check out resources like the [PetPaw Body Language Guide for Cat Owners](https://www.amazon.com/PetPaw-Body-Language-Guide-Cat-Owners?tag=vds96-20) or the [Cat Behavior and Psychology](https://www.amazon.com/Cat-Behavior-and-Psychology?tag=vds96-20) book to learn more about cat body language.
 * Consult with a veterinarian or animal behaviorist for personalized advice on understanding and responding to your cat's emotions.
 
 

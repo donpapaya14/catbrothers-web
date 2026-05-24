@@ -69,7 +69,7 @@ There are alternative thickening agents and stabilizers that can be used in cat 
 ### How can I avoid carrageenan in cat food?
 To avoid carrageenan, cat owners can read the ingredient labels carefully and look for certifications such as Grain-Free or Limited Ingredient Diet. According to the American Animal Hospital Association (AAHA) (2020), cat owners should also check the product's website for more information on ingredients and manufacturing process.
 ### What is the best cat food without carrageenan?
-Some cat food brands that do not contain carrageenan include [Now Fresh Grain-Free Cat Food](https://www.amazon.com/Now-Fresh-Grain-Free-Cat-Food) and [Taste of the Wild High Prairie Cat Food](https://www.amazon.com/Taste-Wild-High-Prairie-Cat-Food).
+Some cat food brands that do not contain carrageenan include [Now Fresh Grain-Free Cat Food](https://www.amazon.com/Now-Fresh-Grain-Free-Cat-Food?tag=vds96-20) and [Taste of the Wild High Prairie Cat Food](https://www.amazon.com/Taste-Wild-High-Prairie-Cat-Food?tag=vds96-20).
 
 ## My Take
 As a professional chef and app developer, I have always been interested in the ingredients used in pet food. When I adopted my cat, I was shocked to learn about the potential health risks associated with carrageenan. I started reading the ingredient labels carefully and looking for alternative ingredients such as xanthan gum or guar gum. I also started cooking my cat's food from scratch using fresh ingredients. I highly recommend [ Now Fresh Grain-Free Cat Food en Amazon](https://www.amazon.com/s?k=+Now+Fresh+Grain-Free+Cat+Food&tag=vds96-20) and [ Taste of the Wild High Prairie Cat Food en Amazon](https://www.amazon.com/s?k=+Taste+of+the+Wild+High+Prairie+Cat+Food&tag=vds96-20) for cat owners who want to avoid carrageenan.
@@ -91,7 +91,7 @@ Here are some concrete actions that cat owners can take to avoid carrageenan in 
 * Check the product's website for more information on ingredients and manufacturing process
 * Cook your cat's food from scratch using fresh ingredients
 * Consult with your veterinarian before making any changes to your cat's diet
-* Choose cat food brands that do not contain carrageenan, such as [Now Fresh Grain-Free Cat Food](https://www.amazon.com/Now-Fresh-Grain-Free-Cat-Food) and [Taste of the Wild High Prairie Cat Food](https://www.amazon.com/Taste-Wild-High-Prairie-Cat-Food)
+* Choose cat food brands that do not contain carrageenan, such as [Now Fresh Grain-Free Cat Food](https://www.amazon.com/Now-Fresh-Grain-Free-Cat-Food?tag=vds96-20) and [Taste of the Wild High Prairie Cat Food](https://www.amazon.com/Taste-Wild-High-Prairie-Cat-Food?tag=vds96-20)
 
 
 ---

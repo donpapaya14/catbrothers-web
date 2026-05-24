@@ -23,8 +23,8 @@ Proper **cat dental care** is crucial for maintaining your cat's overall health,
 
 ## Cat Teeth Cleaning: Step-by-Step Guide
 To keep your cat's teeth clean, you'll need to brush them regularly. Here's a step-by-step guide:
-1. **Choose the right toothbrush**: Select a toothbrush specifically designed for cats, such as the [Virbac C.E.T. Toothbrush for Cats](https://www.amazon.com/Virbac-C-E-T-Toothbrush-Cats).
-2. **Use a cat-specific toothpaste**: Never use human toothpaste on your cat, as it can be toxic. Instead, opt for a toothpaste specifically designed for cats, such as [Virbac C.E.T. Toothpaste](https://www.amazon.com/Virbac-C-E-T-Toothpaste).
+1. **Choose the right toothbrush**: Select a toothbrush specifically designed for cats, such as the [Virbac C.E.T. Toothbrush for Cats](https://www.amazon.com/Virbac-C-E-T-Toothbrush-Cats?tag=vds96-20).
+2. **Use a cat-specific toothpaste**: Never use human toothpaste on your cat, as it can be toxic. Instead, opt for a toothpaste specifically designed for cats, such as [Virbac C.E.T. Toothpaste](https://www.amazon.com/Virbac-C-E-T-Toothpaste?tag=vds96-20).
 3. **Brush gently**: Brush your cat's teeth gently, focusing on the areas where the teeth and gums meet.
 As recommended by the Veterinary Information Network (VIN), brushing your cat's teeth daily can help reduce the risk of periodontal disease.
 
@@ -54,7 +54,7 @@ According to the American Animal Hospital Association (AAHA), regular dental cle
 ## Home Care and Prevention
 To maintain your cat's oral health at home, follow these tips:
 1. **Brush your cat's teeth daily**: Use a cat-specific toothbrush and toothpaste to brush your cat's teeth.
-2. **Provide dental chews**: Offer your cat dental chews, such as [Greenies Dental Chews](https://www.amazon.com/Greenies-Dental-Chews), to help remove plaque and tartar.
+2. **Provide dental chews**: Offer your cat dental chews, such as [Greenies Dental Chews](https://www.amazon.com/Greenies-Dental-Chews?tag=vds96-20), to help remove plaque and tartar.
 3. **Schedule regular check-ups**: Take your cat to the veterinarian for regular dental check-ups to catch any problems early.
 As recommended by the International Journal of Veterinary Dentistry, a combination of home care and professional dental cleanings can help support your cat's oral health.
 
@@ -87,10 +87,10 @@ By taking a proactive approach to **feline dental care**, you can help prevent d
 ## Practical Summary
 Here are some concrete steps you can take to support your cat's dental health:
 * Brush your cat's teeth daily using a cat-specific toothbrush and toothpaste
-* Provide your cat with dental chews, such as [Greenies Dental Chews](https://www.amazon.com/Greenies-Dental-Chews)
+* Provide your cat with dental chews, such as [Greenies Dental Chews](https://www.amazon.com/Greenies-Dental-Chews?tag=vds96-20)
 * Schedule regular dental check-ups with your veterinarian
 * Feed your cat a balanced diet that includes dental-friendly ingredients
-* Consider using a water additive, such as [Oratene Water Additive](https://www.amazon.com/Oratene-Water-Additive), to help support your cat's oral health
+* Consider using a water additive, such as [Oratene Water Additive](https://www.amazon.com/Oratene-Water-Additive?tag=vds96-20), to help support your cat's oral health
 * Monitor your cat's dental health and seek professional help if you notice any signs of dental problems
 By following these steps, you can help keep your cat's teeth clean and healthy, and support their overall health and wellbeing.
 

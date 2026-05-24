@@ -45,7 +45,7 @@ As advised by Veterinary Partner (2020), these lifestyle modifications can help 
 Other interesting cat fart-related records include the **longest cat meow**, which lasted **1 hour and 23 minutes**, and the **loudest cat purr**, which reached **67.8 decibels**. According to Guinness World Records (various years), these records showcase the unique abilities of cats.
 
 ## Cat Fart-Themed Products and Merchandise
-A selection of fun and quirky cat-themed products inspired by the record-breaking cat fart includes a **Cat fart-themed t-shirt** (e.g., 'I survived the longest cat fart record') and a **cat-shaped whoopee cushion**. As seen on [Amazon product listings (various sellers)](https://www.amazon.com), these products are available for purchase.
+A selection of fun and quirky cat-themed products inspired by the record-breaking cat fart includes a **Cat fart-themed t-shirt** (e.g., 'I survived the longest cat fart record') and a **cat-shaped whoopee cushion**. As seen on [Amazon product listings (various sellers)](https://amazon.com/?tag=vds96-20), these products are available for purchase.
 
 ## Frequently Asked Questions
 ### What is the average duration of a cat fart?

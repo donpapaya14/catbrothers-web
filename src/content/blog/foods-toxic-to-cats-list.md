@@ -70,8 +70,8 @@ If your cat is vomiting, it is essential to seek veterinary attention immediatel
 The best food for your cat depends on their individual needs and health status. According to the American Veterinary Medical Association, a veterinarian can help you create a customized diet plan for your cat.
 
 ## My Take
-As an app developer and professional chef, I have always been passionate about animal welfare and nutrition. When I adopted my cat, Luna, I was shocked to learn about the dangers of common household foods. I made it my mission to educate myself and others about **foods toxic to cats**. I highly recommend consulting with a veterinarian and reading [The Complete Guide to Cat Nutrition](https://www.amazon.com/Complete-Guide-Cat-Nutrition) for personalized advice and guidance.
-For cat owners who want to provide their cats with a healthy and balanced diet, I recommend checking out [ Hill's Science Diet en Amazon](https://www.amazon.com/s?k=+Hill's+Science+Diet&tag=vds96-20)(https://www.amazon.com/Hills-Science-Diet) and [ Royal Canin en Amazon](https://www.amazon.com/s?k=+Royal+Canin&tag=vds96-20)(https://www.amazon.com/Royal-Canin).
+As an app developer and professional chef, I have always been passionate about animal welfare and nutrition. When I adopted my cat, Luna, I was shocked to learn about the dangers of common household foods. I made it my mission to educate myself and others about **foods toxic to cats**. I highly recommend consulting with a veterinarian and reading [The Complete Guide to Cat Nutrition](https://www.amazon.com/Complete-Guide-Cat-Nutrition?tag=vds96-20) for personalized advice and guidance.
+For cat owners who want to provide their cats with a healthy and balanced diet, I recommend checking out [ Hill's Science Diet en Amazon](https://www.amazon.com/s?k=+Hill's+Science+Diet&tag=vds96-20)(https://www.amazon.com/Hills-Science-Diet?tag=vds96-20) and [ Royal Canin en Amazon](https://www.amazon.com/s?k=+Royal+Canin&tag=vds96-20)(https://www.amazon.com/Royal-Canin?tag=vds96-20).
 
 
 
@@ -89,8 +89,8 @@ Here are some concrete steps you can take to keep your cat safe:
 * Supervise your cat during meals
 * Consult with a veterinarian for personalized dietary advice and poison prevention
 * Keep the ASPCA's Animal Poison Control Center and Pet Poison Helpline phone numbers handy in case of an emergency
-* Read [The Complete Guide to Cat Nutrition](https://www.amazon.com/Complete-Guide-Cat-Nutrition) for personalized advice and guidance
-* Check out [ Hill's Science Diet en Amazon](https://www.amazon.com/s?k=+Hill's+Science+Diet&tag=vds96-20)(https://www.amazon.com/Hills-Science-Diet) and [ Royal Canin en Amazon](https://www.amazon.com/s?k=+Royal+Canin&tag=vds96-20)(https://www.amazon.com/Royal-Canin) for healthy and balanced cat food options
+* Read [The Complete Guide to Cat Nutrition](https://www.amazon.com/Complete-Guide-Cat-Nutrition?tag=vds96-20) for personalized advice and guidance
+* Check out [ Hill's Science Diet en Amazon](https://www.amazon.com/s?k=+Hill's+Science+Diet&tag=vds96-20)(https://www.amazon.com/Hills-Science-Diet?tag=vds96-20) and [ Royal Canin en Amazon](https://www.amazon.com/s?k=+Royal+Canin&tag=vds96-20)(https://www.amazon.com/Royal-Canin?tag=vds96-20) for healthy and balanced cat food options
 
 
 ---

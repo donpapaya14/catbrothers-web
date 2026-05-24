@@ -46,7 +46,7 @@ Different breeds of cats exhibit varying levels of kneading intensity. According
 
 ## When Kneading Becomes Problematic
 Excessive kneading can damage fabrics and become a problem for cat owners. To redirect this behavior, follow these steps:
-1. **Provide alternative scratching surfaces**, such as the [PetFusion Ultimate Cat Scratcher Lounge](https://www.amazon.com)
+1. **Provide alternative scratching surfaces**, such as the [PetFusion Ultimate Cat Scratcher Lounge](https://amazon.com/?tag=vds96-20)
 2. **Trim your cat's nails regularly** to prevent damage
 3. **Reward calm behavior** with treats and praise
 
@@ -60,7 +60,7 @@ Cats knead with their front paws to **stimulate milk flow** in their mother's be
 ### Can kneading be a sign of anxiety?
 Yes, kneading can be a sign of **anxiety or stress** in cats. According to a study published in the International Journal of Environmental Research and Public Health (2020), **kneading duration** can be an indicator of a cat's emotional state.
 ### How can I redirect excessive kneading?
-To redirect excessive kneading, provide **alternative scratching surfaces**, such as the [PetFusion Ultimate Cat Scratcher Lounge](https://www.amazon.com), and **trim your cat's nails regularly**.
+To redirect excessive kneading, provide **alternative scratching surfaces**, such as the [PetFusion Ultimate Cat Scratcher Lounge](https://amazon.com/?tag=vds96-20), and **trim your cat's nails regularly**.
 ### What are some warning signs of compulsive kneading?
 Warning signs of compulsive kneading include **kneading for more than 10 minutes** at a time, **kneading in multiple locations**, and **kneading accompanied by other signs of stress**.
 
@@ -82,7 +82,7 @@ In conclusion, cat kneading is a complex behavior that can be influenced by a va
 
 ## Practical Summary
 Here are some concrete actions you can take to understand and address cat kneading:
-* Provide **alternative scratching surfaces**, such as the [PetFusion Ultimate Cat Scratcher Lounge](https://www.amazon.com)
+* Provide **alternative scratching surfaces**, such as the [PetFusion Ultimate Cat Scratcher Lounge](https://amazon.com/?tag=vds96-20)
 * **Trim your cat's nails regularly** to prevent damage
 * Recognize the **warning signs of compulsive kneading**, such as kneading for more than 10 minutes at a time
 * Understand the **kitten nursing instinct** and **scent marking** behaviors behind cat kneading

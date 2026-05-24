@@ -27,7 +27,7 @@ Data from the [World Health Organization](https://www.who.int) shows that poor i
 Here are three compact litter box designs that are perfect for small apartments:
 | Litter Box | Dimensions | Weight |
 | --- | --- | --- |
-| [PetSafe ScoopFree Complete Plus Self-Cleaning Cat Litter Box](https://www.amazon.com) | 19.1 x 14.8 x 6.9 inches | 13.5 lbs |
+| [PetSafe ScoopFree Complete Plus Self-Cleaning Cat Litter Box](https://amazon.com/?tag=vds96-20) | 19.1 x 14.8 x 6.9 inches | 13.5 lbs |
 | Nature's Miracle Advanced Odor-Control Litter Box | 20 x 15 x 7 inches | 15 lbs |
 | IRIS USA Cat Litter Box with Odor-Absorbing Filter | 18.5 x 14.5 x 6.5 inches | 12 lbs |
 These designs are not only compact but also feature **space-saving** mechanisms to minimize odor.

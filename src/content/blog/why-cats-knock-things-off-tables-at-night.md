@@ -85,8 +85,8 @@ Here are some practical tips to reduce table knocking behavior in your cat:
 * Establish a **consistent feeding schedule** and **playtime routine** to reduce stress and anxiety.
 * Create a **calming environment** by reducing noise and stress.
 * Offer **treats and rewards** for good behavior to reinforce positive behavior.
-* Consider using the [SmartCat Multi-Level Cat Tree, 56-Inch](https://www.amazon.com/SmartCat-Multi-Level-Cat-Tree) to provide vertical space and stimulation for your cat.
-* Try the [Yeowww! Catnip Toy](https://www.amazon.com/Yeowww-Catnip-Toy) to engage your cat in prey-related play and reduce table knocking behavior.
+* Consider using the [SmartCat Multi-Level Cat Tree, 56-Inch](https://www.amazon.com/SmartCat-Multi-Level-Cat-Tree?tag=vds96-20) to provide vertical space and stimulation for your cat.
+* Try the [Yeowww! Catnip Toy](https://www.amazon.com/Yeowww-Catnip-Toy?tag=vds96-20) to engage your cat in prey-related play and reduce table knocking behavior.
 
 
 ---

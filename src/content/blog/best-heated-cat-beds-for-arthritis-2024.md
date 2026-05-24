@@ -39,7 +39,7 @@ Here is a side-by-side analysis of the top 3 heated cat bed models:
 | PetFusion Ultimate | 6W | Orthopedic + heat, premium materials |
 | MidWest Deluxe | 8W | Best for large cats, extra support |
 
-These models are compared based on [Amazon performance data & customer reviews](https://www.amazon.com).
+These models are compared based on [Amazon performance data & customer reviews](https://amazon.com/?tag=vds96-20).
 
 ## Energy Efficiency Breakdown
 The energy efficiency of heated cat beds can vary depending on the model and features. According to [EnergyStar small appliance ratings](https://www.energystar.gov), the cost-per-month calculations for these models are:

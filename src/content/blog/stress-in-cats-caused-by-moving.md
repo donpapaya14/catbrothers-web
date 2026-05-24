@@ -45,7 +45,7 @@ Managing long-term stress in cats after a move requires ongoing monitoring and s
 3. Consider consulting a veterinarian or animal behaviorist for professional advice.
 
 ## Amazon Product Recommendation
-The [Feliway MultiCat Spray](https://www.amazon.com/Feliway-MultiCat-Spray) is a highly effective product in reducing cat stress caused by moving. This product mimics the natural pheromones that mother cats produce to calm their kittens, providing a sense of security and comfort for cats in stressful situations. Additionally, the [Spray with Pheromones](https://www.amazon.com/Spray-with-Pheromones) can be used in conjunction with Feliway to provide a comprehensive stress-reduction plan for cats.
+The [Feliway MultiCat Spray](https://www.amazon.com/Feliway-MultiCat-Spray?tag=vds96-20) is a highly effective product in reducing cat stress caused by moving. This product mimics the natural pheromones that mother cats produce to calm their kittens, providing a sense of security and comfort for cats in stressful situations. Additionally, the [Spray with Pheromones](https://www.amazon.com/Spray-with-Pheromones?tag=vds96-20) can be used in conjunction with Feliway to provide a comprehensive stress-reduction plan for cats.
 
 ## Frequently Asked Questions
 ### How can I reduce my cat's stress during a move?

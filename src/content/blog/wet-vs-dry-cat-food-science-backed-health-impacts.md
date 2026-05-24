@@ -38,7 +38,7 @@ The idea that **dry food** helps to clean a cat's teeth is a common myth. In rea
 When it comes to **weight management**, the **calorie density** of food is crucial. **Dry food** is approximately **4x more calorie-dense** per gram than **wet food**, making it easier to overfeed your cat. To manage your cat's weight, follow these portion control strategies:
 1. Measure your cat's food portions accurately.
 2. Adjust the amount of food based on your cat's age, size, and activity level.
-3. Consider a **weight management** formula, such as [Weruva Cats in the Kitchen Wet Food Variety Pack](https://www.amazon.com/Weruva-Cats-Kitchen-Wet-Food-Variety-Pack).
+3. Consider a **weight management** formula, such as [Weruva Cats in the Kitchen Wet Food Variety Pack](https://www.amazon.com/Weruva-Cats-Kitchen-Wet-Food-Variety-Pack?tag=vds96-20).
 
 ## Cost Analysis: Annual Spending Breakdown
 The cost of **wet vs dry cat food** can vary significantly. According to the [Pet Nutrition Alliance Calculator](https://www.petnutritionalliance.org), the annual cost of **premium wet food** can range from $500 to $1,000, while **dry food** can cost between $200 to $500. However, the potential **vet bill savings** from the benefits of **wet food** can offset the higher cost.
@@ -75,7 +75,7 @@ As an app developer and professional chef, I have always been passionate about p
 
 In my experience, transitioning my cats to a **wet food diet** has been a game-changer. Their coats are shinier, their energy levels are higher, and they seem to be enjoying their meals more. Of course, every cat is different, and it's essential to consult with a veterinarian before making any significant changes to your cat's diet.
 
-As a chef, I appreciate the variety of **wet food options** available, from **grain-free** to **limited ingredient diets**. I have found that [Weruva Cats in the Kitchen Wet Food Variety Pack](https://www.amazon.com/Weruva-Cats-Kitchen-Wet-Food-Variety-Pack) is an excellent choice, offering a range of flavors and textures that my cats love. Additionally, I recommend pairing it with [Greenies Dental Chews](https://www.amazon.com/Greenies-Dental-Chews) for optimal oral health.
+As a chef, I appreciate the variety of **wet food options** available, from **grain-free** to **limited ingredient diets**. I have found that [Weruva Cats in the Kitchen Wet Food Variety Pack](https://www.amazon.com/Weruva-Cats-Kitchen-Wet-Food-Variety-Pack?tag=vds96-20) is an excellent choice, offering a range of flavors and textures that my cats love. Additionally, I recommend pairing it with [Greenies Dental Chews](https://www.amazon.com/Greenies-Dental-Chews?tag=vds96-20) for optimal oral health.
 
 
 

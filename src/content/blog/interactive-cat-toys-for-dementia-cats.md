@@ -29,7 +29,7 @@ Environmental enrichment plays a crucial role in slowing down dementia in cats. 
 3. Engage your cat's sense of smell with **scent work** activities.
 
 ## Interactive Toys for Cognitive Stimulation
-Interactive toys can cater to different cognitive abilities and interests. The International Association of Animal Behavior Consultants 2020 recommends puzzle toys, treat-dispensing toys, and sensory toys. For example, the [Outward Hound Sensory Maze Interactive Dog Puzzle Toy](https://www.amazon.com/Outward-Hound-Sensory-Maze-Interactive/dp/B076MX9RYG) can be used for cats as well.
+Interactive toys can cater to different cognitive abilities and interests. The International Association of Animal Behavior Consultants 2020 recommends puzzle toys, treat-dispensing toys, and sensory toys. For example, the [Outward Hound Sensory Maze Interactive Dog Puzzle Toy](https://www.amazon.com/Outward-Hound-Sensory-Maze-Interactive/dp/B076MX9RYG?tag=vds96-20) can be used for cats as well.
 
 | Toy Type | Description | Benefits |
 | --- | --- | --- |

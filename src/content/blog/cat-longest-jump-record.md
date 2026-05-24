@@ -56,12 +56,12 @@ Common health conditions that can affect a cat's jumping ability include **arthr
 ### Can cats jump higher than dogs?
 Yes, cats are generally able to jump higher than dogs due to their powerful leg muscles and flexible spine. However, the exact jumping ability of a cat or dog can vary depending on the individual animal and its level of athleticism.
 ### What is the best way to provide exercise for my cat?
-The best way to provide exercise for your cat is to engage them in play activities that stimulate their natural hunting instincts, such as chasing a laser pointer or playing with a feather toy like the [GoCat DaBird Pull Apart Rod](https://www.amazon.com/GoCat-DaBird-Pull-Apart-Rod).
+The best way to provide exercise for your cat is to engage them in play activities that stimulate their natural hunting instincts, such as chasing a laser pointer or playing with a feather toy like the [GoCat DaBird Pull Apart Rod](https://www.amazon.com/GoCat-DaBird-Pull-Apart-Rod?tag=vds96-20).
 ### How can I prevent my cat from getting injured while jumping?
 To prevent your cat from getting injured while jumping, ensure that the area is free from obstacles and hazards, and provide a safe and stable surface for them to jump from and to. Supervise your cat at all times when they are jumping, and consult with your veterinarian if you have any concerns about their jumping ability.
 
 ## My Take
-As an app developer and professional chef, I have always been fascinated by the unique abilities of cats. One of my favorite hobbies is watching my cat, Luna, jump and play in the backyard. I have found that providing her with a variety of toys and play activities, such as the [GoCat DaBird Pull Apart Rod](https://www.amazon.com/GoCat-DaBird-Pull-Apart-Rod) and [KONG Wobbler](https://www.amazon.com/KONG-Wobbler), helps to keep her active and engaged.
+As an app developer and professional chef, I have always been fascinated by the unique abilities of cats. One of my favorite hobbies is watching my cat, Luna, jump and play in the backyard. I have found that providing her with a variety of toys and play activities, such as the [GoCat DaBird Pull Apart Rod](https://www.amazon.com/GoCat-DaBird-Pull-Apart-Rod?tag=vds96-20) and [KONG Wobbler](https://www.amazon.com/KONG-Wobbler?tag=vds96-20), helps to keep her active and engaged.
 I also appreciate the importance of safety precautions when encouraging cats to jump. As a responsible cat owner, it's essential to ensure that the area is free from obstacles and hazards, and to supervise your cat at all times when they are jumping.
 In conclusion, the **cat longest jump record** is an impressive feat that requires a combination of strength, agility, and training. By providing your cat with a safe and stimulating environment, and engaging them in play activities that stimulate their natural hunting instincts, you can help to promote their overall health and well-being.
 
@@ -81,8 +81,8 @@ Here are some concrete action bullets to promote your cat's jumping ability and 
 * Supervise your cat at all times when they are jumping
 * Ensure that the area is free from obstacles and hazards
 * Consult with your veterinarian if you have any concerns about your cat's jumping ability
-* Provide your cat with a variety of toys and play activities, such as the [GoCat DaBird Pull Apart Rod](https://www.amazon.com/GoCat-DaBird-Pull-Apart-Rod) and [KONG Wobbler](https://www.amazon.com/KONG-Wobbler)
-* Consider using complementary products, such as [Furbo Interactive Dog Camera](https://www.amazon.com/Furbo-Interactive-Dog-Camera), to provide your cat with mental stimulation and entertainment
+* Provide your cat with a variety of toys and play activities, such as the [GoCat DaBird Pull Apart Rod](https://www.amazon.com/GoCat-DaBird-Pull-Apart-Rod?tag=vds96-20) and [KONG Wobbler](https://www.amazon.com/KONG-Wobbler?tag=vds96-20)
+* Consider using complementary products, such as [Furbo Interactive Dog Camera](https://www.amazon.com/Furbo-Interactive-Dog-Camera?tag=vds96-20), to provide your cat with mental stimulation and entertainment
 
 
 ---

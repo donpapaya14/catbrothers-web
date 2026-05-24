@@ -28,7 +28,7 @@ The link between age-related decline in sensory abilities, pain, and cognitive d
 Identifying the unique stress indicators in senior cats is crucial for providing proper care. According to Lindsay (2009), **increased vocalization**, **changes in appetite**, and **altered elimination habits** are common signs of stress in senior cats. 
 
 ## Sensory Stimulation for Stress Relief
-Sensory enrichment programs can be beneficial for reducing stress in senior cats. Bekoff (2013) suggests that **pheromone therapy**, **calming music**, and **touch-based interventions** can help alleviate stress in senior cats. For example, [Feliway MultiCat Calming Pheromone Spray for Cats](https://www.amazon.com/Feliway-MultiCat-Calming-Pheromone-Spray) can be used to create a calming environment.
+Sensory enrichment programs can be beneficial for reducing stress in senior cats. Bekoff (2013) suggests that **pheromone therapy**, **calming music**, and **touch-based interventions** can help alleviate stress in senior cats. For example, [Feliway MultiCat Calming Pheromone Spray for Cats](https://www.amazon.com/Feliway-MultiCat-Calming-Pheromone-Spray?tag=vds96-20) can be used to create a calming environment.
 
 ## Environmental Modifications for Stress Reduction
 Creating a stress-free environment for senior cats is essential. The American Association of Feline Practitioners (2018) recommends **reducing noise levels**, **maintaining a stable routine**, and **providing accessible litter boxes** to minimize stress. Here are some practical steps to follow:
@@ -65,7 +65,7 @@ Early detection and intervention are crucial in managing stress in senior cats, 
 
 ## My Take
 As an app developer and professional chef, I have always been passionate about animal welfare. My experience with senior cats has taught me the importance of providing a stress-free environment and implementing effective stress relief methods. I have seen firsthand the positive impact that **pheromone therapy** and **calming music** can have on reducing stress in senior cats.
-In my personal experience, I have found that creating a predictable routine and providing accessible resources can go a long way in reducing stress in senior cats. I have also seen the benefits of using [Feliway MultiCat Calming Pheromone Spray for Cats](https://www.amazon.com/Feliway-MultiCat-Calming-Pheromone-Spray) in conjunction with other stress relief methods.
+In my personal experience, I have found that creating a predictable routine and providing accessible resources can go a long way in reducing stress in senior cats. I have also seen the benefits of using [Feliway MultiCat Calming Pheromone Spray for Cats](https://www.amazon.com/Feliway-MultiCat-Calming-Pheromone-Spray?tag=vds96-20) in conjunction with other stress relief methods.
 As a cat owner, it is essential to be aware of the common signs of stress in senior cats and to take proactive steps to manage stress. By working with a veterinarian and implementing effective stress relief methods, you can help improve the quality of life for your senior cat.
 
 
@@ -86,7 +86,7 @@ Here are some concrete actions you can take to help manage stress in your senior
 * Work with a veterinarian to determine the best treatment plan for your senior cat
 * Monitor your senior cat's behavior and adjust your stress relief methods as needed
 * Provide a stable and predictable environment to reduce stress and anxiety
-* Consider using [Feliway MultiCat Calming Pheromone Spray for Cats](https://www.amazon.com/Feliway-MultiCat-Calming-Pheromone-Spray) in conjunction with other stress relief methods
+* Consider using [Feliway MultiCat Calming Pheromone Spray for Cats](https://www.amazon.com/Feliway-MultiCat-Calming-Pheromone-Spray?tag=vds96-20) in conjunction with other stress relief methods
 
 
 ---

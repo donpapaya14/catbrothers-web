@@ -106,9 +106,9 @@ As an app developer and professional chef, I've had my fair share of experiences
 
 **Amazon Products**
 * Feliway MultiCat Diffuser: This diffuser helps to reduce stress and anxiety in cats by mimicking the calming scent of pheromones.
-* [ Feliway MultiCat Diffuser en Amazon](https://www.amazon.com/s?k=+Feliway+MultiCat+Diffuser&tag=vds96-20)(https://www.amazon.com/Feliway-MultiCat-Diffuser-Reduces-Stress-Anxiety/)
+* [ Feliway MultiCat Diffuser en Amazon](https://www.amazon.com/s?k=+Feliway+MultiCat+Diffuser&tag=vds96-20)(https://www.amazon.com/Feliway-MultiCat-Diffuser-Reduces-Stress-Anxiety/?tag=vds96-20)
 * PetSafe Calming Pheromone Spray: This spray helps to reduce stress and anxiety in cats by mimicking the calming scent of pheromones.
-* [ PetSafe Calming Pheromone Spray en Amazon](https://www.amazon.com/s?k=+PetSafe+Calming+Pheromone+Spray&tag=vds96-20)(https://www.amazon.com/PetSafe-Calming-Pheromone-Spray-Reduces-Stress-Anxiety/)
+* [ PetSafe Calming Pheromone Spray en Amazon](https://www.amazon.com/s?k=+PetSafe+Calming+Pheromone+Spray&tag=vds96-20)(https://www.amazon.com/PetSafe-Calming-Pheromone-Spray-Reduces-Stress-Anxiety/?tag=vds96-20)
 
 **Sources**
 * International Cat Care (2022). Introduction to Cats.

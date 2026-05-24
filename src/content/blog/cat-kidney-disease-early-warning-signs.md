@@ -68,7 +68,7 @@ The early signs of cat kidney disease can be subtle, but they may include increa
 While there is no guaranteed way to prevent cat kidney disease, you can reduce the risk by feeding your cat a balanced diet and ensuring they have access to fresh water at all times. The [World Health Organization](https://www.who.int) recommends a diet rich in protein and low in phosphorus to support kidney health.
 
 ### What is the best food for cats with kidney disease?
-The best food for cats with kidney disease is a balanced diet that is low in protein and phosphorus. [Purina Pro Plan Veterinary Diets NF Kidney Function Wet Cat Food](https://www.amazon.com/Purina-Pro-Plan-Veterinary-Diets) is a good option, as it is specifically formulated to support kidney health. You can also consider [Hill's Science Diet Kidney Care](https://www.amazon.com/Hill-Science-Diet-Kidney-Care) or [Royal Canin Renal LP](https://www.amazon.com/Royal-Canin-Renal-LP).
+The best food for cats with kidney disease is a balanced diet that is low in protein and phosphorus. [Purina Pro Plan Veterinary Diets NF Kidney Function Wet Cat Food](https://www.amazon.com/Purina-Pro-Plan-Veterinary-Diets?tag=vds96-20) is a good option, as it is specifically formulated to support kidney health. You can also consider [Hill's Science Diet Kidney Care](https://www.amazon.com/Hill-Science-Diet-Kidney-Care?tag=vds96-20) or [Royal Canin Renal LP](https://www.amazon.com/Royal-Canin-Renal-LP?tag=vds96-20).
 
 ### Can cats with kidney disease still have a good quality of life?
 Yes, cats with kidney disease can still have a good quality of life with proper care and management. According to the American Animal Hospital Association, cats with kidney disease can live for several years with the right diet, medication, and veterinary care.
@@ -94,7 +94,7 @@ Here are some practical steps you can take to support your cat's kidney health:
 * Ensure your cat has access to fresh water at all times
 * Monitor your cat's urine output and stool quality
 * Take your cat to the vet for regular check-ups
-* Consider adding [Purina Pro Plan Veterinary Diets NF Kidney Function Wet Cat Food](https://www.amazon.com/Purina-Pro-Plan-Veterinary-Diets) to your cat's diet
+* Consider adding [Purina Pro Plan Veterinary Diets NF Kidney Function Wet Cat Food](https://www.amazon.com/Purina-Pro-Plan-Veterinary-Diets?tag=vds96-20) to your cat's diet
 * Keep an eye out for emergency signs such as uremic breath and vomiting bile
 * Consult with your veterinarian if you have any concerns about your cat's kidney health
 

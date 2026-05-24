@@ -28,7 +28,7 @@ There are several types of cat carriers suitable for small cats, including hard-
 The **American Animal Hospital Association (AAHA)** recommends that cat carriers should have a length of at least 1.5 times the cat's body length, a width of at least 1.2 times the cat's body width, and a height of at least 1.2 times the cat's body height. For small cats under 10 pounds, a carrier with dimensions around 18 inches in length, 12 inches in width, and 12 inches in height would be suitable.
 
 ## Top-Rated Cat Carriers for Small Cats (Under 10 Pounds)
-Based on [Amazon product reviews](https://www.amazon.com), some of the top-rated cat carriers for small cats include the [PetAmi Deluxe Soft-Sided Carrier for Cats](https://www.amazon.com/PetAmi-Deluxe-Soft-Sided-Carrier) and the Sherpa Original Deluxe Pet Carrier. These carriers are known for their comfort, durability, and ease of use.
+Based on [Amazon product reviews](https://amazon.com/?tag=vds96-20), some of the top-rated cat carriers for small cats include the [PetAmi Deluxe Soft-Sided Carrier for Cats](https://www.amazon.com/PetAmi-Deluxe-Soft-Sided-Carrier?tag=vds96-20) and the Sherpa Original Deluxe Pet Carrier. These carriers are known for their comfort, durability, and ease of use.
 
 ## Choosing the Right Material: Durability and Comfort for Small Cats
 The material of the cat carrier is also an important consideration. According to the [Cornell University College of Veterinary Medicine](https://www.vet.cornell.edu), nylon and polyester are popular materials for cat carriers due to their durability and ease of cleaning. However, mesh materials can provide better ventilation and visibility for cats.
@@ -45,7 +45,7 @@ To enhance the travel experience for small cats, several accessories can be usef
 
 ## Frequently Asked Questions
 ### What are the best cat carriers for small cats under 10 pounds?
-The best cat carriers for small cats under 10 pounds are those that balance protection and comfort, such as the [PetAmi Deluxe Soft-Sided Carrier for Cats](https://www.amazon.com/PetAmi-Deluxe-Soft-Sided-Carrier) and the Sherpa Original Deluxe Pet Carrier.
+The best cat carriers for small cats under 10 pounds are those that balance protection and comfort, such as the [PetAmi Deluxe Soft-Sided Carrier for Cats](https://www.amazon.com/PetAmi-Deluxe-Soft-Sided-Carrier?tag=vds96-20) and the Sherpa Original Deluxe Pet Carrier.
 ### How do I acclimate my small cat to a cat carrier?
 Acclimating a small cat to a cat carrier involves introducing the carrier gradually, starting with short periods of time and rewarding the cat with treats and praise.
 ### What are the key dimensions for a comfortable cat carrier?
@@ -55,10 +55,10 @@ The best materials for cat carriers are those that are durable, easy to clean, a
 ### How can I reduce stress during travel with my small cat?
 Reducing stress during travel with a small cat involves using accessories such as harnesses, pads, and toys, and introducing the carrier gradually to acclimate the cat.
 ### What are some top-rated cat carriers for small cats?
-Some top-rated cat carriers for small cats include the [PetAmi Deluxe Soft-Sided Carrier for Cats](https://www.amazon.com/PetAmi-Deluxe-Soft-Sided-Carrier) and the Sherpa Original Deluxe Pet Carrier.
+Some top-rated cat carriers for small cats include the [PetAmi Deluxe Soft-Sided Carrier for Cats](https://www.amazon.com/PetAmi-Deluxe-Soft-Sided-Carrier?tag=vds96-20) and the Sherpa Original Deluxe Pet Carrier.
 
 ## My Take
-As an app developer and professional chef, I have always been passionate about animal welfare and ensuring that my pets are comfortable and safe during travel. When I adopted my small cat, I knew that choosing the right cat carrier was crucial for her comfort and safety. After researching and trying out different carriers, I found that the [PetAmi Deluxe Soft-Sided Carrier for Cats](https://www.amazon.com/PetAmi-Deluxe-Soft-Sided-Carrier) was the best option for my cat. It was comfortable, durable, and easy to use, and my cat seemed to enjoy traveling in it.
+As an app developer and professional chef, I have always been passionate about animal welfare and ensuring that my pets are comfortable and safe during travel. When I adopted my small cat, I knew that choosing the right cat carrier was crucial for her comfort and safety. After researching and trying out different carriers, I found that the [PetAmi Deluxe Soft-Sided Carrier for Cats](https://www.amazon.com/PetAmi-Deluxe-Soft-Sided-Carrier?tag=vds96-20) was the best option for my cat. It was comfortable, durable, and easy to use, and my cat seemed to enjoy traveling in it.
 
 
 

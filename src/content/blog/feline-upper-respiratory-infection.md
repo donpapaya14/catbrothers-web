@@ -84,7 +84,7 @@ As an app developer and professional chef, I understand the importance of mainta
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, nos ayudas a mantener el blog sin coste para ti.*
 
-- [PetSafe Antiseptic Wipes for Cats and Dogs (1 count)](https://www.amazon.com/s?k=PetSafe+Antiseptic+Wipes+for+Cats+and+Dogs+(1+count)&tag=vds96-20)
+- [PetSafe Antiseptic Wipes for Cats and Dogs (1 count)](https://www.amazon.com/s?k=PetSafe+Antiseptic+Wipes+for+Cats+and+Dogs+(1+count&tag=vds96-20)&tag=vds96-20)
 - [Feliway Multicat Diffuser](https://www.amazon.com/s?k=Feliway+Multicat+Diffuser&tag=vds96-20)
 
 

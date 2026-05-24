@@ -61,10 +61,10 @@ Cats knead on their owners as a form of **communication** and **affection**. Acc
 Yes, kneading behavior can be a sign of **stress or anxiety** in cats. A study by the [University of California, Davis](https://www.ucdavis.edu) found that **30%** of cats exhibit kneading behavior when they are feeling stressed or anxious.
 
 ### How can I encourage my cat to knead?
-You can encourage your cat to knead by providing a **comfortable and secure environment**, such as a [K&H Pet Products Thermal-Nesting Cat Bed](https://www.amazon.com/K-H-Pet-Products-Thermal-Nesting-Cat-Bed). You can also try using Feliway to reduce stress and anxiety.
+You can encourage your cat to knead by providing a **comfortable and secure environment**, such as a [K&H Pet Products Thermal-Nesting Cat Bed](https://www.amazon.com/K-H-Pet-Products-Thermal-Nesting-Cat-Bed?tag=vds96-20). You can also try using Feliway to reduce stress and anxiety.
 
 ### What are some complementary products to encourage kneading behavior?
-Some complementary products to encourage kneading behavior include [SmartCat Multi-Level Cat Tower](https://www.amazon.com/SmartCat-Multi-Level-Cat-Tower) and [Armarkat Orthopedic Memory Foam Cat Bed](https://www.amazon.com/Armarkat-Orthopedic-Memory-Foam-Cat-Bed).
+Some complementary products to encourage kneading behavior include [SmartCat Multi-Level Cat Tower](https://www.amazon.com/SmartCat-Multi-Level-Cat-Tower?tag=vds96-20) and [Armarkat Orthopedic Memory Foam Cat Bed](https://www.amazon.com/Armarkat-Orthopedic-Memory-Foam-Cat-Bed?tag=vds96-20).
 
 ## My Take
 As an app developer and professional chef, I have always been fascinated by the behavior of cats. My own cat, Luna, exhibits kneading behavior on a daily basis, and I have found that it is a great way to bond with her. By providing a comfortable and secure environment, I can encourage her to knead and strengthen our relationship.
@@ -87,7 +87,7 @@ Overall, I believe that kneading behavior is an important aspect of cat behavior
 * Reward your cat with treats and praise when they exhibit kneading behavior
 * Avoid punishment or negative reinforcement, as this can create anxiety and stress
 * Recognize kneading behavior as a sign of comfort and relaxation
-* Use complementary products, such as [K&H Pet Products Thermal-Nesting Cat Bed](https://www.amazon.com/K-H-Pet-Products-Thermal-Nesting-Cat-Bed), to encourage kneading behavior
+* Use complementary products, such as [K&H Pet Products Thermal-Nesting Cat Bed](https://www.amazon.com/K-H-Pet-Products-Thermal-Nesting-Cat-Bed?tag=vds96-20), to encourage kneading behavior
 * Consider using Feliway to reduce stress and anxiety
 * Observe your cat's behavior to determine the cause of the kneading
 * Provide a calm and quiet environment to reduce stress and anxiety

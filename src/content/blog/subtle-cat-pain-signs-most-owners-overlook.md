@@ -39,7 +39,7 @@ Reluctance to jump can predict joint issues **6-12 months** before diagnosis. Re
 ## The Litter Box Clue Most Miss
 **Slight changes** in squatting angle or duration can reveal early urinary or arthritis problems. According to the [American Association of Feline Practitioners](https://www.catvets.com), monitoring litter box behavior can help identify potential health issues. 
 
-To help your cat cope with stress-related pain behaviors, consider using the [Feliway Classic Diffuser](https://www.amazon.com/Feliway-Classical-Diffuser-48ml/dp/B0002AQZZK). 
+To help your cat cope with stress-related pain behaviors, consider using the [Feliway Classic Diffuser](https://www.amazon.com/Feliway-Classical-Diffuser-48ml/dp/B0002AQZZK?tag=vds96-20). 
 
 ### Practical Advice
 Here are some steps you can take to identify and address hidden cat pain symptoms: 
@@ -55,7 +55,7 @@ The most common signs of pain in cats include changes in behavior, appetite, or 
 You can tell if your cat is in pain by monitoring their behavior and looking for changes in appetite, sleep patterns, or litter box behavior. Consult with your veterinarian if you notice any changes or signs of pain. 
 
 ### What can I do to help my cat cope with pain?
-You can help your cat cope with pain by providing a comfortable environment, monitoring their behavior, and consulting with your veterinarian. Consider using products like [Feliway Classic Diffuser](https://www.amazon.com/Feliway-Classical-Diffuser-48ml/dp/B0002AQZZK) to help reduce stress-related pain behaviors. 
+You can help your cat cope with pain by providing a comfortable environment, monitoring their behavior, and consulting with your veterinarian. Consider using products like [Feliway Classic Diffuser](https://www.amazon.com/Feliway-Classical-Diffuser-48ml/dp/B0002AQZZK?tag=vds96-20) to help reduce stress-related pain behaviors. 
 
 ### Can cats hide their pain?
 Yes, cats can hide their pain. According to a study published in the [Journal of Feline Medicine and Surgery](https://www.jfms.com) (2022), cats often exhibit subtle signs of pain that can be easy to miss. 
@@ -69,7 +69,7 @@ Common health issues that can cause pain in cats include arthritis, dental probl
 ## My Take
 As a cat owner and app developer, I've learned the importance of monitoring my cat's behavior and looking for signs of pain. By providing a comfortable environment and consulting with my veterinarian, I've been able to help my cat cope with stress-related pain behaviors. 
 
-I've also found that using products like [Feliway Classic Diffuser](https://www.amazon.com/Feliway-Classical-Diffuser-48ml/dp/B0002AQZZK) can help reduce stress-related pain behaviors. By taking a proactive approach to my cat's health, I've been able to identify potential issues early on and provide the best possible care. 
+I've also found that using products like [Feliway Classic Diffuser](https://www.amazon.com/Feliway-Classical-Diffuser-48ml/dp/B0002AQZZK?tag=vds96-20) can help reduce stress-related pain behaviors. By taking a proactive approach to my cat's health, I've been able to identify potential issues early on and provide the best possible care. 
 
 
 
@@ -85,7 +85,7 @@ Here are some concrete actions you can take to identify and address hidden cat p
 * Monitor your cat's behavior closely for changes in appetite, sleep patterns, or litter box behavior. 
 * Consult with your veterinarian if you notice any changes or signs of pain. 
 * Provide a comfortable environment with plenty of hiding spots and vertical space. 
-* Consider using products like [Feliway Classic Diffuser](https://www.amazon.com/Feliway-Classical-Diffuser-48ml/dp/B0002AQZZK) to help reduce stress-related pain behaviors. 
+* Consider using products like [Feliway Classic Diffuser](https://www.amazon.com/Feliway-Classical-Diffuser-48ml/dp/B0002AQZZK?tag=vds96-20) to help reduce stress-related pain behaviors. 
 * Take your cat to the vet at least once a year for a check-up. 
 * Look for signs of pain such as changes in behavior, appetite, or sleep patterns. 
 * Keep your cat's litter box clean and easily accessible to reduce stress and discomfort. 

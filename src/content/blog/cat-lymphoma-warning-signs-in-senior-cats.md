@@ -41,7 +41,7 @@ The diagnostic process for feline lymphoma typically involves **blood tests**, *
 While there is no guaranteed way to prevent feline lymphoma, cat owners can reduce the risk by:
 1. Feeding a **balanced diet**
 2. Providing regular **exercise** and mental stimulation
-3. Managing **stress** through environmental changes and supplements like [Omega-3 Pet Supplements for Feline Health](https://www.amazon.com/Omega-3-Pet-Supplements-Feline-Health)
+3. Managing **stress** through environmental changes and supplements like [Omega-3 Pet Supplements for Feline Health](https://www.amazon.com/Omega-3-Pet-Supplements-Feline-Health?tag=vds96-20)
 According to a study published in the [Journal of Animal Science](https://academic.oup.com/jas), a diet rich in **omega-3 fatty acids** can help reduce inflammation and improve overall health.
 
 ## Frequently Asked Questions
@@ -77,8 +77,8 @@ Here are some concrete actions you can take to support your senior cat's health:
 * Check for abdominal swelling or other physical symptoms
 * Feed a balanced diet rich in omega-3 fatty acids
 * Provide regular exercise and mental stimulation
-* Manage stress through environmental changes and supplements like [Omega-3 Pet Supplements for Feline Health](https://www.amazon.com/Omega-3-Pet-Supplements-Feline-Health)
-* Consider adding complementary products like [Feline Probiotics](https://www.amazon.com/Feline-Probiotics) to your cat's diet
+* Manage stress through environmental changes and supplements like [Omega-3 Pet Supplements for Feline Health](https://www.amazon.com/Omega-3-Pet-Supplements-Feline-Health?tag=vds96-20)
+* Consider adding complementary products like [Feline Probiotics](https://www.amazon.com/Feline-Probiotics?tag=vds96-20) to your cat's diet
 
 
 ---

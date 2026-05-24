@@ -63,7 +63,7 @@ Abnormal smell or taste can be a sign of underlying health issues. A study publi
 ### What are the most common health issues in cats?
 The most common health issues in cats include **urinary tract infections**, **kidney disease**, and **obesity**. According to the [American Animal Hospital Association](https://www.aaha.org), **61% of cats** are overweight or obese.
 ### How can I prevent health issues in my cat?
-To prevent health issues in your cat, make sure to provide a **balanced diet**, **regular exercise**, and **regular veterinary check-ups**. You can also use products like [PetSafe Litter Box with Odor Control](https://www.amazon.com/PetSafe-Litter-Box-Odor-Control) to monitor your cat's litter box behavior.
+To prevent health issues in your cat, make sure to provide a **balanced diet**, **regular exercise**, and **regular veterinary check-ups**. You can also use products like [PetSafe Litter Box with Odor Control](https://www.amazon.com/PetSafe-Litter-Box-Odor-Control?tag=vds96-20) to monitor your cat's litter box behavior.
 ### What are the signs of kidney disease in cats?
 The signs of kidney disease in cats include **increased thirst**, **increased urination**, and **weight loss**. According to the [International Cat Care](https://icatcare.org), **1 in 3 cats** will develop kidney disease in their lifetime.
 ### How can I monitor my cat's health?
